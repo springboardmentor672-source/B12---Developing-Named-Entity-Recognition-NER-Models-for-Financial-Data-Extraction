@@ -1,0 +1,1071 @@
+9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com website www.tcs.com
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Corporate Identity No. (CIN): L22210MH1995PLC084781
+TCS/BM/4/SE/2025-26
+April 10, 2025
+National Stock Exchange of India Limited BSE Limited
+Exchange Plaza, C-1, Block G, Bandra Kurla P. J. Towers,
+Complex, Bandra (East) Dalal Street,
+Mumbai - 400051 Mumbai - 400001
+Symbol - TCS Scrip Code No. 532540
+Dear Sirs,
+Sub: Financial Results for the year ended March 31, 2025 and Recommendation of a
+Final Dividend
+We enclose the audited standalone financial results of the Company and audited consolidated
+financial results of the Company and its subsidiaries for the year ended March 31, 2025, under
+Ind AS ("the Statement"), which have been approved and taken on record at a meeting of the Board
+of Directors of the Company held today.
+We would like to state that B S R & Co. LLP, statutory auditors of the Company, have issued audit
+reports with unmodified opinion on the Statement.
+Further, we would like to inform you that at the Board Meeting held today, the Directors have
+recommended a Final Dividend of INR 30 per Equity Share of INR 1 each of the Company which
+shall be paid/dispatched on the fifth day from the conclusion of the 30th Annual General Meeting,
+subject to approval of the shareholders of the Company.
+The above information is also available on the website of the Company: www.tcs.com
+Thanking you,
+Yours faithfully,
+For Tata Consultancy Services Limited
+Yashaswin Sheth
+Company Secretary
+Encl: As above
+cc:
+1. National Securities Depository Limited
+2. Central Depository Services (India) Limited
+3. MUFG Intime India Private Limited (Formerly known as Link Intime India Private Limited)
+B S R & Co. LLP
+Chartered Accountants
+14th Floor, Central B Wing and North C Wing
+Nesco IT Park 4, Nesco Center
+Western Express Highway
+Goregaon (East), Mumbai – 400 063, India
+Telephone: +91 (22) 6257 1000
+Fax: +91 (22) 6257 1010
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013
+14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+Page 1 of 5
+Independent Auditor’s Report
+To the Board of Directors of Tata Consultancy Services Limited
+Report on the audit of the Consolidated Annual Financial Results
+Opinion
+We have audited the accompanying consolidated annual financial results of Tata Consultancy Services
+Limited (hereinafter referred to as the “Holding Company”) and its subsidiaries (Holding Company and its
+subsidiaries together referred to as “the Group”) for the year ended 31 March 2025, attached herewith,
+being submitted by the Holding Company pursuant to the requirement of Regulation 33 of the Securities
+and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended ("Listing Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, the
+aforesaid consolidated annual financial results:
+a. include the annual financial results of the entities mentioned in Annexure I;
+b. are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this
+regard; and
+c. give a true and fair view in conformity with the recognition and measurement principles laid down in
+the applicable Indian Accounting Standards, and other accounting principles generally accepted in
+India, of consolidated net profit and other comprehensive income and other financial information of
+the Group for the year ended 31 March 2025.
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under section
+143(10) of the Companies Act, 2013 (“the Act”). Our responsibilities under those SAs are further described
+in the Auditor’s Responsibilities for the Audit of the Consolidated Annual Financial Results section of our
+report. We are independent of the Group in accordance with the Code of Ethics issued by the Institute of
+Chartered Accountants of India together with the ethical requirements that are relevant to our audit of the
+financial statements under the provisions of the Act, and the Rules thereunder, and we have fulfilled our
+other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe
+that the audit evidence obtained by us, is sufficient and appropriate to provide a basis for our opinion on
+the consolidated annual financial results.
+Management’s and Board of Directors’/Trustees' Responsibilities for the Consolidated Annual
+Financial Results
+These consolidated annual financial results have been prepared on the basis of the consolidated annual
+financial statements.
+The Holding Company’s Management and the Board of Directors are responsible for the preparation and
+presentation of these consolidated annual financial results that give a true and fair view of the consolidated
+net profit/ loss and other comprehensive income and other financial information of the Group in
+accordance with the recognition and measurement principles laid down in Indian Accounting Standards
+prescribed under Section 133 of the Act read with relevant rules issued thereunder and other accounting
+principles generally accepted in India and in compliance with Regulation 33 of the Listing Regulations.
+The respective Management and Board of Directors/Trustees of the companies/entities included in the
+Group are responsible for maintenance of adequate accounting records in accordance with the provisions
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+Tata Consultancy Services Limited
+Page 2 of 5
+of the Act for safeguarding of the assets of each company/entity and for preventing and detecting frauds
+and other irregularities; selection and application of appropriate accounting policies; making judgments
+and estimates that are reasonable and prudent; and the design, implementation and maintenance of
+adequate internal financial controls, that were operating effectively for ensuring accuracy and
+completeness of the accounting records, relevant to the preparation and presentation of the consolidated
+annual financial results that give a true and fair view and are free from material misstatement, whether
+due to fraud or error, which have been used for the purpose of preparation of the consolidated annual
+financial results by the Management and the Board of Directors of the Holding Company, as aforesaid.
+In preparing the consolidated annual financial results, the respective Management and the Board of
+Directors of the companies/Trustees of the entities included in the Group are responsible for assessing
+the ability of each company/entity to continue as a going concern, disclosing, as applicable, matters
+related to going concern and using the going concern basis of accounting unless the respective Board of
+Directors/Trustees either intends to liquidate the company/entity or to cease operations, or has no realistic
+alternative but to do so.
+The respective Board of Directors of the companies/ Trustees of the entities included in the Group is
+responsible for overseeing the financial reporting process of each company/entity.
+Auditor’s Responsibilities for the Audit of the Consolidated Annual Financial Results
+Our objectives are to obtain reasonable assurance about whether the consolidated annual financial results
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s
+report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee
+that an audit conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of
+these consolidated annual financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also:
+– Identify and assess the risks of material misstatement of the consolidated annual financial results,
+whether due to fraud or error, design and perform audit procedures responsive to those risks, and
+obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+internal control.
+– Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+that are appropriate in the circumstances. Under Section 143(3) (i) of the Act, we are also responsible
+for expressing our opinion through a separate report on the complete set of financial statements on
+whether the company has adequate internal financial controls with reference to financial statements
+in place and the operating effectiveness of such controls.
+– Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+estimates and related disclosures in the consolidated annual financial results made by the
+Management and Board of Directors.
+– Conclude on the appropriateness of the Management’s and Board of Directors’ use of the going
+concern basis of accounting and, based on the audit evidence obtained, whether a material
+uncertainty exists related to events or conditions that may cast significant doubt on the
+appropriateness of this assumption. If we conclude that a material uncertainty exists, we are required
+to draw attention in our auditor’s report to the related disclosures in the consolidated annual financial
+results or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on
+the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions
+may cause the Group to cease to continue as a going concern.
+– Evaluate the overall presentation, structure and content of the consolidated annual financial results,
+including the disclosures, and whether the consolidated annual financial results represent the
+underlying transactions and events in a manner that achieves fair presentation.
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+Tata Consultancy Services Limited
+Page 3 of 5
+We communicate with those charged with governance of the Holding Company and such other entities
+included in the consolidated annual financial results of which we are the independent auditors regarding,
+among other matters, the planned scope and timing of the audit and significant audit findings, including
+any significant deficiencies in internal control that we identify during our audit.
+We also provide those charged with governance with a statement that we have complied with relevant
+ethical requirements regarding independence, and to communicate with them all relationships and other
+matters that may reasonably be thought to bear on our independence, and where applicable, related
+safeguards.
+We also performed procedures in accordance with the circular issued by the Securities and Exchange
+Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable
+Other Matter
+a. The consolidated annual financial results include the results for the quarter ended 31 March 2025
+being the balancing figure between the audited figures in respect of the full financial year and the
+published audited year to date figures up to the third quarter of the current financial year.
+For B S R & Co. LLP
+Chartered Accountants
+Firm’s Registration No.:101248W/W-100022
+Aniruddha Godbole
+Partner
+Mumbai Membership No.: 105149
+10 April 2025 UDIN:25105149BMLWYL4541
+ANIRUDDHA
+SHREEKANT
+GODBOLE
+Digitally signed by
+ANIRUDDHA
+SHREEKANT GODBOLE
+Date: 2025.04.10
+14:57:39 +05'30'
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+Tata Consultancy Services Limited
+Page 4 of 5
+Annexure I
+The consolidated annual results include financial results of the Holding Company and it’s subsidiaries
+listed below:
+Subsidiaries:
+1 APTOnline Limited 22 MGDC S.C.
+2 C-Edge Technologies Limited 23 Tata Consultancy Services Argentina S.A.
+3 Diligenta Limited 24 Tata Consultancy Services De Mexico, S.A.
+De C.V.
+4 MahaOnline Limited 25 Tata Consultancy Services Do Brasil Ltda.
+5 MP Online Limited 26 TCS Inversiones Chile Limitada
+6 Tata America International Corporation 27 Tata Consultancy Services France
+7 Tata Consultancy Services (Africa)
+(Proprietary) Ltd.
+28 TCS Uruguay S.A.
+8 Tata Consultancy Services Asia Pacific Pte
+Ltd.
+29 TCS Solution Center S.A.
+9 Tata Consultancy Services Belgium 30 Tata Consultancy Services De Espana S.A.
+10 Tata Consultancy Services Canada Inc. 31 Tata Consultancy Services Luxembourg
+S.A.
+11 Tata Consultancy Services Deutschland
+GmbH
+32 Tata Consultancy Services Osterreich
+GmbH
+12 Tata Consultancy Services Netherlands B.V. 33 Tata Consultancy Services Saudi Arabia
+13 Tata Consultancy Services Qatar 34 Tata Consultancy Services Switzerland Ltd
+14 Tata Consultancy Services Sverige
+Aktiebolag
+35 TCS Business Services GmbH
+15 TCS e-Serve International Limited 36 Tata Consultancy Services Ireland Limited
+16 TCS FNS Pty Limited 37 TCS Technology Solutions GmbH
+17 TCS Iberoamerica SA 38 Tata Consultancy Services Bulgaria EOOD
+18 PT Tata Consultancy Services Indonesia,
+PT
+39 Tata Consultancy Services Guatemala,
+S.A.
+19 Tata Consultancy Services (China) Co., Ltd. 40 Tata Consultancy Services UK Limited
+20 Tata Consultancy Services (Philippines) Inc. 41 Diligenta (Europe) B.V.
+21 Tata Consultancy Services (Thailand)
+Limited
+42 TCS Foundation
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+Tata Consultancy Services Limited
+Page 5 of 5
+43 Tata Consultancy Services Japan, Ltd. 52 Tata Sons & Consultancy Services
+Employees’ Welfare Trust
+44 Tata Consultancy Services Malaysia Sdn.
+Bhd.
+53 TCS e-Serve International Limited –
+Employees’ Welfare Benefit Trust
+45 Tata Consultancy Services Italia S.R.L. 54 TRIL Bengaluru Real Estate Five Limited
+(Acquired w.e.f. 29 January 2025)
+46 Tata Consultancy Services
+(South Africa) (Proprietary) Ltd.
+55 TRIL Bengaluru Real Estate Six Limited
+(Acquired w.e.f. 29 January 2025)
+47 Tata Consultancy Services Chile S.A.
+48 Tatasolution Center S.A.
+49 Tata Consultancy Services (Portugal),
+Unipessoal Lda
+50 TCS Financial Solutions Australia Pty
+Limited
+51 TCS Financial Solutions Beijing Co., Ltd.
+(Merged with Tata Consultancy Services
+(China) Co., Ltd. w.e.f. 01 July 2024)
+􀀃􀀃
+􀀃
+􀀃
+TATA CONSULTANCY SERVICES LIMITED
+Registered Office: 9th Floor, Nirmal Building, Nariman Point, Mumbai 400 021
+CIN: L22210MH199SPLC084781
+Tel: +91 22 6778 9595 e-mail: investor.relations@tcs.com Website: www.tcs.com
+Audited Consolidated Statement of Financial Results
+Three months ended
+March 31, December 31, March 31,
+2025 2024 2024
+Revenue from operations 64,479 63,973 61,237
+Other income 1,028 1,243 1,157
+TOTAL INCOME 65,507 65,216 62,394
+Expenses
+Employee benefit expenses 36,762 35,956 35,138
+Cost of equipment and software licences 2,748 3,519 1,561
+Finance costs 227 234 226
+Depreciation and amortisation expense 1,379 1,377 1,246
+Other expenses 7,989 7,464 7,374
+TOTAL EXPENSES 49,105 48,550 45,545
+PROFIT BEFORE EXCEPTIONAL ITEM AND TAX 16,402 16,666 16,849
+Exceptional item
+Settlement of legal claim . . .
+PROFIT BEFORE TAX 16,402 16,666 16,849
+Tax expense
+Current tax 4,325 4,217 4,408
+Deferred tax (216) 5 (61)
+TOTAL TAX EXPENSE 4,109 4,222 4,347
+PROFIT FOR THE YEAR 12,293 12,444 12,502
+OTHER COMPREHENSIVE INCOME (OCI)
+Items that will not be reclassified subsequently to profit or loss
+Remeasurement of defined employee benefit plans (160) 41 63
+Net change in fair values of investments in equity shares carried at fair (6) (6) (6)
+value through OCI
+Income tax on items that will not be reclassified subsequently to profit or 40 (14) (15)
+loss
+Items that will be reclassified subsequently to profit or loss
+Net change in fair values of investments other than equity shares carried 280 (133) 208
+at fair value through OCI
+(18) 29 9
+Net change in intrinsic value of derivatives designated as cash flow hedges
+Net change in time value of derivatives designated as cash flow hedges (10) 22 15
+Exchange differences on translation of financial statements of foreign 500 (780) (478)
+operations
+Income tax on items that will be reclassified subsequently to profit or loss (64) 21 (58)
+TOTAL OTHER COMPREHENSIVE INCOME/ (LOSSES) 562 (820) (262)
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR 12,855 11,624 12,240
+Profit for the period attributable to:
+Shareholders of the Company 12,224 12,380 12,434
+Non-controlling interests 69 64 68
+12,293 12,444 12,502
+Other comprehensive income for the period attributable to:
+Shareholders of the Company 541 (776) (226)
+Non-controlling interests 21 (44) (36)
+562 (820) (262)
+Total comprehensive income for the period attributable to:
+Shareholders of the Company 12,765 11,604 12,208
+Non-controlling interests 90 20 32
+12,855 11,624 12,240
+Paid up equity share capital (Face value: ~1 per share) 362 362 362
+Total reserves (including Non-controlling interests)
+Earnings per equity share:- Basic and diluted (t) 33.79 34.21 34.37
+Dividend per share (Par value ,1 each)
+Interim dividend on equity shares (t) . 76.00 .
+Final dividend on equity shares (t) 30.00 . 28.00
+Total dividend on equity shares (t) 30.00 76.00 28.00
+Total equity dividend percentage 3,000 7,600 2,800
+I' crore)
+Year ended
+March 31, March 31,
+2025 2024
+2,55,324 2,40,893
+3,962 4,422
+2,59,286 2,45,315
+1,45,788 1,40,131
+11,648 3,702
+796 778
+5,242 4,985
+30,481 32,764
+1,93,955 1,82,360
+65,331 62,955
+. 958
+65,331 61,997
+16,910 15,864
+(376) 34
+16,534 15,898
+48,797 46,099
+(106) (2)
+(24) (6)
+18 (11)
+593 237
+1 1
+(9) 13
+262 44
+(146) (39)
+589 237
+49,386 46,336
+48,553 45,908
+244 191
+48,797 46,099
+571 299
+18 (62)
+589 237
+49,124 46,207
+262 129
+49,386 46,336
+362 362
+95,409 90,957
+134.19 125.88
+96.00 45.00
+30.00 28.00
+126.00 73.00
+12,600 7,300
+􀀃
+􀁅􀅽􀆚􀄞􀍗􀀃􀁤􀅚􀄞􀀃􀄂􀆐􀆐􀄞􀆚􀆐􀀃􀄂􀅶􀄚􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐􀀃􀅽􀄨􀀃􀆚􀅚􀄞􀀃􀀧􀆌􀅽􀆵􀆉􀀃􀄂􀆌􀄞􀀃􀆵􀆐􀄞􀄚􀀃􀅝􀅶􀆚􀄞􀆌􀄐􀅚􀄂􀅶􀅐􀄞􀄂􀄏􀅯􀇇􀀃􀄂􀅵􀅽􀅶􀅐􀆐􀆚􀀃􀆐􀄞􀅐􀅵􀄞􀅶􀆚􀆐􀍘􀀃􀀄􀅯􀅯􀅽􀄐􀄂􀆚􀅝􀅽􀅶􀀃􀅽􀄨􀀃􀆐􀆵􀄐􀅚􀀃􀄂􀆐􀆐􀄞􀆚􀆐􀀃􀄂􀅶􀄚􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐􀀃􀅝􀆐􀀃􀅶􀅽􀆚􀀃
+􀆉􀆌􀄂􀄐􀆚􀅝􀄐􀄂􀄏􀅯􀄞􀀃􀄂􀅶􀄚􀀃􀄂􀅶􀇇􀀃􀄨􀅽􀆌􀄐􀄞􀄚􀀃􀄂􀅯􀅯􀅽􀄐􀄂􀆚􀅝􀅽􀅶􀀃􀇁􀅽􀆵􀅯􀄚􀀃􀅶􀅽􀆚􀀃􀆌􀄞􀆐􀆵􀅯􀆚􀀃􀅝􀅶􀀃􀄂􀅶􀇇􀀃􀅵􀄞􀄂􀅶􀅝􀅶􀅐􀄨􀆵􀅯􀀃􀆐􀄞􀅐􀆌􀄞􀅐􀄂􀆚􀅝􀅽􀅶􀍘􀀃􀀬􀄞􀅶􀄐􀄞􀍕􀀃􀄂􀆐􀆐􀄞􀆚􀆐􀀃􀄂􀅶􀄚􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐􀀃􀅚􀄂􀇀􀄞􀀃􀅶􀅽􀆚􀀃􀄏􀄞􀄞􀅶􀀃􀅝􀄚􀄞􀅶􀆚􀅝􀄨􀅝􀄞􀄚􀀃
+􀆚􀅽􀀃􀄂􀅶􀇇􀀃􀅽􀄨􀀃􀆚􀅚􀄞􀀃􀆌􀄞􀆉􀅽􀆌􀆚􀄂􀄏􀅯􀄞􀀃􀆐􀄞􀅐􀅵􀄞􀅶􀆚􀆐􀍘􀀃􀀃
+􀎎􀀯􀅶􀄐􀅯􀆵􀄚􀄞􀆐􀀃􀆐􀄞􀆚􀆚􀅯􀄞􀅵􀄞􀅶􀆚􀀃􀅽􀄨􀀃􀅯􀄞􀅐􀄂􀅯􀀃􀄐􀅯􀄂􀅝􀅵􀀃􀅽􀄨􀀃 􀏵􀏱􀏴􀀃􀄐􀆌􀅽􀆌􀄞􀀃􀅝􀅶􀀃􀆚􀅚􀄞􀀃􀇇􀄞􀄂􀆌􀀃􀄞􀅶􀄚􀄞􀄚􀀃􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕􀀃􀏮􀏬􀏮􀏰􀍘􀀃 􀀃
+SEGMENT REVENUE
+Banking, Financial Services and Insurance
+Manufacturing
+Consumer Business
+Communication, Media and Technology
+Life Sciences and Healthcare
+Others
+Total
+SEGMENT RESULT
+Banking, Financial Services and Insurance
+Manufacturing
+Consumer Business
+Communication, Media and Technology
+Life Sciences and Healthcare
+Others
+Total
+Unallocable expenses*
+Operating income
+Other income
+PROFIT BEFORE TAX
+TATA CONSULTANCY SERVICES LIMITED
+Audited Consolidated Segment Information
+Three months ended
+March 31, December 31,
+2025 2024
+24,257 23,481
+6,395 6,194
+10,146 10,035
+11,022 11,989
+6,491 6,426
+6,168 5,848
+64,479 63,973
+6,375 6,403
+2,029 2,042
+2,929 2,971
+2,376 2,390
+1,691 1,816
+1,579 1,412
+16,979 17,034
+1,606 1,611
+15,373 15,423
+1,029 1,243
+16,402 16,666
+1, crorel
+Year ended
+March 31, March 31, March 31,
+2024 2025 2024
+22,759 94,597 90,928
+6,137 25,170 23,491
+9,891 40,197 39,357
+10,291 45,893 39,391
+6,758 26,456 26,745
+5,401 23,011 20,981
+61,237 2,55,324 2,40,893
+6,305 25,135 23,574
+2,100 8,225 7,268
+2,719 11,222 10,252
+2,669 9,582 10,918
+2,067 7,448 7,611
+1,304 5,795 4,673
+17,164 67,407 64,296
+1,472 6,038 6,721
+15,692 61,369 57,575
+1,157 3,962 4,422
+16,849 65,331 61,997
+􀀄􀆐􀀃􀄂􀆚􀀃 􀀄􀆐􀀃􀄂􀆚
+􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕􀀃􀏮􀏬􀏮􀏱 􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕􀀃􀏮􀏬􀏮􀏰
+􀀄􀁞􀁞􀀜􀁤􀁞
+􀁅􀅽􀅶􀍲􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀄂􀆐􀆐􀄞􀆚􀆐
+􀁗􀆌􀅽􀆉􀄞􀆌􀆚􀇇􀍕􀀃􀆉􀅯􀄂􀅶􀆚􀀃􀄂􀅶􀄚􀀃􀄞􀆋􀆵􀅝􀆉􀅵􀄞􀅶􀆚 􀏭􀏬􀍕􀏵􀏳􀏴 􀏵􀍕􀏯􀏳􀏲
+􀀒􀄂􀆉􀅝􀆚􀄂􀅯􀀃􀇁􀅽􀆌􀅬􀍲􀅝􀅶􀍲􀆉􀆌􀅽􀅐􀆌􀄞􀆐􀆐 􀏭􀍕􀏱􀏰􀏲 􀏭􀍕􀏱􀏲􀏰
+􀁚􀅝􀅐􀅚􀆚􀍲􀅽􀄨􀍲􀆵􀆐􀄞􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏵􀍕􀏮􀏳􀏱 􀏳􀍕􀏴􀏴􀏲
+􀀧􀅽􀅽􀄚􀇁􀅝􀅯􀅯 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀍕􀏴􀏲􀏬􀀃 􀏭􀍕􀏴􀏯􀏮
+􀁋􀆚􀅚􀄞􀆌􀀃􀅝􀅶􀆚􀄂􀅶􀅐􀅝􀄏􀅯􀄞􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏵􀏰􀏬 􀏱􀏭􀏬
+􀀦􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀄂􀆐􀆐􀄞􀆚􀆐
+􀀯􀅶􀇀􀄞􀆐􀆚􀅵􀄞􀅶􀆚􀆐 􀏮􀏳􀏱 􀏮􀏴􀏭
+􀁤􀆌􀄂􀄚􀄞􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄂􀄏􀅯􀄞􀆐
+􀀑􀅝􀅯􀅯􀄞􀄚 􀏵􀏭 􀏭􀏮􀏳
+􀁨􀅶􀄏􀅝􀅯􀅯􀄞􀄚 􀏯􀏴 􀏭􀏲
+􀀾􀅽􀄂􀅶􀆐 􀏮􀏱 􀏮
+􀁋􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏮􀍕􀏳􀏯􀏭 􀏯􀍕􀏮􀏳􀏮
+􀀘􀄞􀄨􀄞􀆌􀆌􀄞􀄚􀀃􀆚􀄂􀇆􀀃􀄂􀆐􀆐􀄞􀆚􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀏯􀍕􀏱􀏳􀏴 􀏯􀍕􀏰􀏬􀏯
+􀀯􀅶􀄐􀅽􀅵􀄞􀀃􀆚􀄂􀇆􀀃􀄂􀆐􀆐􀄞􀆚􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀏭􀍕􀏱􀏲􀏵 􀏭􀍕􀏲􀏬􀏬
+􀁋􀆚􀅚􀄞􀆌􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏯􀍕􀏳􀏭􀏮 􀏯􀍕􀏱􀏵􀏲
+􀁤􀅽􀆚􀄂􀅯􀀃􀅶􀅽􀅶􀍲􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏯􀏲􀍕􀏲􀏭􀏴 􀏯􀏯􀍕􀏰􀏲􀏱
+􀀒􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀄂􀆐􀆐􀄞􀆚􀆐
+􀀯􀅶􀇀􀄞􀅶􀆚􀅽􀆌􀅝􀄞􀆐 􀏮􀏭 􀏮􀏴
+􀀦􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀄂􀆐􀆐􀄞􀆚􀆐
+􀀯􀅶􀇀􀄞􀆐􀆚􀅵􀄞􀅶􀆚􀆐 􀏯􀏬􀍕􀏲􀏴􀏵 􀏯􀏭􀍕􀏰􀏴􀏭
+􀁤􀆌􀄂􀄚􀄞􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄂􀄏􀅯􀄞􀆐
+􀀑􀅝􀅯􀅯􀄞􀄚 􀏱􀏬􀍕􀏭􀏰􀏮 􀏰􀏰􀍕􀏰􀏯􀏰
+􀁨􀅶􀄏􀅝􀅯􀅯􀄞􀄚 􀏴􀍕􀏵􀏬􀏰 􀏵􀍕􀏭􀏰􀏯
+􀀒􀄂􀆐􀅚􀀃􀄂􀅶􀄚􀀃􀄐􀄂􀆐􀅚􀀃􀄞􀆋􀆵􀅝􀇀􀄂􀅯􀄞􀅶􀆚􀆐 􀏴􀍕􀏯􀏰􀏮 􀏵􀍕􀏬􀏭􀏲
+􀁋􀆚􀅚􀄞􀆌􀀃􀄏􀄂􀅯􀄂􀅶􀄐􀄞􀆐􀀃􀇁􀅝􀆚􀅚􀀃􀄏􀄂􀅶􀅬􀆐 􀏳􀍕􀏭􀏮􀏭 􀏰􀍕􀏮􀏳􀏬
+􀀾􀅽􀄂􀅶􀆐 􀏵 􀏰􀏵􀏭
+􀁋􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏮􀍕􀏳􀏰􀏮 􀏭􀍕􀏳􀏬􀏯
+􀀯􀅶􀄐􀅽􀅵􀄞􀀃􀆚􀄂􀇆􀀃􀄂􀆐􀆐􀄞􀆚􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀏮􀏱􀏳 􀏭􀏱􀏭
+􀁋􀆚􀅚􀄞􀆌􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏭􀏰􀍕􀏳􀏴􀏰 􀏭􀏮􀍕􀏮􀏲􀏳
+􀁤􀅽􀆚􀄂􀅯􀀃􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏭􀍕􀏮􀏯􀍕􀏬􀏭􀏭 􀏭􀍕􀏭􀏮􀍕􀏵􀏴􀏰
+􀁤􀁋􀁤􀀄􀀾􀀃􀀄􀁞􀁞􀀜􀁤􀁞 􀏭􀍕􀏱􀏵􀍕􀏲􀏮􀏵 􀏭􀍕􀏰􀏲􀍕􀏰􀏰􀏵
+􀀜􀁙􀁨􀀯􀁤􀁺􀀃􀀄􀁅􀀘􀀃􀀾􀀯􀀄􀀑􀀯􀀾􀀯􀁤􀀯􀀜􀁞
+􀀜􀆋􀆵􀅝􀆚􀇇
+􀁞􀅚􀄂􀆌􀄞􀀃􀄐􀄂􀆉􀅝􀆚􀄂􀅯 􀏯􀏲􀏮 􀏯􀏲􀏮
+􀁋􀆚􀅚􀄞􀆌􀀃􀄞􀆋􀆵􀅝􀆚􀇇 􀏵􀏰􀍕􀏯􀏵􀏰 􀏵􀏬􀍕􀏭􀏮􀏳
+􀀜􀆋􀆵􀅝􀆚􀇇􀀃􀄂􀆚􀆚􀆌􀅝􀄏􀆵􀆚􀄂􀄏􀅯􀄞􀀃􀆚􀅽􀀃􀆐􀅚􀄂􀆌􀄞􀅚􀅽􀅯􀄚􀄞􀆌􀆐􀀃􀅽􀄨􀀃􀆚􀅚􀄞􀀃􀀒􀅽􀅵􀆉􀄂􀅶􀇇 􀏵􀏰􀍕􀏳􀏱􀏲 􀏵􀏬􀍕􀏰􀏴􀏵
+􀁅􀅽􀅶􀍲􀄐􀅽􀅶􀆚􀆌􀅽􀅯􀅯􀅝􀅶􀅐􀀃􀅝􀅶􀆚􀄞􀆌􀄞􀆐􀆚􀆐 􀏭􀍕􀏬􀏭􀏱 􀏴􀏯􀏬
+􀁤􀅽􀆚􀄂􀅯􀀃􀄞􀆋􀆵􀅝􀆚􀇇 􀏵􀏱􀍕􀏳􀏳􀏭 􀏵􀏭􀍕􀏯􀏭􀏵
+􀀾􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐
+􀁅􀅽􀅶􀍲􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐
+􀀦􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐
+􀀾􀄞􀄂􀆐􀄞􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏳􀍕􀏴􀏯􀏴 􀏲􀍕􀏱􀏭􀏲
+􀁋􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏲􀏴􀏬 􀏯􀏲􀏱
+􀀜􀅵􀆉􀅯􀅽􀇇􀄞􀄞􀀃􀄏􀄞􀅶􀄞􀄨􀅝􀆚􀀃􀅽􀄏􀅯􀅝􀅐􀄂􀆚􀅝􀅽􀅶􀆐 􀏴􀏰􀏭 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏲􀏴􀏲􀀃
+􀀘􀄞􀄨􀄞􀆌􀆌􀄞􀄚􀀃􀆚􀄂􀇆􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀏵􀏴􀏬 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏵􀏳􀏳􀀃
+􀁨􀅶􀄞􀄂􀆌􀅶􀄞􀄚􀀃􀄂􀅶􀄚􀀃􀄚􀄞􀄨􀄞􀆌􀆌􀄞􀄚􀀃􀆌􀄞􀇀􀄞􀅶􀆵􀄞 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏱􀏭􀏴􀀃 􀏰􀏴􀏮
+􀁤􀅽􀆚􀄂􀅯􀀃􀅶􀅽􀅶􀍲􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏭􀏬􀍕􀏴􀏱􀏳 􀏵􀍕􀏬􀏮􀏲
+􀀒􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐
+􀀦􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐
+􀀾􀄞􀄂􀆐􀄞􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏭􀍕􀏱􀏱􀏰 􀏭􀍕􀏱􀏬􀏱
+􀁤􀆌􀄂􀄚􀄞􀀃􀆉􀄂􀇇􀄂􀄏􀅯􀄞􀆐 􀏭􀏯􀍕􀏵􀏬􀏵 􀏵􀍕􀏵􀏴􀏭
+􀁋􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏴􀍕􀏱􀏰􀏮 􀏴􀍕􀏯􀏲􀏮
+􀁨􀅶􀄞􀄂􀆌􀅶􀄞􀄚􀀃􀄂􀅶􀄚􀀃􀄚􀄞􀄨􀄞􀆌􀆌􀄞􀄚􀀃􀆌􀄞􀇀􀄞􀅶􀆵􀄞 􀏰􀍕􀏬􀏮􀏴 􀏯􀍕􀏲􀏰􀏬
+􀁋􀆚􀅚􀄞􀆌􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏳􀍕􀏭􀏴􀏴 􀏲􀍕􀏱􀏮􀏰
+􀁗􀆌􀅽􀇀􀅝􀆐􀅝􀅽􀅶􀆐 􀏭􀏴􀏬 􀏭􀏰􀏬
+􀀜􀅵􀆉􀅯􀅽􀇇􀄞􀄞􀀃􀄏􀄞􀅶􀄞􀄨􀅝􀆚􀀃􀅽􀄏􀅯􀅝􀅐􀄂􀆚􀅝􀅽􀅶􀆐 􀏰􀍕􀏴􀏴􀏱 􀏰􀍕􀏱􀏭􀏵
+􀀯􀅶􀄐􀅽􀅵􀄞􀀃􀆚􀄂􀇆􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀏭􀏮􀍕􀏳􀏭􀏱 􀏭􀏭􀍕􀏰􀏯􀏯
+􀁤􀅽􀆚􀄂􀅯􀀃􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏱􀏯􀍕􀏬􀏬􀏭 􀏰􀏲􀍕􀏭􀏬􀏰
+􀁤􀁋􀁤􀀄􀀾􀀃􀀜􀁙􀁨􀀯􀁤􀁺􀀃􀀄􀁅􀀘􀀃􀀾􀀯􀀄􀀑􀀯􀀾􀀯􀁤􀀯􀀜􀁞 􀏭􀍕􀏱􀏵􀍕􀏲􀏮􀏵 􀏭􀍕􀏰􀏲􀍕􀏰􀏰􀏵
+􀁤􀀄􀁤􀀄􀀃􀀒􀁋􀁅􀁞􀁨􀀾􀁤􀀄􀁅􀀒􀁺􀀃􀁞􀀜􀁚􀁳􀀯􀀒􀀜􀁞􀀃􀀾􀀯􀁄􀀯􀁤􀀜􀀘
+􀀄􀆵􀄚􀅝􀆚􀄞􀄚􀀃􀀒􀅽􀅶􀆐􀅽􀅯􀅝􀄚􀄂􀆚􀄞􀄚􀀃􀀑􀄂􀅯􀄂􀅶􀄐􀄞􀀃􀁞􀅚􀄞􀄞􀆚􀀃
+􀍾 􀄐􀆌􀅽􀆌􀄞􀍿
+􀁞􀄞􀅯􀄞􀄐􀆚􀀃 􀄞􀇆􀆉􀅯􀄂􀅶􀄂􀆚􀅽􀆌􀇇􀀃 􀅶􀅽􀆚􀄞􀆐􀀃 􀆚􀅽􀀃 􀆚􀅚􀄞􀀃 􀁞􀆚􀄂􀆚􀄞􀅵􀄞􀅶􀆚􀀃 􀅽􀄨􀀃 􀀄􀆵􀄚􀅝􀆚􀄞􀄚􀀃 􀀒􀅽􀅶􀆐􀅽􀅯􀅝􀄚􀄂􀆚􀄞􀄚􀀃 􀀦􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃 􀁚􀄞􀆐􀆵􀅯􀆚􀆐􀀃 􀄨􀅽􀆌􀀃 􀆚􀅚􀆌􀄞􀄞􀀃 􀅵􀅽􀅶􀆚􀅚􀆐􀀃 􀄂􀅶􀄚􀀃 􀇇􀄞􀄂􀆌􀀃 􀄞􀅶􀄚􀄞􀄚􀀃􀀃
+􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕􀀃􀏮􀏬􀏮􀏱􀀃
+􀏭􀍘 􀁤􀅚􀄞􀆐􀄞􀀃􀆌􀄞􀆐􀆵􀅯􀆚􀆐􀀃􀅚􀄂􀇀􀄞􀀃􀄏􀄞􀄞􀅶􀀃􀆉􀆌􀄞􀆉􀄂􀆌􀄞􀄚􀀃􀅽􀅶􀀃􀆚􀅚􀄞􀀃􀄏􀄂􀆐􀅝􀆐􀀃􀅽􀄨􀀃􀆚􀅚􀄞􀀃􀄐􀅽􀅶􀆐􀅽􀅯􀅝􀄚􀄂􀆚􀄞􀄚􀀃􀄂􀆵􀄚􀅝􀆚􀄞􀄚􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀆐􀆚􀄂􀆚􀄞􀅵􀄞􀅶􀆚􀆐􀀃􀄨􀅽􀆌􀀃􀆚􀅚􀄞􀀃􀇇􀄞􀄂􀆌􀀃􀄞􀅶􀄚􀄞􀄚􀀃􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕􀀃􀏮􀏬􀏮􀏱􀀃
+􀄂􀅶􀄚􀀃􀆚􀅚􀄞􀀃􀄐􀅽􀅶􀆐􀅽􀅯􀅝􀄚􀄂􀆚􀄞􀄚􀀃􀄂􀆵􀄚􀅝􀆚􀄞􀄚􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀆐􀆚􀄂􀆚􀄞􀅵􀄞􀅶􀆚􀆐􀀃􀆵􀆉􀆚􀅽􀀃􀆚􀅚􀄞􀀃􀄞􀅶􀄚􀀃􀅽􀄨􀀃􀆚􀅚􀄞􀀃􀆚􀅚􀅝􀆌􀄚􀀃􀆋􀆵􀄂􀆌􀆚􀄞􀆌􀍕􀀃􀇁􀅚􀅝􀄐􀅚􀀃􀄂􀆌􀄞􀀃􀆉􀆌􀄞􀆉􀄂􀆌􀄞􀄚􀀃􀅝􀅶􀀃􀄂􀄐􀄐􀅽􀆌􀄚􀄂􀅶􀄐􀄞􀀃􀇁􀅝􀆚􀅚􀀃􀆚􀅚􀄞􀀃􀀯􀅶􀄚􀀃
+􀀄􀁞􀀃 􀅶􀅽􀆚􀅝􀄨􀅝􀄞􀄚􀀃 􀆵􀅶􀄚􀄞􀆌􀀃 􀆚􀅚􀄞􀀃 􀀒􀅽􀅵􀆉􀄂􀅶􀅝􀄞􀆐􀀃 􀍾􀀯􀅶􀄚􀅝􀄂􀅶􀀃 􀀄􀄐􀄐􀅽􀆵􀅶􀆚􀅝􀅶􀅐􀀃 􀁞􀆚􀄂􀅶􀄚􀄂􀆌􀄚􀆐􀍿􀀃 􀁚􀆵􀅯􀄞􀆐􀍕􀀃 􀏮􀏬􀏭􀏱􀍘􀀃 􀁤􀅚􀄞􀆐􀄞􀀃 􀆌􀄞􀆐􀆵􀅯􀆚􀆐􀀃 􀅚􀄂􀇀􀄞􀀃 􀄏􀄞􀄞􀅶􀀃 􀆌􀄞􀇀􀅝􀄞􀇁􀄞􀄚􀀃 􀄏􀇇􀀃 􀆚􀅚􀄞􀀃 􀀄􀆵􀄚􀅝􀆚􀀃
+􀀒􀅽􀅵􀅵􀅝􀆚􀆚􀄞􀄞􀀃􀄂􀅶􀄚􀀃􀄂􀆉􀆉􀆌􀅽􀇀􀄞􀄚􀀃􀄏􀇇􀀃􀆚􀅚􀄞􀀃􀀑􀅽􀄂􀆌􀄚􀀃􀅽􀄨􀀃􀀘􀅝􀆌􀄞􀄐􀆚􀅽􀆌􀆐􀀃􀄂􀆚􀀃􀅝􀆚􀆐􀀃􀅵􀄞􀄞􀆚􀅝􀅶􀅐􀀃􀅚􀄞􀅯􀄚􀀃􀅽􀅶􀀃􀀄􀆉􀆌􀅝􀅯􀀃􀏭􀏬􀍕􀀃􀏮􀏬􀏮􀏱􀍘􀀃􀁤􀅚􀄞􀀃􀆐􀆚􀄂􀆚􀆵􀆚􀅽􀆌􀇇􀀃􀄂􀆵􀄚􀅝􀆚􀅽􀆌􀆐􀀃􀅚􀄂􀇀􀄞􀀃􀄞􀇆􀆉􀆌􀄞􀆐􀆐􀄞􀄚􀀃􀄂􀅶􀀃
+􀆵􀅶􀅵􀅽􀄚􀅝􀄨􀅝􀄞􀄚􀀃􀄂􀆵􀄚􀅝􀆚􀀃􀅽􀆉􀅝􀅶􀅝􀅽􀅶􀀃􀅽􀅶􀀃􀆚􀅚􀄞􀆐􀄞􀀃􀆌􀄞􀆐􀆵􀅯􀆚􀆐􀍘􀀃
+􀏮􀍘 􀀒􀅽􀅶􀆐􀅽􀅯􀅝􀄚􀄂􀆚􀄞􀄚􀀃􀁞􀆚􀄂􀆚􀄞􀅵􀄞􀅶􀆚􀀃􀅽􀄨􀀃􀀒􀄂􀆐􀅚􀀃􀄨􀅯􀅽􀇁􀆐􀀃􀅝􀆐􀀃􀄂􀆚􀆚􀄂􀄐􀅚􀄞􀄚􀀃􀅝􀅶􀀃􀀄􀅶􀅶􀄞􀇆􀆵􀆌􀄞􀀃􀀯􀍘􀀃
+􀀃
+􀏯􀍘 􀁋􀅶􀀃 􀀺􀄂􀅶􀆵􀄂􀆌􀇇􀀃 􀏮􀏵􀍕􀀃 􀏮􀏬􀏮􀏱􀍕􀀃 􀁤􀄂􀆚􀄂􀀃 􀀒􀅽􀅶􀆐􀆵􀅯􀆚􀄂􀅶􀄐􀇇􀀃 􀁞􀄞􀆌􀇀􀅝􀄐􀄞􀆐􀀃 􀀾􀅝􀅵􀅝􀆚􀄞􀄚􀀃 􀄂􀄐􀆋􀆵􀅝􀆌􀄞􀄚􀀃 􀏭􀏬􀏬􀐹􀀃 􀄞􀆋􀆵􀅝􀆚􀇇􀀃 􀆐􀅚􀄂􀆌􀄞􀆐􀀃 􀄂􀅶􀄚􀀃 􀅽􀆉􀆚􀅝􀅽􀅶􀄂􀅯􀅯􀇇􀀃 􀆌􀄞􀄚􀄞􀄞􀅵􀄂􀄏􀅯􀄞􀀃 􀄐􀅽􀅶􀇀􀄞􀆌􀆚􀅝􀄏􀅯􀄞􀀃
+􀄚􀄞􀄏􀄞􀅶􀆚􀆵􀆌􀄞􀆐􀀃􀅽􀄨􀀃􀁤􀁚􀀯􀀾􀀃􀀑􀄞􀅶􀅐􀄂􀅯􀆵􀆌􀆵􀀃􀁚􀄞􀄂􀅯􀀃􀀜􀆐􀆚􀄂􀆚􀄞􀀃􀀦􀅝􀇀􀄞􀀃􀀾􀅝􀅵􀅝􀆚􀄞􀄚􀀃􀄂􀅶􀄚􀀃􀁤􀁚􀀯􀀾􀀃􀀑􀄞􀅶􀅐􀄂􀅯􀆵􀆌􀆵􀀃􀁚􀄞􀄂􀅯􀀃􀀜􀆐􀆚􀄂􀆚􀄞􀀃􀁞􀅝􀇆􀀃􀀾􀅝􀅵􀅝􀆚􀄞􀄚􀀃􀄂􀆚􀀃􀄂􀀃􀄐􀅽􀅶􀆐􀅝􀄚􀄞􀆌􀄂􀆚􀅝􀅽􀅶􀀃􀅽􀄨􀀃 􀏭􀍕􀏱􀏵􀏯􀀃􀄐􀆌􀅽􀆌􀄞􀍘􀀃
+􀏰􀍘 􀁤􀅚􀄞􀀃􀀑􀅽􀄂􀆌􀄚􀀃􀅽􀄨􀀃􀀘􀅝􀆌􀄞􀄐􀆚􀅽􀆌􀆐􀀃􀄂􀆚􀀃􀅝􀆚􀆐􀀃􀅵􀄞􀄞􀆚􀅝􀅶􀅐􀀃􀅚􀄞􀅯􀄚􀀃􀅽􀅶􀀃􀀄􀆉􀆌􀅝􀅯􀀃􀏭􀏬􀍕􀀃􀏮􀏬􀏮􀏱􀍕􀀃􀅚􀄂􀆐􀀃􀆉􀆌􀅽􀆉􀅽􀆐􀄞􀄚􀀃􀄂􀀃􀄨􀅝􀅶􀄂􀅯􀀃􀄚􀅝􀇀􀅝􀄚􀄞􀅶􀄚􀀃􀅽􀄨􀀃 􀏯􀏬􀍘􀏬􀏬􀀃􀆉􀄞􀆌􀀃􀄞􀆋􀆵􀅝􀆚􀇇􀀃􀆐􀅚􀄂􀆌􀄞􀍘􀀃
+􀏱􀍘 􀁤􀅚􀄞􀀃 􀆌􀄞􀆐􀆵􀅯􀆚􀆐􀀃 􀄨􀅽􀆌􀀃 􀆚􀅚􀆌􀄞􀄞􀀃 􀅵􀅽􀅶􀆚􀅚􀆐􀀃 􀄂􀅶􀄚􀀃 􀇇􀄞􀄂􀆌􀀃 􀄞􀅶􀄚􀄞􀄚 􀁄􀄂􀆌􀄐􀅚􀀃 􀏯􀏭􀍕􀀃 􀏮􀏬􀏮􀏱􀍕􀀃 􀄂􀆌􀄞􀀃 􀄂􀇀􀄂􀅝􀅯􀄂􀄏􀅯􀄞􀀃 􀅽􀅶􀀃 􀆚􀅚􀄞􀀃 􀀑􀁞􀀜􀀃 􀀾􀅝􀅵􀅝􀆚􀄞􀄚􀀃 􀇁􀄞􀄏􀆐􀅝􀆚􀄞􀀃􀀃
+􀍾􀁨􀁚􀀾􀍗􀀃􀇁􀇁􀇁􀍘􀄏􀆐􀄞􀅝􀅶􀄚􀅝􀄂􀍘􀄐􀅽􀅵􀍿􀍕􀀃􀆚􀅚􀄞􀀃􀁅􀄂􀆚􀅝􀅽􀅶􀄂􀅯􀀃􀁞􀆚􀅽􀄐􀅬􀀃􀀜􀇆􀄐􀅚􀄂􀅶􀅐􀄞􀀃􀅽􀄨􀀃􀀯􀅶􀄚􀅝􀄂􀀃􀀾􀅝􀅵􀅝􀆚􀄞􀄚􀀃􀇁􀄞􀄏􀆐􀅝􀆚􀄞􀀃􀍾􀁨􀁚􀀾􀍗􀀃􀇁􀇁􀇁􀍘􀅶􀆐􀄞􀅝􀅶􀄚􀅝􀄂􀍘􀄐􀅽􀅵
+􀇁􀄞􀄏􀆐􀅝􀆚􀄞􀀃􀍾􀁨􀁚􀀾􀍗􀀃􀇁􀇁􀇁􀍘􀆚􀄐􀆐􀍘􀄐􀅽􀅵􀍬􀅝􀅶􀇀􀄞􀆐􀆚􀅽􀆌􀆐􀍿􀍘􀀃
+􀀃
+􀀦􀅽􀆌􀀃􀄂􀅶􀄚􀀃􀅽􀅶􀀃􀄏􀄞􀅚􀄂􀅯􀄨􀀃􀅽􀄨􀀃􀆚􀅚􀄞􀀃􀀑􀅽􀄂􀆌􀄚􀀃􀅽􀄨􀀃􀀘􀅝􀆌􀄞􀄐􀆚􀅽􀆌􀆐􀀃
+􀁄􀆵􀅵􀄏􀄂􀅝􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃 􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀼􀀃􀀼􀆌􀅝􀆚􀅚􀅝􀇀􀄂􀆐􀄂􀅶􀀃
+􀀄􀆉􀆌􀅝􀅯􀀃􀏭􀏬􀍕􀀃􀏮􀏬􀏮􀏱􀀃 􀀃 􀀃 􀀃 􀀃 􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃 􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀒􀀜􀁋􀀃􀄂􀅶􀄚􀀃􀁄􀄂􀅶􀄂􀅐􀅝􀅶􀅐􀀃􀀘􀅝􀆌􀄞􀄐􀆚􀅽􀆌􀀃
+􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀘􀀯􀁅􀍗􀀃􀏭􀏬􀏭􀏬􀏲􀏳􀏯􀏵􀀃
+􀀃
+KUNCHITHAM
+KRITHIVASAN
+Digitally signed by
+KUNCHITHAM
+KRITHIVASAN
+Date: 2025.04.10 14:35:51
++05'30'
+------~ and on the Company's
+􀀃
+􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕 􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕
+􀏮􀏬􀏮􀏱 􀏮􀏬􀏮􀏰
+􀀒􀀄􀁞􀀬􀀃􀀦􀀾􀁋􀁴􀁞􀀃􀀦􀁚􀁋􀁄􀀃􀁋􀁗􀀜􀁚􀀄􀁤􀀯􀁅􀀧􀀃􀀄􀀒􀁤􀀯􀁳􀀯􀁤􀀯􀀜􀁞
+􀁗􀆌􀅽􀄨􀅝􀆚􀀃􀄨􀅽􀆌􀀃􀆚􀅚􀄞􀀃􀇇􀄞􀄂􀆌 􀏰􀏴􀍕􀏳􀏵􀏳 􀏰􀏲􀍕􀏬􀏵􀏵
+􀀄􀄚􀅩􀆵􀆐􀆚􀅵􀄞􀅶􀆚􀆐􀀃􀄨􀅽􀆌􀍗
+􀀘􀄞􀆉􀆌􀄞􀄐􀅝􀄂􀆚􀅝􀅽􀅶􀀃􀄂􀅶􀄚􀀃􀄂􀅵􀅽􀆌􀆚􀅝􀆐􀄂􀆚􀅝􀅽􀅶􀀃􀄞􀇆􀆉􀄞􀅶􀆐􀄞 􀏱􀍕􀏮􀏰􀏮 􀏰􀍕􀏵􀏴􀏱
+􀀑􀄂􀄚􀀃􀄚􀄞􀄏􀆚􀆐􀀃􀄂􀅶􀄚􀀃􀄂􀄚􀇀􀄂􀅶􀄐􀄞􀆐􀀃􀇁􀆌􀅝􀆚􀆚􀄞􀅶􀀃􀅽􀄨􀄨􀍕􀀃􀄂􀅯􀅯􀅽􀇁􀄂􀅶􀄐􀄞􀀃􀄨􀅽􀆌􀀃􀄞􀇆􀆉􀄞􀄐􀆚􀄞􀄚􀀃􀄐􀆌􀄞􀄚􀅝􀆚􀀃􀅯􀅽􀆐􀆐􀄞􀆐􀀃􀄂􀅶􀄚􀀃􀄚􀅽􀆵􀄏􀆚􀄨􀆵􀅯􀀃􀄂􀄚􀇀􀄂􀅶􀄐􀄞􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀏭􀏮􀏴 􀏭􀏭􀏰
+􀁤􀄂􀇆􀀃􀄞􀇆􀆉􀄞􀅶􀆐􀄞 􀏭􀏲􀍕􀏱􀏯􀏰 􀏭􀏱􀍕􀏴􀏵􀏴
+􀁅􀄞􀆚􀀃􀅐􀄂􀅝􀅶􀀃􀅽􀅶􀀃􀅯􀄞􀄂􀆐􀄞􀀃􀅵􀅽􀄚􀅝􀄨􀅝􀄐􀄂􀆚􀅝􀅽􀅶 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀏱􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏳􀍿
+􀁨􀅶􀆌􀄞􀄂􀅯􀅝􀆐􀄞􀄚􀀃􀄨􀅽􀆌􀄞􀅝􀅐􀅶􀀃􀄞􀇆􀄐􀅚􀄂􀅶􀅐􀄞􀀃􀍾􀅐􀄂􀅝􀅶􀍿􀀃􀍬􀀃􀅯􀅽􀆐􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏭􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏭􀏳􀍿
+􀁅􀄞􀆚􀀃􀅐􀄂􀅝􀅶􀀃􀅽􀅶􀀃􀄚􀅝􀆐􀆉􀅽􀆐􀄂􀅯􀀃􀅽􀄨􀀃􀆉􀆌􀅽􀆉􀄞􀆌􀆚􀇇􀍕􀀃􀆉􀅯􀄂􀅶􀆚􀀃􀄂􀅶􀄚􀀃􀄞􀆋􀆵􀅝􀆉􀅵􀄞􀅶􀆚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏮􀏬􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏳􀍿
+􀁅􀄞􀆚􀀃􀅐􀄂􀅝􀅶􀀃􀅽􀅶􀀃􀄚􀅝􀆐􀆉􀅽􀆐􀄂􀅯􀀃􀍬􀀃􀄨􀄂􀅝􀆌􀀃􀇀􀄂􀅯􀆵􀄂􀆚􀅝􀅽􀅶􀀃􀅽􀄨􀀃􀅝􀅶􀇀􀄞􀆐􀆚􀅵􀄞􀅶􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏮􀏲􀏵􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏯􀏭􀏮􀍿
+􀀯􀅶􀆚􀄞􀆌􀄞􀆐􀆚􀀃􀅝􀅶􀄐􀅽􀅵􀄞 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏯􀍕􀏮􀏵􀏲􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏯􀍕􀏳􀏴􀏭􀍿
+􀀘􀅝􀇀􀅝􀄚􀄞􀅶􀄚􀀃􀅝􀅶􀄐􀅽􀅵􀄞 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏰􀏯􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏰􀏭􀍿
+􀀦􀅝􀅶􀄂􀅶􀄐􀄞􀀃􀄐􀅽􀆐􀆚􀆐 􀏳􀏵􀏲 􀏳􀏳􀏴
+􀁋􀆉􀄞􀆌􀄂􀆚􀅝􀅶􀅐􀀃􀆉􀆌􀅽􀄨􀅝􀆚􀀃􀄏􀄞􀄨􀅽􀆌􀄞􀀃􀇁􀅽􀆌􀅬􀅝􀅶􀅐􀀃􀄐􀄂􀆉􀅝􀆚􀄂􀅯􀀃􀄐􀅚􀄂􀅶􀅐􀄞􀆐 􀏲􀏳􀍕􀏴􀏱􀏯 􀏲􀏯􀍕􀏳􀏬􀏵
+􀁅􀄞􀆚􀀃􀄐􀅚􀄂􀅶􀅐􀄞􀀃􀅝􀅶
+􀀯􀅶􀇀􀄞􀅶􀆚􀅽􀆌􀅝􀄞􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏳 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍲
+􀁤􀆌􀄂􀄚􀄞􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄂􀄏􀅯􀄞􀆐
+􀀑􀅝􀅯􀅯􀄞􀄚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏱􀍕􀏱􀏭􀏵􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏯􀍕􀏯􀏮􀏳􀍿
+􀁨􀅶􀄏􀅝􀅯􀅯􀄞􀄚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏮􀏵􀏭 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏱􀍿
+􀀾􀅽􀄂􀅶􀆐􀀃􀄂􀅶􀄚􀀃􀅽􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏳􀏯􀏴􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏯􀏬􀏭􀍿
+􀁋􀆚􀅚􀄞􀆌􀀃􀄂􀆐􀆐􀄞􀆚􀆐􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏮􀍕􀏱􀏱􀏮􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏯􀍕􀏭􀏲􀏬􀍿
+􀁤􀆌􀄂􀄚􀄞􀀃􀆉􀄂􀇇􀄂􀄏􀅯􀄞􀆐 􀏯􀍕􀏳􀏭􀏴 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏲􀏯􀏮􀍿
+􀁨􀅶􀄞􀄂􀆌􀅶􀄞􀄚􀀃􀄂􀅶􀄚􀀃􀄚􀄞􀄨􀄞􀆌􀆌􀄞􀄚􀀃􀆌􀄞􀇀􀄞􀅶􀆵􀄞 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏯􀏵􀏱 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏳􀏰􀏬􀍿
+􀁋􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀏭􀏵􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏲􀏵􀏱􀍿
+􀁋􀆚􀅚􀄞􀆌􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐􀀃􀄂􀅶􀄚􀀃􀆉􀆌􀅽􀇀􀅝􀆐􀅝􀅽􀅶􀆐 􀏭􀏭􀏱􀏴 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀍕􀏵􀏳􀏴
+􀀒􀄂􀆐􀅚􀀃􀄨􀅯􀅽􀇁􀆐􀀃􀅐􀄞􀅶􀄞􀆌􀄂􀆚􀄞􀄚􀀃􀄨􀆌􀅽􀅵􀀃􀅽􀆉􀄞􀆌􀄂􀆚􀅝􀅽􀅶􀆐 􀏲􀏰􀍕􀏰􀏵􀏰 􀏱􀏲􀍕􀏴􀏮􀏳
+􀁤􀄂􀇆􀄞􀆐􀀃􀆉􀄂􀅝􀄚􀀃􀍾􀅶􀄞􀆚􀀃􀅽􀄨􀀃􀆌􀄞􀄨􀆵􀅶􀄚􀆐􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀏱􀍕􀏱􀏴􀏲􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀏮􀍕􀏰􀏴􀏵􀍿
+􀁅􀄞􀆚􀀃􀄐􀄂􀆐􀅚􀀃􀄨􀅯􀅽􀇁􀆐􀀃􀅐􀄞􀅶􀄞􀆌􀄂􀆚􀄞􀄚􀀃􀄨􀆌􀅽􀅵􀀃􀅽􀆉􀄞􀆌􀄂􀆚􀅝􀅶􀅐􀀃􀄂􀄐􀆚􀅝􀇀􀅝􀆚􀅝􀄞􀆐 􀏰􀏴􀍕􀏵􀏬􀏴 􀏰􀏰􀍕􀏯􀏯􀏴
+􀀒􀀄􀁞􀀬􀀃􀀦􀀾􀁋􀁴􀁞􀀃􀀦􀁚􀁋􀁄􀀃􀀯􀁅􀁳􀀜􀁞􀁤􀀯􀁅􀀧􀀃􀀄􀀒􀁤􀀯􀁳􀀯􀁤􀀯􀀜􀁞
+􀀑􀄂􀅶􀅬􀀃􀄚􀄞􀆉􀅽􀆐􀅝􀆚􀆐􀀃􀆉􀅯􀄂􀄐􀄞􀄚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀏬􀍕􀏰􀏵􀏲􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏵􀍕􀏰􀏳􀏭􀍿
+􀁗􀆵􀆌􀄐􀅚􀄂􀆐􀄞􀀃􀅽􀄨􀀃􀅝􀅶􀇀􀄞􀆐􀆚􀅵􀄞􀅶􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀍕􀏰􀏱􀍕􀏵􀏲􀏮􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏭􀍕􀏰􀏭􀍕􀏬􀏭􀏭􀍿
+􀁗􀄂􀇇􀅵􀄞􀅶􀆚􀀃􀄨􀅽􀆌􀀃􀆉􀆵􀆌􀄐􀅚􀄂􀆐􀄞􀀃􀅽􀄨􀀃􀆉􀆌􀅽􀆉􀄞􀆌􀆚􀇇􀍕􀀃􀆉􀅯􀄂􀅶􀆚􀀃􀄂􀅶􀄚􀀃􀄞􀆋􀆵􀅝􀆉􀅵􀄞􀅶􀆚􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏮􀍕􀏵􀏭􀏳􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏮􀍕􀏮􀏬􀏮􀍿
+􀁗􀄂􀇇􀅵􀄞􀅶􀆚􀀃􀅝􀅶􀄐􀅯􀆵􀄚􀅝􀅶􀅐􀀃􀄂􀄚􀇀􀄂􀅶􀄐􀄞􀆐􀀃􀄨􀅽􀆌􀀃􀄂􀄐􀆋􀆵􀅝􀆌􀅝􀅶􀅐􀀃􀆌􀅝􀅐􀅚􀆚􀍲􀅽􀄨􀍲􀆵􀆐􀄞􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏳􀏲􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏯􀏬􀍿
+􀁗􀄂􀇇􀅵􀄞􀅶􀆚􀀃􀄨􀅽􀆌􀀃􀆉􀆵􀆌􀄐􀅚􀄂􀆐􀄞􀀃􀅽􀄨􀀃􀅝􀅶􀆚􀄂􀅶􀅐􀅝􀄏􀅯􀄞􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏵􀏰􀏰􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏰􀏰􀏮􀍿
+􀀾􀅽􀄂􀅶􀀃􀅐􀅝􀇀􀄞􀅶 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏮􀏵􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍲
+􀀄􀄐􀆋􀆵􀅝􀆐􀅝􀆚􀅝􀅽􀅶􀀃􀅽􀄨􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀍕􀏬􀏲􀏯􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍲
+􀁗􀆌􀅽􀄐􀄞􀄞􀄚􀆐􀀃􀄨􀆌􀅽􀅵􀀃􀄏􀄂􀅶􀅬􀀃􀄚􀄞􀆉􀅽􀆐􀅝􀆚􀆐􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏴􀀃 􀍕􀏭􀏳􀏳 􀏴􀍕􀏬􀏴􀏵
+􀁗􀆌􀅽􀄐􀄞􀄞􀄚􀆐􀀃􀄨􀆌􀅽􀅵􀀃􀅝􀅶􀆚􀄞􀆌􀍲􀄐􀅽􀆌􀆉􀅽􀆌􀄂􀆚􀄞􀀃􀄚􀄞􀆉􀅽􀆐􀅝􀆚􀆐􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀏳􀏬 􀏴􀏰􀏲
+􀁗􀆌􀅽􀄐􀄞􀄞􀄚􀆐􀀃􀄨􀆌􀅽􀅵􀀃􀄚􀅝􀆐􀆉􀅽􀆐􀄂􀅯􀀃􀍬􀀃􀆌􀄞􀄚􀄞􀅵􀆉􀆚􀅝􀅽􀅶􀀃􀅽􀄨􀀃􀅝􀅶􀇀􀄞􀆐􀆚􀅵􀄞􀅶􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀀃 􀍕􀏰􀏳􀍕􀏲􀏵􀏱 􀏭􀍕􀏰􀏳􀍕􀏮􀏬􀏰
+􀁗􀆌􀅽􀄐􀄞􀄞􀄚􀆐􀀃􀄨􀆌􀅽􀅵􀀃􀆐􀆵􀄏􀍲􀅯􀄞􀄂􀆐􀄞􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄂􀄏􀅯􀄞 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏱 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏯􀀃
+􀁗􀆌􀅽􀄐􀄞􀄞􀄚􀆐􀀃􀄨􀆌􀅽􀅵􀀃􀄚􀅝􀆐􀆉􀅽􀆐􀄂􀅯􀀃􀅽􀄨􀀃􀆉􀆌􀅽􀆉􀄞􀆌􀆚􀇇􀍕􀀃􀆉􀅯􀄂􀅶􀆚􀀃􀄂􀅶􀄚􀀃􀄞􀆋􀆵􀅝􀆉􀅵􀄞􀅶􀆚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏮􀀃 􀏯 􀏭􀏳
+􀁗􀆌􀅽􀄐􀄞􀄞􀄚􀆐􀀃􀄨􀆌􀅽􀅵􀀃􀄚􀅝􀆐􀆉􀅽􀆐􀄂􀅯􀀃􀅽􀄨􀀃􀅝􀅶􀆚􀄂􀅶􀅐􀅝􀄏􀅯􀄞􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍲􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏳􀀃
+􀀯􀅶􀆚􀄞􀆌􀄞􀆐􀆚􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄞􀄚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏯􀀃 􀍕􀏬􀏱􀏲 􀏮􀍕􀏵􀏵􀏬
+􀀘􀅝􀇀􀅝􀄚􀄞􀅶􀄚􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄞􀄚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏰􀏬 􀏮􀏲
+􀀾􀅽􀄂􀅶􀀃􀆌􀄞􀄐􀅽􀇀􀄞􀆌􀄞􀄚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏯 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍲
+􀁅􀄞􀆚􀀃􀄐􀄂􀆐􀅚􀀃􀄨􀅯􀅽􀇁􀆐􀀃􀅐􀄞􀅶􀄞􀆌􀄂􀆚􀄞􀄚􀀃􀄨􀆌􀅽􀅵􀀃􀍬􀀃􀍾􀆵􀆐􀄞􀄚􀀃􀅝􀅶􀍿􀀃􀅝􀅶􀇀􀄞􀆐􀆚􀅝􀅶􀅐􀀃􀄂􀄐􀆚􀅝􀇀􀅝􀆚􀅝􀄞􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏮􀍕􀏯􀏭􀏴􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏲􀀃 􀍕􀏬􀏮􀏲
+􀁺􀄞􀄂􀆌􀀃􀄞􀅶􀄚􀄞􀄚
+􀀄􀅶􀅶􀄞􀇆􀆵􀆌􀄞􀀃􀀯
+􀁤􀀄􀁤􀀄􀀃􀀒􀁋􀁅􀁞􀁨􀀾􀁤􀀄􀁅􀀒􀁺􀀃􀁞􀀜􀁚􀁳􀀯􀀒􀀜􀁞􀀃􀀾􀀯􀁄􀀯􀁤􀀜􀀘
+􀀄􀆵􀄚􀅝􀆚􀄞􀄚􀀃􀀒􀅽􀅶􀆐􀅽􀅯􀅝􀄚􀄂􀆚􀄞􀄚􀀃􀁞􀆚􀄂􀆚􀄞􀅵􀄞􀅶􀆚􀀃􀅽􀄨􀀃􀀒􀄂􀆐􀅚􀀃􀀦􀅯􀅽􀇁􀆐􀀃
+􀍾 􀄐􀆌􀅽􀆌􀄞􀍿
+􀀃
+􀀃
+""
+􀀃
+􀀃􀀃􀀃􀀃􀎎􀁚􀄞􀆉􀆌􀄞􀆐􀄞􀅶􀆚􀆐􀀃􀇀􀄂􀅯􀆵􀄞􀀃􀅯􀄞􀆐􀆐􀀃􀆚􀅚􀄂􀅶􀀃 􀏬􀍘􀏱􀏬􀀃􀄐􀆌􀅽􀆌􀄞􀍘􀀃
+CASH FLOWS FROM FINANCING ACTIVITIES
+Repayment of lease liabilities
+Interest paid
+Dividend paid
+Dividend paid to non-controlling interests
+TATA CONSULTANCY SERVICES LIMITED
+Audited Consolidated Statement of Cash Flows
+Transfer of funds to buy-back escrow account
+Transfer of funds from buy-back escrow account
+Expenses for buy-back of equity shares
+Tax on buy-back of equity shares
+Buy-back of equity shares
+Sale of shares to non-controlling interests
+Net cash flows used in financing activities
+Net change in cash and cash equivalents
+Cash and cash equivalents at the beginning of the year
+Exchange difference on translation of foreign currency cash and cash equivalents
+Cash and cash equivalents at the end of the year
+Components of cash and cash equivalents
+Balances with banks
+In current accounts
+In deposit accounts
+Cheques on hand
+Cash on hand
+Remittances in transit
+(t' crore)
+Year ended
+March 31, March 31,
+2025 2024
+(1,664) (1,614)
+(840) {699)
+(44,864) (25,137)
+(98) (81)
+- (425)
+- 425
+- (46)
+- (3,959)
+- (17,000)
+28 -
+(47,438) (48,536)
+(848) 1,828
+9,016 7,123
+174 65
+8,342 9,016
+3,421 2,804
+4,907 6,212
+-* -*
+-* -*
+14 -*
+8,342 9,016
+B S R & Co. LLP
+Chartered Accountants
+14th Floor, Central B Wing and North C Wing
+Nesco IT Park 4, Nesco Center
+Western Express Highway
+Goregaon (East), Mumbai – 400 063, India
+Telephone: +91 (22) 6257 1000
+Fax: +91 (22) 6257 1010
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013
+14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+Page 1 of 3
+Independent Auditor’s Report
+To the Board of Directors of Tata Consultancy Services Limited
+Report on the audit of the Standalone Annual Financial Results
+Opinion
+We have audited the accompanying standalone annual financial results of Tata Consultancy Services
+Limited (hereinafter referred to as the “Company”) for the year ended 31 March 2025, attached herewith,
+being submitted by the Company pursuant to the requirement of Regulation 33 of the Securities and
+Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended ("Listing Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, the
+aforesaid standalone annual financial results:
+a. are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this
+regard; and
+b. give a true and fair view in conformity with the recognition and measurement principles laid down in
+the applicable Indian Accounting Standards, and other accounting principles generally accepted in
+India, of the net profit and other comprehensive income and other financial information for the year
+ended 31 March 2025.
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under section
+143(10) of the Companies Act, 2013 (“the Act”). Our responsibilities under those SAs are further described
+in the Auditor’s Responsibilities for the Audit of the Standalone Annual Financial Results section of our
+report. We are independent of the Company, in accordance with the Code of Ethics issued by the Institute
+of Chartered Accountants of India together with the ethical requirements that are relevant to our audit of
+the financial statements under the provisions of the Act, and the Rules thereunder, and we have fulfilled
+our other ethical responsibilities in accordance with these requirements and the Code of Ethics. We
+believe that the audit evidence obtained by us, is sufficient and appropriate to provide a basis for our
+opinion on the standalone annual financial results.
+Management’s and Board of Directors’ Responsibilities for the Standalone Annual Financial
+Results
+These standalone annual financial results have been prepared on the basis of the standalone annual
+financial statements.
+The Company’s Management and the Board of Directors are responsible for the preparation and
+presentation of these standalone annual financial results that give a true and fair view of the net profit/
+loss and other comprehensive income and other financial information in accordance with the recognition
+and measurement principles laid down in Indian Accounting Standards prescribed under Section 133 of
+the Act and other accounting principles generally accepted in India and in compliance with Regulation 33
+of the Listing Regulations. This responsibility also includes maintenance of adequate accounting records
+in accordance with the provisions of the Act for safeguarding of the assets of the Company and for
+preventing and detecting frauds and other irregularities; selection and application of appropriate
+accounting policies; making judgments and estimates that are reasonable and prudent; and the design,
+implementation and maintenance of adequate internal financial controls, that were operating effectively
+for ensuring accuracy and completeness of the accounting records, relevant to the preparation and
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+Tata Consultancy Services Limited
+Page 2 of 3
+presentation of the standalone annual financial results that give a true and fair view and are free from
+material misstatement, whether due to fraud or error.
+In preparing the standalone annual financial results, the Management and the Board of Directors are
+responsible for assessing the Company’s ability to continue as a going concern, disclosing, as applicable,
+matters related to going concern and using the going concern basis of accounting unless the Board of
+Directors either intends to liquidate the Company or to cease operations, or has no realistic alternative
+but to do so.
+The Board of Directors are responsible for overseeing the Company’s financial reporting process.
+Auditor’s Responsibilities for the Audit of the Standalone Annual Financial Results
+Our objectives are to obtain reasonable assurance about whether the standalone annual financial results
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s
+report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee
+that an audit conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of
+these standalone annual financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also:
+– Identify and assess the risks of material misstatement of the standalone annual financial results,
+whether due to fraud or error, design and perform audit procedures responsive to those risks, and
+obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+internal control.
+– Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+that are appropriate in the circumstances. Under Section 143(3) (i) of the Act, we are also responsible
+for expressing our opinion through a separate report on the complete set of financial statements on
+whether the company has adequate internal financial controls with reference to financial statements
+in place and the operating effectiveness of such controls.
+– Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+estimates and related disclosures in the standalone annual financial results made by the Management
+and Board of Directors.
+– Conclude on the appropriateness of the Management’s and Board of Directors’ use of the going
+concern basis of accounting and, based on the audit evidence obtained, whether a material
+uncertainty exists related to events or conditions that may cast significant doubt on the
+appropriateness of this assumption. If we conclude that a material uncertainty exists, we are required
+to draw attention in our auditor’s report to the related disclosures in the standalone annual financial
+results or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on
+the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions
+may cause the Company to cease to continue as a going concern.
+– Evaluate the overall presentation, structure and content of the standalone annual financial results,
+including the disclosures, and whether the standalone annual financial results represent the
+underlying transactions and events in a manner that achieves fair presentation.
+We communicate with those charged with governance regarding, among other matters, the planned scope
+and timing of the audit and significant audit findings, including any significant deficiencies in internal control
+that we identify during our audit.
+We also provide those charged with governance with a statement that we have complied with relevant
+ethical requirements regarding independence, and to communicate with them all relationships and other
+matters that may reasonably be thought to bear on our independence, and where applicable, related
+safeguards.
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+Tata Consultancy Services Limited
+Page 3 of 3
+Other Matter
+a. The standalone annual financial results include the results for the quarter ended 31 March 2025 being
+the balancing figure between the audited figures in respect of the full financial year and the published
+audited year to date figures up to the third quarter of the current financial year.
+For B S R & Co. LLP
+Chartered Accountants
+Firm’s Registration No.:101248W/W-100022
+Aniruddha Godbole
+Partner
+Mumbai Membership No.: 105149
+10 April 2025 UDIN:25105149BMLWYJ5197
+ANIRUDDHA
+SHREEKANT
+GODBOLE
+Digitally signed by
+ANIRUDDHA
+SHREEKANT GODBOLE
+Date: 2025.04.10
+14:56:40 +05'30'
+􀀃
+TATA CONSULTANCY SERVICES LIMITED
+Registered Office: 9th Floor, Nirmal Building, Nariman Point, Mumbai 400 021
+CIN: L22210MH199SPLC084781
+Tel: +91 22 6778 9595 e-mail: investor.relations@tcs.com Website: www.tcs.com
+Audited Standalone Statement of Financial Results
+Three months ended
+March 31, December 31, March 31,
+2025 2024 2024
+Revenue from operations 54,136 53,883 51,488
+Other income 1,922 2,118 1,806
+TOTAL INCOME 56,058 56,001 53,294
+Expenses
+Employee benefit expenses 27,215 26,613 25,631
+Cost of equipment and software licences 2,673 3,463 1,484
+Fina nee costs 201 211 197
+Depreciation and amortisation expense 1,118 1,125 975
+Other expenses 10,179 9,080 9,827
+TOTAL EXPENSES 41,386 40,492 38,114
+PROFIT BEFORE EXCEPTIONAL ITEM AND TAX 14,672 15,509 15,180
+Exceptional item
+Settlement of legal claim - - .
+PROFIT BEFORE TAX 14,672 15,509 15,180
+Tax Expense
+Current tax 3,774 3,638 3,925
+Deferred tax (218) 39 (138)
+TOTAL TAX EXPENSE 3,556 3,677 3,787
+PROFIT FOR THE YEAR 11,116 11,832 11,393
+OTHER COMPREHENSIVE INCOME {OCI)
+Items that will not be reclassified subsequently to profit or loss
+Remeasurement of defined employee benefit plans (151) 21 53
+Net change in fair values of investments in equity shares carried at fair . . .
+value through OCI
+Income tax on items that will not be reclassified subsequently to profit or 38 (6) (12)
+loss
+Items that will be reclassified subsequently to profit or loss
+Net change in fair values of investments other than equity shares carried 281 (134) 208
+at fair value through OCI
+(18) 29 9
+Net change in intrinsic value of derivatives designated as cash flow hedges
+Net change in time value of derivatives designated as cash flow hedges (9) 22 15
+Income tax on items that will be reclassified subsequently to profit or loss (63) 20 (57)
+TOTAL OTHER COMPREHENSIVE INCOME/ {LOSSES) 78 (48) 216
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR 11,194 11,784 11,609
+Paid up equity share capital (Face value: ~1 per share) 362 362 362
+Total reserves
+Earnings per equity share:- Basic and diluted (t) 30.72 32.71 31.48
+Dividend per share (Par value ,1 each)
+Interim dividend on equity shares (t) . 76.00 .
+Final dividend on equity shares (t) 30.00 . 28.00
+Total dividend on equity shares (t) 30.00 76.00 28.00
+Total equity dividend percentage 3,000 7,600 2,800
+(" crore)
+Year ended
+March 31, March 31,
+2025 2024
+2,14,853 2,02,359
+9,642 7,273
+2,24,495 2,09,632
+1,07,300 1,03,139
+11,372 3,347
+703 673
+4,220 3,887
+38,252 40,026
+1,61,847 1,51,072
+62,648 58,560
+. 958
+62,648 57,602
+14,823 14,178
+(232) (135)
+14,591 14,043
+48,057 43,559
+(180) (60)
+. .
+45 13
+593 237
+1 1
+(9) 13
+(146) (39)
+304 165
+48,361 43,724
+362 362
+75,255 71,758
+132.83 119.44
+96.00 45.00
+30.00 28.00
+126.00 73.00
+12,600 7,300
+􀀄􀆐􀀃􀄂􀆚 􀀄􀆐􀀃􀄂􀆚
+􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕􀀃􀏮􀏬􀏮􀏱 􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕􀀃􀏮􀏬􀏮􀏰
+􀀄􀁞􀁞􀀜􀁤􀁞
+􀁅􀅽􀅶􀍲􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀄂􀆐􀆐􀄞􀆚􀆐
+􀁗􀆌􀅽􀆉􀄞􀆌􀆚􀇇􀍕􀀃􀆉􀅯􀄂􀅶􀆚􀀃􀄂􀅶􀄚􀀃􀄞􀆋􀆵􀅝􀆉􀅵􀄞􀅶􀆚 􀏴􀍕􀏯􀏰􀏲 􀏴􀍕􀏯􀏯􀏲
+􀀒􀄂􀆉􀅝􀆚􀄂􀅯􀀃􀇁􀅽􀆌􀅬􀍲􀅝􀅶􀍲􀆉􀆌􀅽􀅐􀆌􀄞􀆐􀆐 􀏭􀍕􀏯􀏭􀏴 􀏭􀍕􀏰􀏱􀏬
+􀁚􀅝􀅐􀅚􀆚􀍲􀅽􀄨􀍲􀆵􀆐􀄞􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏳􀍕􀏲􀏬􀏭 􀏲􀍕􀏭􀏱􀏰
+􀀯􀅶􀆚􀄂􀅶􀅐􀅝􀄏􀅯􀄞􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏴􀏳􀏴 􀏰􀏲􀏯
+􀀦􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀄂􀆐􀆐􀄞􀆚􀆐
+􀀯􀅶􀇀􀄞􀆐􀆚􀅵􀄞􀅶􀆚􀆐 􀏯􀍕􀏵􀏵􀏵 􀏮􀍕􀏰􀏬􀏱
+􀁤􀆌􀄂􀄚􀄞􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄂􀄏􀅯􀄞􀆐
+􀀑􀅝􀅯􀅯􀄞􀄚 􀏵􀏭 􀏭􀏮􀏳
+􀁨􀅶􀄏􀅝􀅯􀅯􀄞􀄚 􀏰􀏰 􀏲􀏱
+􀀾􀅽􀄂􀅶􀆐 􀏮 􀏮
+􀁋􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏲􀏱􀏳 􀏲􀏮􀏲
+􀀘􀄞􀄨􀄞􀆌􀆌􀄞􀄚􀀃􀆚􀄂􀇆􀀃􀄂􀆐􀆐􀄞􀆚􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀏮􀍕􀏲􀏱􀏴 􀏮􀍕􀏱􀏮􀏰
+􀀯􀅶􀄐􀅽􀅵􀄞􀀃􀆚􀄂􀇆􀀃􀄂􀆐􀆐􀄞􀆚􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀏭􀍕􀏭􀏯􀏭 􀏭􀍕􀏬􀏲􀏮
+􀁋􀆚􀅚􀄞􀆌􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏮􀍕􀏵􀏬􀏬 􀏯􀍕􀏬􀏭􀏲
+􀁤􀅽􀆚􀄂􀅯􀀃􀅶􀅽􀅶􀍲􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏮􀏵􀍕􀏲􀏮􀏱 􀏮􀏲􀍕􀏮􀏯􀏬
+􀀒􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀄂􀆐􀆐􀄞􀆚􀆐
+􀀯􀅶􀇀􀄞􀅶􀆚􀅽􀆌􀅝􀄞􀆐 􀏮􀏬 􀏮􀏳
+􀀦􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀄂􀆐􀆐􀄞􀆚􀆐
+􀀯􀅶􀇀􀄞􀆐􀆚􀅵􀄞􀅶􀆚􀆐 􀏮􀏴􀍕􀏴􀏬􀏯 􀏮􀏵􀍕􀏴􀏰􀏬
+􀁤􀆌􀄂􀄚􀄞􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄂􀄏􀅯􀄞􀆐
+􀀑􀅝􀅯􀅯􀄞􀄚 􀏰􀏰􀍕􀏯􀏵􀏮 􀏯􀏴􀍕􀏱􀏵􀏭
+􀁨􀅶􀄏􀅝􀅯􀅯􀄞􀄚 􀏳􀍕􀏯􀏳􀏱 􀏳􀍕􀏰􀏳􀏳
+􀀒􀄂􀆐􀅚􀀃􀄂􀅶􀄚􀀃􀄐􀄂􀆐􀅚􀀃􀄞􀆋􀆵􀅝􀇀􀄂􀅯􀄞􀅶􀆚􀆐 􀏮􀍕􀏲􀏭􀏬 􀏯􀍕􀏲􀏰􀏰
+􀁋􀆚􀅚􀄞􀆌􀀃􀄏􀄂􀅯􀄂􀅶􀄐􀄞􀆐􀀃􀇁􀅝􀆚􀅚􀀃􀄏􀄂􀅶􀅬􀆐 􀏰􀍕􀏱􀏰􀏮 􀏮􀍕􀏵􀏱􀏱
+􀀾􀅽􀄂􀅶􀆐 􀏰􀏮 􀏯􀏭􀏳
+􀁋􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏮􀍕􀏰􀏱􀏱 􀏭􀍕􀏱􀏱􀏵
+􀀯􀅶􀄐􀅽􀅵􀄞􀀃􀆚􀄂􀇆􀀃􀄂􀆐􀆐􀄞􀆚􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏮􀏮􀏲􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀏭􀏭􀀃
+􀁋􀆚􀅚􀄞􀆌􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏭􀏮􀍕􀏲􀏵􀏴 􀏭􀏬􀍕􀏯􀏵􀏳
+􀁤􀅽􀆚􀄂􀅯􀀃􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀏭􀍕􀏬􀏯􀍕􀏭􀏲􀏯 􀏵􀏰􀍕􀏵􀏭􀏴
+􀁤􀁋􀁤􀀄􀀾􀀃􀀄􀁞􀁞􀀜􀁤􀁞 􀏭􀍕􀏯􀏮􀍕􀏳􀏴􀏴 􀏭􀍕􀏮􀏭􀍕􀏭􀏰􀏴
+􀀜􀁙􀁨􀀯􀁤􀁺􀀃􀀄􀁅􀀘􀀃􀀾􀀯􀀄􀀑􀀯􀀾􀀯􀁤􀀯􀀜􀁞
+􀀜􀆋􀆵􀅝􀆚􀇇
+􀁞􀅚􀄂􀆌􀄞􀀃􀄐􀄂􀆉􀅝􀆚􀄂􀅯 􀏯􀏲􀏮 􀏯􀏲􀏮
+􀁋􀆚􀅚􀄞􀆌􀀃􀄞􀆋􀆵􀅝􀆚􀇇 􀏳􀏱􀍕􀏮􀏱􀏱 􀏳􀏭􀍕􀏳􀏱􀏴
+􀁤􀅽􀆚􀄂􀅯􀀃􀄞􀆋􀆵􀅝􀆚􀇇 􀏳􀏱􀍕􀏲􀏭􀏳 􀏳􀏮􀍕􀏭􀏮􀏬
+􀀾􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐
+􀁅􀅽􀅶􀍲􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐
+􀀦􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐
+􀀾􀄞􀄂􀆐􀄞􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏲􀍕􀏰􀏴􀏲 􀏱􀍕􀏭􀏮􀏴
+􀁋􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏲􀏮􀏲 􀏯􀏭􀏱
+􀀜􀅵􀆉􀅯􀅽􀇇􀄞􀄞􀀃􀄏􀄞􀅶􀄞􀄨􀅝􀆚􀀃􀅽􀄏􀅯􀅝􀅐􀄂􀆚􀅝􀅽􀅶􀆐 􀏭􀏴􀏲 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀏰􀏰􀀃
+􀀘􀄞􀄨􀄞􀆌􀆌􀄞􀄚􀀃􀆚􀄂􀇆􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀏮􀏬􀏮 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀏱􀏰􀀃
+􀁨􀅶􀄞􀄂􀆌􀅶􀄞􀄚􀀃􀄂􀅶􀄚􀀃􀄚􀄞􀄨􀄞􀆌􀆌􀄞􀄚􀀃􀆌􀄞􀇀􀄞􀅶􀆵􀄞 􀏰􀏴􀏵 􀏮􀏮􀏲
+􀁤􀅽􀆚􀄂􀅯􀀃􀅶􀅽􀅶􀍲􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏳􀍕􀏵􀏴􀏵 􀏱􀍕􀏵􀏲􀏳
+􀀒􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐
+􀀦􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐
+􀀾􀄞􀄂􀆐􀄞􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏭􀍕􀏬􀏵􀏭 􀏭􀍕􀏬􀏭􀏳
+􀁤􀆌􀄂􀄚􀄞􀀃􀆉􀄂􀇇􀄂􀄏􀅯􀄞􀆐
+􀀘􀆵􀄞􀆐􀀃􀅽􀄨􀀃􀆐􀅵􀄂􀅯􀅯􀀃􀄞􀅶􀆚􀄞􀆌􀆉􀆌􀅝􀆐􀄞􀆐􀀃􀄂􀅶􀄚􀀃􀅵􀅝􀄐􀆌􀅽􀀃􀄞􀅶􀆚􀄞􀆌􀆉􀆌􀅝􀆐􀄞􀆐􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀏱􀏲􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏳􀏵􀀃
+􀀘􀆵􀄞􀆐􀀃􀅽􀄨􀀃􀄐􀆌􀄞􀄚􀅝􀆚􀅽􀆌􀆐􀀃􀅽􀆚􀅚􀄞􀆌􀀃􀆚􀅚􀄂􀅶􀀃􀆐􀅵􀄂􀅯􀅯􀀃􀄞􀅶􀆚􀄞􀆌􀆉􀆌􀅝􀆐􀄞􀆐􀀃􀄂􀅶􀄚􀀃􀅵􀅝􀄐􀆌􀅽􀀃􀄞􀅶􀆚􀄞􀆌􀆉􀆌􀅝􀆐􀄞􀆐􀀃 􀏭􀏳􀍕􀏯􀏮􀏳 􀏭􀏰􀍕􀏱􀏮􀏬
+􀁋􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏲􀍕􀏱􀏱􀏭 􀏲􀍕􀏮􀏴􀏲
+􀁨􀅶􀄞􀄂􀆌􀅶􀄞􀄚􀀃􀄂􀅶􀄚􀀃􀄚􀄞􀄨􀄞􀆌􀆌􀄞􀄚􀀃􀆌􀄞􀇀􀄞􀅶􀆵􀄞 􀏯􀍕􀏯􀏳􀏳 􀏮􀍕􀏴􀏭􀏭
+􀁋􀆚􀅚􀄞􀆌􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏱􀍕􀏭􀏭􀏬 􀏰􀍕􀏰􀏱􀏴
+􀁗􀆌􀅽􀇀􀅝􀆐􀅝􀅽􀅶􀆐 􀏵􀏮 􀏳􀏭
+􀀜􀅵􀆉􀅯􀅽􀇇􀄞􀄞􀀃􀄏􀄞􀅶􀄞􀄨􀅝􀆚􀀃􀅽􀄏􀅯􀅝􀅐􀄂􀆚􀅝􀅽􀅶􀆐 􀏯􀍕􀏲􀏮􀏭 􀏯􀍕􀏯􀏯􀏮
+􀀯􀅶􀄐􀅽􀅵􀄞􀀃􀆚􀄂􀇆􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀏭􀏭􀍕􀏴􀏱􀏳 􀏭􀏬􀍕􀏰􀏴􀏳
+􀁤􀅽􀆚􀄂􀅯􀀃􀄐􀆵􀆌􀆌􀄞􀅶􀆚􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀏰􀏵􀍕􀏭􀏴􀏮 􀏰􀏯􀍕􀏬􀏲􀏭
+􀁤􀁋􀁤􀀄􀀾􀀃􀀜􀁙􀁨􀀯􀁤􀁺􀀃􀀄􀁅􀀘􀀃􀀾􀀯􀀄􀀑􀀯􀀾􀀯􀁤􀀯􀀜􀁞 􀏭􀍕􀏯􀏮􀍕􀏳􀏴􀏴 􀏭􀍕􀏮􀏭􀍕􀏭􀏰􀏴
+􀁤􀀄􀁤􀀄􀀃􀀒􀁋􀁅􀁞􀁨􀀾􀁤􀀄􀁅􀀒􀁺􀀃􀁞􀀜􀁚􀁳􀀯􀀒􀀜􀁞􀀃􀀾􀀯􀁄􀀯􀁤􀀜􀀘
+􀀄􀆵􀄚􀅝􀆚􀄞􀄚􀀃􀁞􀆚􀄂􀅶􀄚􀄂􀅯􀅽􀅶􀄞􀀃􀀑􀄂􀅯􀄂􀅶􀄐􀄞􀀃􀁞􀅚􀄞􀄞􀆚
+􀍾 􀄐􀆌􀅽􀆌􀄞􀍿
+􀀃
+􀀃
+􀁞􀄞􀅯􀄞􀄐􀆚􀀃􀄞􀇆􀆉􀅯􀄂􀅶􀄂􀆚􀅽􀆌􀇇􀀃􀅶􀅽􀆚􀄞􀆐􀀃􀆚􀅽􀀃􀆚􀅚􀄞􀀃􀁞􀆚􀄂􀆚􀄞􀅵􀄞􀅶􀆚􀀃􀅽􀄨􀀃􀀄􀆵􀄚􀅝􀆚􀄞􀄚􀀃􀁞􀆚􀄂􀅶􀄚􀄂􀅯􀅽􀅶􀄞􀀃􀀦􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀁚􀄞􀆐􀆵􀅯􀆚􀆐􀀃􀄨􀅽􀆌􀀃􀆚􀅚􀆌􀄞􀄞􀀃􀅵􀅽􀅶􀆚􀅚􀆐􀀃􀄂􀅶􀄚􀀃􀇇􀄞􀄂􀆌􀀃􀄞􀅶􀄚􀄞􀄚􀀃􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕􀀃
+􀏮􀏬􀏮􀏱
+􀏭􀍘 􀁤􀅚􀄞􀆐􀄞􀀃􀆌􀄞􀆐􀆵􀅯􀆚􀆐􀀃􀅚􀄂􀇀􀄞􀀃􀄏􀄞􀄞􀅶􀀃􀆉􀆌􀄞􀆉􀄂􀆌􀄞􀄚􀀃􀅽􀅶􀀃􀆚􀅚􀄞􀀃􀄏􀄂􀆐􀅝􀆐􀀃􀅽􀄨􀀃􀆚􀅚􀄞􀀃􀄂􀆵􀄚􀅝􀆚􀄞􀄚􀀃􀆐􀆚􀄂􀅶􀄚􀄂􀅯􀅽􀅶􀄞􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀆐􀆚􀄂􀆚􀄞􀅵􀄞􀅶􀆚􀆐􀀃􀄨􀅽􀆌􀀃􀆚􀅚􀄞􀀃􀇇􀄞􀄂􀆌􀀃􀄞􀅶􀄚􀄞􀄚􀀃􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕􀀃􀏮􀏬􀏮􀏱􀀃􀄂􀅶􀄚􀀃
+􀆚􀅚􀄞􀀃􀄂􀆵􀄚􀅝􀆚􀄞􀄚􀀃􀆐􀆚􀄂􀅶􀄚􀄂􀅯􀅽􀅶􀄞􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀆐􀆚􀄂􀆚􀄞􀅵􀄞􀅶􀆚􀆐􀀃􀆵􀆉􀆚􀅽􀀃􀆚􀅚􀄞􀀃􀄞􀅶􀄚􀀃􀅽􀄨􀀃􀆚􀅚􀄞􀀃􀆚􀅚􀅝􀆌􀄚􀀃􀆋􀆵􀄂􀆌􀆚􀄞􀆌􀍕􀀃􀇁􀅚􀅝􀄐􀅚􀀃􀄂􀆌􀄞􀀃􀆉􀆌􀄞􀆉􀄂􀆌􀄞􀄚􀀃􀅝􀅶􀀃􀄂􀄐􀄐􀅽􀆌􀄚􀄂􀅶􀄐􀄞􀀃􀇁􀅝􀆚􀅚􀀃􀆚􀅚􀄞􀀃􀀯􀅶􀄚􀀃􀀄􀁞􀀃
+􀅶􀅽􀆚􀅝􀄨􀅝􀄞􀄚􀀃􀆵􀅶􀄚􀄞􀆌􀀃􀆚􀅚􀄞􀀃􀀒􀅽􀅵􀆉􀄂􀅶􀅝􀄞􀆐􀀃􀍾􀀯􀅶􀄚􀅝􀄂􀅶􀀃􀀄􀄐􀄐􀅽􀆵􀅶􀆚􀅝􀅶􀅐􀀃􀁞􀆚􀄂􀅶􀄚􀄂􀆌􀄚􀆐􀍿􀀃􀁚􀆵􀅯􀄞􀆐􀍕􀀃􀏮􀏬􀏭􀏱􀍘􀀃􀁤􀅚􀄞􀆐􀄞􀀃􀆌􀄞􀆐􀆵􀅯􀆚􀆐􀀃􀅚􀄂􀇀􀄞􀀃􀄏􀄞􀄞􀅶􀀃􀆌􀄞􀇀􀅝􀄞􀇁􀄞􀄚􀀃􀄏􀇇􀀃􀆚􀅚􀄞􀀃􀀄􀆵􀄚􀅝􀆚􀀃􀀒􀅽􀅵􀅵􀅝􀆚􀆚􀄞􀄞􀀃
+􀄂􀅶􀄚􀀃􀄂􀆉􀆉􀆌􀅽􀇀􀄞􀄚􀀃􀄏􀇇􀀃􀆚􀅚􀄞􀀃􀀑􀅽􀄂􀆌􀄚􀀃􀅽􀄨􀀃􀀘􀅝􀆌􀄞􀄐􀆚􀅽􀆌􀆐􀀃􀄂􀆚􀀃􀅝􀆚􀆐􀀃􀅵􀄞􀄞􀆚􀅝􀅶􀅐􀀃􀅚􀄞􀅯􀄚􀀃􀅽􀅶􀀃􀀄􀆉􀆌􀅝􀅯􀀃􀏭􀏬􀍕􀀃􀏮􀏬􀏮􀏱􀍘􀀃􀁤􀅚􀄞􀀃􀆐􀆚􀄂􀆚􀆵􀆚􀅽􀆌􀇇􀀃􀄂􀆵􀄚􀅝􀆚􀅽􀆌􀆐􀀃􀅚􀄂􀇀􀄞􀀃􀄞􀇆􀆉􀆌􀄞􀆐􀆐􀄞􀄚􀀃􀄂􀅶􀀃􀆵􀅶􀅵􀅽􀄚􀅝􀄨􀅝􀄞􀄚􀀃
+􀄂􀆵􀄚􀅝􀆚􀀃􀅽􀆉􀅝􀅶􀅝􀅽􀅶􀀃􀅽􀅶􀀃􀆚􀅚􀄞􀆐􀄞􀀃􀆌􀄞􀆐􀆵􀅯􀆚􀆐􀍘􀀃
+􀏮􀍘 􀀄􀆵􀄚􀅝􀆚􀄞􀄚􀀃􀁞􀆚􀄂􀅶􀄚􀄂􀅯􀅽􀅶􀄞􀀃􀁞􀆚􀄂􀆚􀄞􀅵􀄞􀅶􀆚􀀃􀅽􀄨􀀃􀀒􀄂􀆐􀅚􀀃􀀦􀅯􀅽􀇁􀆐􀀃􀅝􀆐􀀃􀄂􀆚􀆚􀄂􀄐􀅚􀄞􀄚􀀃􀅝􀅶􀀃􀀄􀅶􀅶􀄞􀇆􀆵􀆌􀄞􀀃􀀄􀍘􀀃
+􀀃
+􀏯􀍘 􀁋􀅶􀀃 􀀺􀄂􀅶􀆵􀄂􀆌􀇇􀀃 􀏮􀏵􀍕􀀃 􀏮􀏬􀏮􀏱􀍕􀀃 􀁤􀄂􀆚􀄂􀀃 􀀒􀅽􀅶􀆐􀆵􀅯􀆚􀄂􀅶􀄐􀇇􀀃 􀁞􀄞􀆌􀇀􀅝􀄐􀄞􀆐􀀃 􀀾􀅝􀅵􀅝􀆚􀄞􀄚􀀃 􀄂􀄐􀆋􀆵􀅝􀆌􀄞􀄚􀀃 􀏭􀏬􀏬􀐹􀀃 􀄞􀆋􀆵􀅝􀆚􀇇􀀃 􀆐􀅚􀄂􀆌􀄞􀆐􀀃 􀄂􀅶􀄚􀀃 􀅽􀆉􀆚􀅝􀅽􀅶􀄂􀅯􀅯􀇇􀀃 􀆌􀄞􀄚􀄞􀄞􀅵􀄂􀄏􀅯􀄞􀀃 􀄐􀅽􀅶􀇀􀄞􀆌􀆚􀅝􀄏􀅯􀄞􀀃
+􀄚􀄞􀄏􀄞􀅶􀆚􀆵􀆌􀄞􀆐􀀃􀅽􀄨􀀃􀁤􀁚􀀯􀀾􀀃􀀑􀄞􀅶􀅐􀄂􀅯􀆵􀆌􀆵􀀃􀁚􀄞􀄂􀅯􀀃􀀜􀆐􀆚􀄂􀆚􀄞􀀃􀀦􀅝􀇀􀄞􀀃􀀾􀅝􀅵􀅝􀆚􀄞􀄚􀀃􀄂􀅶􀄚􀀃􀁤􀁚􀀯􀀾􀀃􀀑􀄞􀅶􀅐􀄂􀅯􀆵􀆌􀆵􀀃􀁚􀄞􀄂􀅯􀀃􀀜􀆐􀆚􀄂􀆚􀄞􀀃􀁞􀅝􀇆􀀃􀀾􀅝􀅵􀅝􀆚􀄞􀄚􀀃􀄂􀆚􀀃􀄂􀀃􀄐􀅽􀅶􀆐􀅝􀄚􀄞􀆌􀄂􀆚􀅝􀅽􀅶􀀃􀅽􀄨􀀃 􀏭􀍕􀏱􀏵􀏯􀀃􀄐􀆌􀅽􀆌􀄞􀍘􀀃
+􀏰􀍘 􀁤􀅚􀄞􀀃􀀑􀅽􀄂􀆌􀄚􀀃􀅽􀄨􀀃􀀘􀅝􀆌􀄞􀄐􀆚􀅽􀆌􀆐􀀃􀄂􀆚􀀃􀅝􀆚􀆐􀀃􀅵􀄞􀄞􀆚􀅝􀅶􀅐􀀃􀅚􀄞􀅯􀄚􀀃􀅽􀅶􀀃􀀄􀆉􀆌􀅝􀅯􀀃􀏭􀏬􀍕􀀃􀏮􀏬􀏮􀏱􀍕􀀃􀅚􀄂􀆐􀀃􀆉􀆌􀅽􀆉􀅽􀆐􀄞􀄚􀀃􀄂􀀃􀄨􀅝􀅶􀄂􀅯􀀃􀄚􀅝􀇀􀅝􀄚􀄞􀅶􀄚􀀃􀅽􀄨􀀃 􀏯􀏬􀍘􀏬􀏬􀀃􀆉􀄞􀆌􀀃􀄞􀆋􀆵􀅝􀆚􀇇􀀃􀆐􀅚􀄂􀆌􀄞􀍘􀀃􀀃
+􀏱􀍘 􀁤􀅚􀄞􀀃 􀆌􀄞􀆐􀆵􀅯􀆚􀆐􀀃 􀄨􀅽􀆌􀀃 􀆚􀅚􀆌􀄞􀄞􀀃 􀅵􀅽􀅶􀆚􀅚􀆐􀀃 􀄂􀅶􀄚􀀃 􀇇􀄞􀄂􀆌􀀃 􀄞􀅶􀄚􀄞􀄚 􀁄􀄂􀆌􀄐􀅚􀀃 􀏯􀏭􀍕􀀃 􀏮􀏬􀏮􀏱􀍕􀀃 􀄂􀆌􀄞􀀃 􀄂􀇀􀄂􀅝􀅯􀄂􀄏􀅯􀄞􀀃 􀅽􀅶􀀃 􀆚􀅚􀄞􀀃 􀀑􀁞􀀜􀀃 􀀾􀅝􀅵􀅝􀆚􀄞􀄚􀀃 􀇁􀄞􀄏􀆐􀅝􀆚􀄞􀀃􀀃
+􀍾􀁨􀁚􀀾􀍗􀀃􀇁􀇁􀇁􀍘􀄏􀆐􀄞􀅝􀅶􀄚􀅝􀄂􀍘􀄐􀅽􀅵􀍿􀍕􀀃􀆚􀅚􀄞􀀃􀁅􀄂􀆚􀅝􀅽􀅶􀄂􀅯􀀃􀁞􀆚􀅽􀄐􀅬􀀃􀀜􀇆􀄐􀅚􀄂􀅶􀅐􀄞􀀃􀅽􀄨􀀃􀀯􀅶􀄚􀅝􀄂􀀃􀀾􀅝􀅵􀅝􀆚􀄞􀄚􀀃􀇁􀄞􀄏􀆐􀅝􀆚􀄞􀀃􀍾􀁨􀁚􀀾􀍗􀀃 􀇁􀇁􀇁􀍘􀅶􀆐􀄞􀅝􀅶􀄚􀅝􀄂􀍘􀄐􀅽􀅵
+􀇁􀄞􀄏􀆐􀅝􀆚􀄞􀀃􀍾􀁨􀁚􀀾􀍗􀀃􀇁􀇁􀇁􀍘􀆚􀄐􀆐􀍘􀄐􀅽􀅵􀍬􀅝􀅶􀇀􀄞􀆐􀆚􀅽􀆌􀆐􀍿􀍘􀀃
+􀀦􀅽􀆌􀀃􀄂􀅶􀄚􀀃􀅽􀅶􀀃􀄏􀄞􀅚􀄂􀅯􀄨􀀃􀅽􀄨􀀃􀆚􀅚􀄞􀀃􀀑􀅽􀄂􀆌􀄚􀀃􀅽􀄨􀀃􀀘􀅝􀆌􀄞􀄐􀆚􀅽􀆌􀆐􀀃
+􀁄􀆵􀅵􀄏􀄂􀅝􀀃 􀀃 􀀃 􀀃 􀀃 􀀃 􀀃 􀀃 􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀼􀀃􀀼􀆌􀅝􀆚􀅚􀅝􀇀􀄂􀆐􀄂􀅶􀀃􀀃
+􀀄􀆉􀆌􀅝􀅯􀀃􀏭􀏬􀍕􀀃􀏮􀏬􀏮􀏱􀀃 􀀃 􀀃 􀀃 􀀃 􀀃 􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀒􀀜􀁋􀀃􀄂􀅶􀄚􀀃􀁄􀄂􀅶􀄂􀅐􀅝􀅶􀅐􀀃􀀘􀅝􀆌􀄞􀄐􀆚􀅽􀆌􀀃
+􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀘􀀯􀁅􀍗􀀃􀏭􀏬􀏭􀏬􀏲􀏳􀏯􀏵􀀃
+KUNCHITHAM
+KRITHIVASAN
+Digitally signed by
+KUNCHITHAM KRITHIVASAN
+Date: 2025.04.10 14:36:34
++05'30'
+______ _, and on the Company's
+􀀃
+􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕 􀁄􀄂􀆌􀄐􀅚􀀃􀏯􀏭􀍕
+􀏮􀏬􀏮􀏱 􀏮􀏬􀏮􀏰
+􀀒􀀄􀁞􀀬􀀃􀀦􀀾􀁋􀁴􀁞􀀃􀀦􀁚􀁋􀁄􀀃􀁋􀁗􀀜􀁚􀀄􀁤􀀯􀁅􀀧􀀃􀀄􀀒􀁤􀀯􀁳􀀯􀁤􀀯􀀜􀁞
+􀁗􀆌􀅽􀄨􀅝􀆚􀀃􀄨􀅽􀆌􀀃􀆚􀅚􀄞􀀃􀇇􀄞􀄂􀆌 􀏰􀏴􀍕􀏬􀏱􀏳 􀏰􀏯􀍕􀏱􀏱􀏵
+􀀄􀄚􀅩􀆵􀆐􀆚􀅵􀄞􀅶􀆚􀆐􀀃􀄨􀅽􀆌􀍗
+􀀘􀄞􀆉􀆌􀄞􀄐􀅝􀄂􀆚􀅝􀅽􀅶􀀃􀄂􀅶􀄚􀀃􀄂􀅵􀅽􀆌􀆚􀅝􀆐􀄂􀆚􀅝􀅽􀅶􀀃􀄞􀇆􀆉􀄞􀅶􀆐􀄞 􀏰􀍕􀏮􀏮􀏬 􀏯􀍕􀏴􀏴􀏳
+􀀑􀄂􀄚􀀃􀄚􀄞􀄏􀆚􀆐􀀃􀄂􀅶􀄚􀀃􀄂􀄚􀇀􀄂􀅶􀄐􀄞􀆐􀀃􀇁􀆌􀅝􀆚􀆚􀄞􀅶􀀃􀅽􀄨􀄨􀍕􀀃􀄂􀅯􀅯􀅽􀇁􀄂􀅶􀄐􀄞􀀃􀄨􀅽􀆌􀀃􀄞􀇆􀆉􀄞􀄐􀆚􀄞􀄚􀀃􀄐􀆌􀄞􀄚􀅝􀆚􀀃􀅯􀅽􀆐􀆐􀄞􀆐􀀃􀄂􀅶􀄚􀀃􀀃􀄚􀅽􀆵􀄏􀆚􀄨􀆵􀅯􀀃􀄂􀄚􀇀􀄂􀅶􀄐􀄞􀆐􀀃􀍾􀅶􀄞􀆚􀍿 􀏳􀏴 􀏵􀏳
+􀁤􀄂􀇆􀀃􀄞􀇆􀆉􀄞􀅶􀆐􀄞 􀏭􀏰􀍕􀏱􀏵􀏭 􀏭􀏰􀍕􀏬􀏰􀏯
+􀁅􀄞􀆚􀀃􀅐􀄂􀅝􀅶􀀃􀅽􀅶􀀃􀅯􀄞􀄂􀆐􀄞􀀃􀅵􀅽􀄚􀅝􀄨􀅝􀄐􀄂􀆚􀅝􀅽􀅶 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀏬􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏮􀍿
+􀁨􀅶􀆌􀄞􀄂􀅯􀅝􀆐􀄞􀄚􀀃􀄨􀅽􀆌􀄞􀅝􀅐􀅶􀀃􀄞􀇆􀄐􀅚􀄂􀅶􀅐􀄞􀀃􀅐􀄂􀅝􀅶 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀏴􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏭􀏭􀍿
+􀁅􀄞􀆚􀀃􀅐􀄂􀅝􀅶􀀃􀅽􀅶􀀃􀄚􀅝􀆐􀆉􀅽􀆐􀄂􀅯􀀃􀅽􀄨􀀃􀆉􀆌􀅽􀆉􀄞􀆌􀆚􀇇􀍕􀀃􀆉􀅯􀄂􀅶􀆚􀀃􀄂􀅶􀄚􀀃􀄞􀆋􀆵􀅝􀆉􀅵􀄞􀅶􀆚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏮􀏬􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏴􀍿
+􀁅􀄞􀆚􀀃􀅐􀄂􀅝􀅶􀀃􀅽􀅶􀀃􀄚􀅝􀆐􀆉􀅽􀆐􀄂􀅯􀀃􀍬􀀃􀄨􀄂􀅝􀆌􀀃􀇀􀄂􀅯􀆵􀄂􀆚􀅝􀅽􀅶􀀃􀅽􀄨􀀃􀅝􀅶􀇀􀄞􀆐􀆚􀅵􀄞􀅶􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏮􀏮􀏱􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏮􀏲􀏰􀍿
+􀀯􀅶􀆚􀄞􀆌􀄞􀆐􀆚􀀃􀅝􀅶􀄐􀅽􀅵􀄞 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏮􀍕􀏴􀏲􀏱􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏯􀍕􀏯􀏴􀏮􀍿
+􀀘􀅝􀇀􀅝􀄚􀄞􀅶􀄚􀀃􀅝􀅶􀄐􀅽􀅵􀄞􀀃􀍾􀀯􀅶􀄐􀅯􀆵􀄚􀅝􀅶􀅐􀀃􀄞􀇆􀄐􀅚􀄂􀅶􀅐􀄞􀀃􀅝􀅵􀆉􀄂􀄐􀆚􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏲􀍕􀏭􀏯􀏯􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏯􀍕􀏮􀏴􀏴􀍿
+􀀦􀅝􀅶􀄂􀅶􀄐􀄞􀀃􀄐􀅽􀆐􀆚􀆐 􀏳􀏬􀏯 􀏲􀏳􀏯
+􀁋􀆉􀄞􀆌􀄂􀆚􀅝􀅶􀅐􀀃􀆉􀆌􀅽􀄨􀅝􀆚􀀃􀄏􀄞􀄨􀅽􀆌􀄞􀀃􀇁􀅽􀆌􀅬􀅝􀅶􀅐􀀃􀄐􀄂􀆉􀅝􀆚􀄂􀅯􀀃􀄐􀅚􀄂􀅶􀅐􀄞􀆐 􀏱􀏴􀍕􀏯􀏳􀏴 􀏱􀏱􀍕􀏯􀏬􀏰
+􀁅􀄞􀆚􀀃􀄐􀅚􀄂􀅶􀅐􀄞􀀃􀅝􀅶
+􀀯􀅶􀇀􀄞􀅶􀆚􀅽􀆌􀅝􀄞􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏳 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍲􀀃
+􀁤􀆌􀄂􀄚􀄞􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄂􀄏􀅯􀄞􀆐
+􀀑􀅝􀅯􀅯􀄞􀄚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏱􀍕􀏴􀏮􀏴􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏯􀍕􀏭􀏰􀏱􀍿
+􀁨􀅶􀄏􀅝􀅯􀅯􀄞􀄚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀀃 􀏮􀏯 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏴􀏮􀍿
+􀀾􀅽􀄂􀅶􀆐􀀃􀄂􀅶􀄚􀀃􀅽􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏳􀏯􀏮􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏮􀏵􀏭􀍿
+􀁋􀆚􀅚􀄞􀆌􀀃􀄂􀆐􀆐􀄞􀆚􀆐􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏮􀍕􀏮􀏯􀏴􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏯􀍕􀏭􀏮􀏱􀍿
+􀁤􀆌􀄂􀄚􀄞􀀃􀆉􀄂􀇇􀄂􀄏􀅯􀄞􀆐 􀏮􀍕􀏴􀏴􀏰 􀏴􀏯􀏭
+􀁨􀅶􀄞􀄂􀆌􀅶􀄞􀄚􀀃􀄂􀅶􀄚􀀃􀄚􀄞􀄨􀄞􀆌􀆌􀄞􀄚􀀃􀆌􀄞􀇀􀄞􀅶􀆵􀄞 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏴􀀃 􀏮􀏵 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏱􀏲􀏳􀍿
+􀁋􀆚􀅚􀄞􀆌􀀃􀄨􀅝􀅶􀄂􀅶􀄐􀅝􀄂􀅯􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀏳􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏲􀏵􀏴􀍿
+􀁋􀆚􀅚􀄞􀆌􀀃􀅯􀅝􀄂􀄏􀅝􀅯􀅝􀆚􀅝􀄞􀆐􀀃􀄂􀅶􀄚􀀃􀆉􀆌􀅽􀇀􀅝􀆐􀅝􀅽􀅶􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀍕􀏬􀏬􀏮 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀀃 􀍕􀏰􀏵􀏴
+􀀒􀄂􀆐􀅚􀀃􀄨􀅯􀅽􀇁􀆐􀀃􀅐􀄞􀅶􀄞􀆌􀄂􀆚􀄞􀄚􀀃􀄨􀆌􀅽􀅵􀀃􀅽􀆉􀄞􀆌􀄂􀆚􀅝􀅽􀅶􀆐 􀏱􀏰􀍕􀏰􀏬􀏴 􀏰􀏵􀍕􀏳􀏮􀏱
+􀁤􀄂􀇆􀄞􀆐􀀃􀆉􀄂􀅝􀄚􀀃􀍾􀅶􀄞􀆚􀀃􀅽􀄨􀀃􀆌􀄞􀄨􀆵􀅶􀄚􀆐􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀏯􀍕􀏱􀏵􀏮􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏭􀏬􀍕􀏱􀏴􀏯􀍿
+􀁅􀄞􀆚􀀃􀄐􀄂􀆐􀅚􀀃􀄨􀅯􀅽􀇁􀆐􀀃􀅐􀄞􀅶􀄞􀆌􀄂􀆚􀄞􀄚􀀃􀄨􀆌􀅽􀅵􀀃􀅽􀆉􀄞􀆌􀄂􀆚􀅝􀅶􀅐􀀃􀄂􀄐􀆚􀅝􀇀􀅝􀆚􀅝􀄞􀆐 􀏰􀏬􀍕􀏴􀏭􀏲 􀏯􀏵􀍕􀏭􀏰􀏮
+􀀒􀀄􀁞􀀬􀀃􀀦􀀾􀁋􀁴􀁞􀀃􀀦􀁚􀁋􀁄􀀃􀀯􀁅􀁳􀀜􀁞􀁤􀀯􀁅􀀧􀀃􀀄􀀒􀁤􀀯􀁳􀀯􀁤􀀯􀀜􀁞
+􀀑􀄂􀅶􀅬􀀃􀄚􀄞􀆉􀅽􀆐􀅝􀆚􀆐􀀃􀆉􀅯􀄂􀄐􀄞􀄚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏴􀍕􀏴􀏰􀏮􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏲􀍕􀏰􀏴􀏵􀍿
+􀀯􀅶􀆚􀄞􀆌􀍲􀄐􀅽􀆌􀆉􀅽􀆌􀄂􀆚􀄞􀀃􀄚􀄞􀆉􀅽􀆐􀅝􀆚􀆐􀀃􀆉􀅯􀄂􀄐􀄞􀄚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏯􀏲􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍲􀀃
+􀁗􀆵􀆌􀄐􀅚􀄂􀆐􀄞􀀃􀅽􀄨􀀃􀅝􀅶􀇀􀄞􀆐􀆚􀅵􀄞􀅶􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀍕􀏯􀏮􀍕􀏰􀏱􀏴􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏭􀍕􀏮􀏴􀍕􀏳􀏲􀏰􀍿
+􀁗􀄂􀇇􀅵􀄞􀅶􀆚􀀃􀄨􀅽􀆌􀀃􀆉􀆵􀆌􀄐􀅚􀄂􀆐􀄞􀀃􀅽􀄨􀀃􀆉􀆌􀅽􀆉􀄞􀆌􀆚􀇇􀍕􀀃􀆉􀅯􀄂􀅶􀆚􀀃􀄂􀅶􀄚􀀃􀄞􀆋􀆵􀅝􀆉􀅵􀄞􀅶􀆚􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏮􀍕􀏯􀏴􀏴􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏭􀍕􀏳􀏮􀏬􀍿
+􀁗􀄂􀇇􀅵􀄞􀅶􀆚􀀃􀅝􀅶􀄐􀅯􀆵􀄚􀅝􀅶􀅐􀀃􀄂􀄚􀇀􀄂􀅶􀄐􀄞􀆐􀀃􀄨􀅽􀆌􀀃􀄂􀄐􀆋􀆵􀅝􀆌􀅝􀅶􀅐􀀃􀆌􀅝􀅐􀅚􀆚􀍲􀅽􀄨􀍲􀆵􀆐􀄞􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏵􀏰􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏭􀏳􀍿
+􀁗􀄂􀇇􀅵􀄞􀅶􀆚􀀃􀄨􀅽􀆌􀀃􀆉􀆵􀆌􀄐􀅚􀄂􀆐􀄞􀀃􀅽􀄨􀀃􀅝􀅶􀆚􀄂􀅶􀅐􀅝􀄏􀅯􀄞􀀃􀄂􀆐􀆐􀄞􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏵􀏬􀏮􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀀃􀏰􀏭􀏭􀍿
+􀀄􀄐􀆋􀆵􀅝􀆐􀅝􀆚􀅝􀅽􀅶􀀃􀅽􀄨􀀃􀆐􀆵􀄏􀆐􀅝􀄚􀅝􀄂􀆌􀅝􀄞􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍾􀏭􀍕􀏬􀏯􀏲􀍿 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀍲
+􀁗􀆌􀅽􀄐􀄞􀄞􀄚􀆐􀀃􀄨􀆌􀅽􀅵􀀃􀄏􀄂􀅶􀅬􀀃􀄚􀄞􀆉􀅽􀆐􀅝􀆚􀆐􀀃 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏳􀍕􀏮􀏲􀏮 􀏲􀍕􀏲􀏬􀏱
+􀁗􀆌􀅽􀄐􀄞􀄞􀄚􀆐􀀃􀄨􀆌􀅽􀅵􀀃􀄚􀅝􀆐􀆉􀅽􀆐􀄂􀅯􀀃􀍬􀀃􀆌􀄞􀄚􀄞􀅵􀆉􀆚􀅝􀅽􀅶􀀃􀅽􀄨􀀃􀅝􀅶􀇀􀄞􀆐􀆚􀅵􀄞􀅶􀆚􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀀃 􀍕􀏯􀏰􀍕􀏯􀏴􀏯 􀏭􀍕􀏯􀏱􀍕􀏯􀏳􀏱
+􀁗􀆌􀅽􀄐􀄞􀄞􀄚􀆐􀀃􀄨􀆌􀅽􀅵􀀃􀆐􀆵􀄏􀍲􀅯􀄞􀄂􀆐􀄞􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄂􀄏􀅯􀄞 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀏬 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏭􀏬􀀃
+􀁗􀆌􀅽􀄐􀄞􀄞􀄚􀆐􀀃􀄨􀆌􀅽􀅵􀀃􀄚􀅝􀆐􀆉􀅽􀆐􀄂􀅯􀀃􀅽􀄨􀀃􀆉􀆌􀅽􀆉􀄞􀆌􀆚􀇇􀍕􀀃􀆉􀅯􀄂􀅶􀆚􀀃􀄂􀅶􀄚􀀃􀄞􀆋􀆵􀅝􀆉􀅵􀄞􀅶􀆚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏮􀀃 􀏯 􀏭􀏰
+􀀯􀅶􀆚􀄞􀆌􀄞􀆐􀆚􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄞􀄚 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏮􀍕􀏳􀏳􀏬 􀏮􀍕􀏲􀏳􀏬
+􀀘􀅝􀇀􀅝􀄚􀄞􀅶􀄚􀀃􀆌􀄞􀄐􀄞􀅝􀇀􀄞􀄚􀀃􀄨􀆌􀅽􀅵􀀃􀆐􀆵􀄏􀆐􀅝􀄚􀅝􀄂􀆌􀅝􀄞􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏲􀍕􀏭􀏯􀏯 􀏯􀍕􀏱􀏯􀏰
+􀁅􀄞􀆚􀀃􀄐􀄂􀆐􀅚􀀃􀄨􀅯􀅽􀇁􀆐􀀃􀅐􀄞􀅶􀄞􀆌􀄂􀆚􀄞􀄚􀀃􀄨􀆌􀅽􀅵􀀃􀅝􀅶􀇀􀄞􀆐􀆚􀅝􀅶􀅐􀀃􀄂􀄐􀆚􀅝􀇀􀅝􀆚􀅝􀄞􀆐 􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀀃􀏰􀍕􀏴􀏮􀏱 􀏭􀏬􀍕􀏴􀏬􀏳
+􀁺􀄞􀄂􀆌􀀃􀄞􀅶􀄚􀄞􀄚
+􀀄􀅶􀅶􀄞􀇆􀆵􀆌􀄞􀀃􀀄
+􀁤􀀄􀁤􀀄􀀃􀀒􀁋􀁅􀁞􀁨􀀾􀁤􀀄􀁅􀀒􀁺􀀃􀁞􀀜􀁚􀁳􀀯􀀒􀀜􀁞􀀃􀀾􀀯􀁄􀀯􀁤􀀜􀀘
+􀀄􀆵􀄚􀅝􀆚􀄞􀄚􀀃􀁞􀆚􀄂􀅶􀄚􀄂􀅯􀅽􀅶􀄞􀀃􀁞􀆚􀄂􀆚􀄞􀅵􀄞􀅶􀆚􀀃􀅽􀄨􀀃􀀒􀄂􀆐􀅚􀀃􀀦􀅯􀅽􀇁􀆐
+􀍾 􀀃􀄐􀆌􀅽􀆌􀄞􀍿
+􀀃
+􀀃
+􀀃􀀃􀀃􀀃􀀃􀀃􀀃 􀎎􀁚􀄞􀆉􀆌􀄞􀆐􀄞􀅶􀆚􀆐􀀃􀇀􀄂􀅯􀆵􀄞􀀃􀅯􀄞􀆐􀆐􀀃􀆚􀅚􀄂􀅶􀀃 􀏬􀍘􀏱􀏬􀀃􀄐􀆌􀅽􀆌􀄞􀍘􀀃
+CASH FLOWS FROM FINANCING ACTIVITIES
+Repayment of lease liabilities
+Interest paid
+Dividend paid
+Transfer of funds to buy-back escrow account
+Transfer of funds from buy-back escrow account
+Expenses for buy-back of equity shares
+Tax on buy-back of equity shares
+Buy-back of equity shares
+Net cash flows used in financing activities
+Net change in cash and cash equivalents
+TATA CONSULTANCY SERVICES LIMITED
+Audited Standalone Statement of Cash Flows
+Cash and cash equivalents at the beginning of the year
+Exchange difference on translation of foreign currency cash and cash equivalents
+Cash and cash equivalents at the end of the year
+Components of cash and cash equivalents
+Balances with banks
+In current accounts
+In deposit accounts
+Cheques on hand
+Cash on hand
+Remittances in transit
+I" crore)
+Year ended
+March 31, March 31,
+2025 2024
+(1,112) (1,061)
+(748) (590)
+(44,864) (25,137)
+- (425)
+- 425
+- (46)
+- (3,959)
+- (17,000)
+(46,724) (47,793)
+(1,083) 2,156
+3,644 1,462
+49 26
+2,610 3,644
+1890 1,359
+712 2,285
+-* -*
+-* -*
+8 -*
+2,610 3,644
+9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com website www.tcs.com
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Corporate Identity No. (CIN): L22210MH1995PLC084781
+Intimation as per NSE and BSE circulars dated July 14, 2023
+This is to inform you that pursuant to NSE circular no. NSE/CML/2023/57 and
+BSE Circular no. 20230714-34 dated July 14, 2023, the meeting of the Board of Directors
+of the Company was held today at 11.30 a.m. and concluded at 3.30 p.m.
+Thanking you,
+Yours faithfully,
+For Tata Consultancy Services Limited
+Yashaswin Sheth
+Company Secretary
+YASHASWIN
+NARENDRA
+SHETH
+Digitally signed by
+YASHASWIN NARENDRA
+SHETH
+Date: 2025.04.10 15:52:20
++05'30'
