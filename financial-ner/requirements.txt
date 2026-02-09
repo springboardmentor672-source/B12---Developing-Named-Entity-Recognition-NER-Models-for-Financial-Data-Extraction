@@ -1,0 +1,4 @@
+docling
+spacy
+pandas
+
