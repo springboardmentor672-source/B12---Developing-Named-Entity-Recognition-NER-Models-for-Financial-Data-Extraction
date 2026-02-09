@@ -1,0 +1,7 @@
+Effective Approach to Speech-Based Email Assistance for Visually Impaired People(2025)
+
+Abstract
+This project proposes a speech-controlled email assistant system designed to improve digital accessibility for visually impaired individuals by enabling hands-free email operations through voice commands. The system integrates OpenAI’s Whisper model for accurate speech-to-text conversion and Google Text-to-Speech (gTTS) for natural voice feedback. Key functionalities include composing, sending, receiving, and summarizing emails, all controlled by live voice input via PyAudio. The backend architecture employs Python, with SMTP and IMAP protocols facilitating secure email transmission and mailbox management. To ensure privacy and user authentication, voice-based login is paired with SHA-256 hashing of credentials. The system also employs Natural Language Processing (NLP) techniques using NLTK to generate concise email summaries, allowing users to quickly grasp the essence of long messages. A simple Tkinter GUI offers real-time interaction feedback, while the voice-guided interface ensures usability without reliance on visual elements. This comprehensive solution not only enhances digital independence for the visually impaired but also demonstrates the potential of AI-driven assistive technology in promoting inclusive communication in modern society.
+
+
+									

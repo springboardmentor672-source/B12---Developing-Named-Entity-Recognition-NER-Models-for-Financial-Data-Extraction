@@ -1,0 +1,25 @@
+Generalizable Facial Presentation Attack Detection Based on the Analysis 
+of Facial Regions(2023) 
+ 
+ABSTRACT  
+Advancements in deep learning have significantly improved presentation attack detection 
+(PAD) systems, achieving high accuracy across various realistic conditions. However, most 
+existing methods rely on analyzing the entire face, overlooking the fact that artefacts used in 
+spoofing attacks can appear in different facial regions depending on the type of attack 
+instrument, the individual subject, and environmental factors. Moreover, these systems often 
+struggle to correctly identify genuine users who unintentionally occlude parts of their face with 
+accessories like glasses, scarves, or masks, especially in health-related scenarios. This work 
+addresses these limitations by investigating the effectiveness of individual facial regions for 
+PAD. A novel metric called Face Region Utility is introduced to evaluate how well a specific 
+facial region can detect attacks when trained on a different region. Extensive testing on standard 
+PAD databases under challenging conditions reveals that certain regions can effectively replace 
+full-face analysis. Notably, the proposed approach improves detection performance by up to 
+67.73% when genuine users wear protective masks, demonstrating its potential to enhance PAD 
+reliability in real-world situations. 
+ 
+ 
+  
+  
+  
+  
+  
