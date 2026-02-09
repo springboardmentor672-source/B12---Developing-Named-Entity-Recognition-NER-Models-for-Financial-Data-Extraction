@@ -1,0 +1,50 @@
+SNEHA P
+Thiruvananthapuram • +91 8129710014 • snehaprabhash013@gmail.com
+Linkedin: linkedin.com/in/sneha-prabhash
+Github : github.com/snehap31
+SUMMARY
+Enthusiastic final-year Computer Science student with a strong passion for learning and applying new
+technologies. Completed a certification in Full Stack Development and gained hands-on experience by
+developing a project that involved Git for version control and Jira for project management. Dedicated to
+continuous learning and currently planning to expand my skills in Cloud computing and DevOps.
+EDUCATION
+Bachelor of Technology in Computer Science and Engineering / 2022 - Present
+APJ Abdul Kalam Technological University
+Rajadhani Institute of Engineering and Technology, Attingal
+CGPA: 8.43
+Higher Secondary Education/ Directorate Higher Secondary Education 2019 - 2022
+Sivagiri Higher Secondary School, Varkala
+Percentage: 94%
+Secondary School Certificate / Central Board of Secondary Education 2019
+MGM Model School, Varkala
+Percentage: 89%
+PROJECT
+CloudLock : MAC based access control on PVRSC for cloud security
+Rajadhani Institute of Engineering and Technology, Attingal
+Designed a secure cloud storage system using Publicly Verifiable Remote Signcryption (PVRSC) for
+combined encryption and signing, implementing MAC address–based device binding and third-party
+auditing to restrict decryption and verify data integrity.
+Built a web prototype with ASP.NET (C#), SQL Server and integrating standard cryptographic algorithms
+Skill-Screen
+Rajadhani Institute of Engineering and Technology, Attingal
+Developed a React-based web app that generates job-specific interview questions using Gemini API.
+Used Clerk API for secure user authentication and account management, and Neon for data storage and
+retrieval.
+Captured and processed user responses with speech-to-text conversion, displaying ideal answers for
+comparison.
+Learning Mangement System
+ICT Academy Kerala
+Developed the Teacher Dashboard using React.js, with features for assignments, attendance, live
+sessions, and recorded lectures.
+Integrated Spring Boot REST APIs and MySQL for dynamic data handling; tested endpoints with Postman
+and tracked tasks via Jira.
+Collaborated on GitHub, merging code from Admin and Employee modules to ensure seamless
+platform-wide integration.
+SKILLS & ACHIEVEMENTS
+Programming: C, HTML, CSS, Java
+Frameworks & Tools: React, Spring Boot, Bootstrap, Postman
+Databases: MySQL
+Certifications: NPTEL(Introduction to programming in C ) , Certified Specialist in Full Stack Development
+(JAVA)
+Extra-Curricular Activities: Class Representative , NSS Volunteer, CSI Documentation Team Member
+Soft Skills: Adaptability, Communication, Teamwork

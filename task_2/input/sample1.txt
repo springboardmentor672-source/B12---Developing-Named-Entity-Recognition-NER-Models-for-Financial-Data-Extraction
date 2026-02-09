@@ -1,0 +1,141 @@
+Uploading phase
+Precondition: The user is registered, and the system/KGC has generated two secret keys (SK1 and SK2) for the user.
+Step 0: Preliminary Checks
+Verify that the uploaded file size is within the allowed limits.
+If the file exceeds limits, reject the upload.
+
+I) Encryption Phase
+Message Preparation
+Read the file content m to prepare it for encryption.
+AES Encryption Key Generation
+Generate a random symmetric key (AES_KEY) using a secure random function USING SK1 & SK2.
+Encrypt the Message
+Encrypt the file content m using AES with the generated AES_KEY.
+Result → CIPHER_TEXT.
+Upload Cipher to Cloud
+Store CIPHER_TEXT temporarily for the next steps.
+
+II) Signature Generation Phase
+Hash Computation
+Compute the hash h of the original message m using SHA-256.
+Digital Signature
+Sign the hash h using the sender’s RSA private key → SIG.
+Key Protection
+Encrypt the AES key (AES_KEY) with the user’s public key or other key-protection method.
+Final Signcrypted Message Construction
+Combine {ENCRYPTED_AES_KEY, CIPHER_TEXT, SIG} → SIGNCRYPTED_MESSAGE.
+Store the SIGNCRYPTED_MESSAGE to the cloud.
+
+III) PDP (Provable Data Possession) Preparation Phase
+Ciphertext Segmentation
+Divide CIPHER_TEXT into equal-sized blocks.
+Grid Arrangement for Blocks
+Arrange blocks in a square grid:
+Side length L = smallest integer such that L^2 >= number of blocks.
+Extra cells remain empty if block count < L^2.
+Verification Parameters Initialization
+Initialize containers: TAGS, E_VALUES, E_PRIME_VALUES.
+Tag Generation per Block
+For each block:
+Compute verification tag T_i binding the block content, its row, and column position.
+Generate E' values for efficient verification.
+Upload PDP Data to Cloud
+Store all verification parameters (TAGS, E_PRIME_VALUES, etc.) in the cloud for later auditing.
+
+
+
+Challenge Generation (Sequential PDP)
+Purpose: To allow a user or auditor to verify the integrity of specific blocks in the cloud-stored file without downloading the entire file.
+Precondition:
+The file has been uploaded in signcrypted form with PDP tags and verification parameters generated per block.
+The auditor/user wants to check sequential blocks instead of random ones.
+
+Step 1: Block Selection (Sequential Verification)
+The auditor or user selects a starting block index.
+Based on the required challenge count, select the next consecutive blocks in order.
+Example: If starting at block 5 and challenge count = 4 → blocks 5, 6, 7, 8 will be verified.
+This sequential selection ensures deterministic block checking while maintaining efficiency.
+
+
+Step 2: Secret Value Generation
+Auditor generates γ from the finite field Zₚ.
+These γ values are kept secret by the auditor.
+
+Step 3: Public Challenge Computation
+Using the selected block indices and secret γ values, compute the public challenge components:
+CH1 → First component of the challenge
+CH2 → Second component of the challenge
+Construct the challenge set:
+INDEX_SET → The block indices being checked
+V_VALUES → Any auxiliary values needed for verification
+CH1, CH2 → Public components that server will use for proof
+
+Step 4: Send Challenge to Cloud Server
+The auditor sends the challenge package to the cloud server:
+Challenge = {CH1, CH2, INDEX_SET, V_VALUES}
+Important: γ values remain secret with the auditor—they are never sent to the server.
+
+Step 5: Server Response
+The server uses the challenge information to compute a proof of possession for the requested blocks without sending the entire file.
+This proof is sent back to the auditor for verification.
+
+ 
+Proof Generation Phase (Server Side)
+Purpose: The server generates a proof that it still possesses the requested file blocks without sending the full file, using the challenge from the auditor/user.
+Inputs at Server:
+CHALLENGE → {CH1, CH2, INDEX_SET, V_VALUES}
+SIGNCRYPTION_VALUES → {File Tags, E_VALUES, E_PRIME_VALUES}
+CIPHER_TEXT → Encrypted file, split into blocks
+
+Step 1: Select Challenge Blocks
+Identify blocks of CIPHER_TEXT corresponding to INDEX_SET received in the challenge.
+Retrieve associated tags and verification parameters for these blocks.
+
+Step 2: Compute Pairing-Based Proofs
+The server computes two proofs:
+R1: Proof based on actual file content
+Compute R1 using the encrypted blocks CHi and public challenge component CH2.
+Purpose: Ensures integrity of the actual block content.
+R2: Proof based on tags
+Compute R2 using the block tags T_i and E_PRIME_VALUES for the blocks in the challenge.
+Purpose: Ensures that the server is using the same tags generated at upload, confirming data authenticity without revealing content.
+
+Step 3: Send Proof to Auditor
+Construct proof package:
+PROOF = {R1, R2}
+Send PROOF to the auditor/user.
+
+Outcome
+Auditor can verify the proofs R1 and R2 against the public challenge and stored verification parameters.
+No actual file blocks are transmitted, maintaining confidentiality.
+Verification Phase (Auditor/User Side)
+Purpose: To verify that the server still possesses the requested file blocks without downloading the entire file, ensuring both integrity and authenticity.
+Inputs at Auditor:
+RESPONSE → {R1, R2} (from the server)
+CHALLENGE → {CH1, CH2, V_VALUES, INDEX_SET}
+SIGNCRYPTION_VALUES → {Precomputed block tags T_i, E_PRIME_VALUES}
+CIPHER_TEXT → Encrypted file blocks
+
+Step 1: Recompute Proof Components
+R1 Calculation (File Content Proof)
+Using the ciphertext blocks corresponding to INDEX_SET and public challenge component CH2, recalculateR1:
+R2 Calculation (Tag-Based Proof)
+Using precomputed tags T_i and E_PRIME_VALUES for the same block indices, recalculate:
+R2′=Tag pairing computationR2' = \text{Tag pairing computation}R2′=Tag pairing computation 
+
+Step 2: Compare Server Response
+Compare the server’s response {R1, R2} with the recalculated {R1', R2'}.
+Use pairing-based cryptographic checks to ensure equality:
+R1 == R1'
+R2 == R2'
+
+Step 3: Determine Verification Result
+If both R1 and R2 match:
+Verification SUCCESS → Server still possesses correct blocks; file integrity and authenticity confirmed.
+If either R1 or R2 fails:
+Verification FAIL → Possible data corruption or tampering detected.
+
+✅ Outcome
+Auditor confirms the integrity and authenticity of the cloud-stored file blocks.
+Verification is efficient: only selected blocks are checked, and the entire file is never downloaded.
+The system maintains confidentiality, as ciphertext and tags are sufficient for verification.
