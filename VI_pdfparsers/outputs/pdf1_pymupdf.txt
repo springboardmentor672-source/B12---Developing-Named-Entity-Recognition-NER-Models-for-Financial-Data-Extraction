@@ -1,0 +1,24 @@
+Intelligent Face Recognition Based Multi-Location Linked IoT Based Car 
+Parking System(2023) 
+ 
+ABSTRACT  
+This paper proposes a sophisticated, Internet of Things(IoT) enabled safety system specifically 
+designed to enhance the security and well-being of women. The system integrates multiple 
+biometric sensors, including electroencephalogram (EEG) and heart rate monitors, to facilitate 
+real-time physiological monitoring and automatic distress detection. In critical situations 
+whether identified through sensor thresholds or activated manually via a dedicated panic switch 
+the system promptly transmits alert messages and precise GPS location data to predefined 
+emergency contacts using GSM communication. A distinctive feature of the device is the 
+incorporation of a taser mechanism, enabling immediate self-defense in threatening scenarios. 
+Built on the Arduino UNO platform, the system also supports remote oversight through an IoT 
+interface, ensuring continuous monitoring and data logging. Emphasizing data security, user 
+privacy, and regulatory compliance, the proposed solution represents a comprehensive, 
+technologically advanced approach to personal safety, aiming to empower women and respond 
+effectively to real-time emergencies.  
+ 
+ 
+  
+  
+  
+  
+  
