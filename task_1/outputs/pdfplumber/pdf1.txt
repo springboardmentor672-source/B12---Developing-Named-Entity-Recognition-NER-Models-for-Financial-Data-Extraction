@@ -1,0 +1,30 @@
+Assignment on OOPs Concept
+Problem: Building a Library System
+Create a simple library system that models books, authors, and
+library users. Your system should incorporate the following
+OOP concepts:
+**Book Class**:
+- Attributes: `title`, `author`, `ISBN`, `availableCopies`,
+`totalCopies`, etc.
+- Methods: `borrow()`, `returnBook()`, `isAvailable()`, etc.
+**Author Class**:
+- Attributes: `name`, `birthDate`, `biography`, etc.
+- Methods: `getAuthorInfo()`, etc.
+**LibraryUser Class**:
+- Attributes: `userId`, `name`, `userType`, etc.
+- Methods: `displayInfo()`, `borrowBook()`, `returnBook()`, etc.
+**Student Class** (Inherits from `LibraryUser`):
+- Additional attributes: `studentId`, `yearOfStudy`, etc.
+- Override `displayInfo()` to include student-specific
+information.
+**Professor Class** (Inherits from `LibraryUser`):
+- Additional attributes: `employeeId`, `department`, etc.
+- Override `displayInfo()` to include professor-specific
+information.
+Your program should allow users to:
+- Add and remove books from the library system.
+- Borrow and return books, updating the available copies
+accordingly.
+- Display information about books, authors, and users.
+- Handle different user types (students, professors)
+appropriately.

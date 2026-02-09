@@ -1,0 +1,34 @@
+Certified Specialist in Full Stack Development (JAVA)
+Competition 1
+1. Write a program by creating an 'Employee' class having the following
+methods and print the final salary.
+1 - 'getInfo()' which takes the salary, number of hours of work per day of
+employee as
+parameter
+2 - 'AddSal()' which adds Rs 500 to the salary of the employee if it is less
+than Rs 5000.
+3 - 'AddWork()' which adds Rs. 100 to the salary of an employee if the
+number of hours of work per day is more than 6 hours.
+2. A Student is an object in a university management System. Analyze the
+concept and identify the data members that a Student class should have.
+Also analyze the behavior of student in a university management System
+and identify the methods that should be included in Student class.
+3. Create a class named Pizza that stores information about a single pizza. It
+should contain the following:
+Private instance variables to store the size of the pizza (either small,
+medium, or large), the number of cheese toppings, the number of
+pepperoni toppings, and the number of ham toppings.
+Constructor(s) that set all of the instance variables.
+Public methods to get and set the instance variables.
+A public method named calcCost( ) that returns a double that is the
+cost of the pizza. Pizza cost is determined by:
+Small: $10 + $2 per topping
+Medium: $12 + $2 per topping
+Large: $14 + $2 per topping
+public method named getDescription( ) that returns a String
+containing the pizza size, quantity of each topping.
+Write test code to create several pizzas and output their descriptions. For
+example, a large pizza with one cheese, one pepperoni and two ham
+toppings should cost a total of $22. Now Create a PizzaOrder class that
+allows up to three pizzas to be saved in an order. Each pizza saved should
+be a Pizza object. Create a method calcTotal() that returns the cost of order.
