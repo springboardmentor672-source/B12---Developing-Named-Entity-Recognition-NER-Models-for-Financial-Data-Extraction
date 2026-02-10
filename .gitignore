@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.exe
+.envvenv/
+task_3/venv/
+__pycache__/
+*.pyc
+*.dll
