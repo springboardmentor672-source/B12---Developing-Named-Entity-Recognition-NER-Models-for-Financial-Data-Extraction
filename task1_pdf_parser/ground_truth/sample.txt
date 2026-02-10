@@ -1,0 +1,73 @@
+CONTENTS
+Preface 1
+PART 1 PROBLEM SOLVING AND ALGORITHMS
+1 Introduction to Computer Science 9
+Introduction 9
+1.1 Computer Science 10
+1.2 Computer Science across the Disciplines 20
+1.3 Computer Science and the Future of Society 25
+Chapter Review 33
+2 Computational Thinking and Design Reusability 39
+Introduction 39
+2.1 Computational Thinking 40
+2.2 Architecting Solutions with Adaptive Design Reuse in Mind 53
+2.3 Evolving Architectures into Useable Products 73
+Chapter Review 83
+3 Data Structures and Algorithms 91
+Introduction 91
+3.1 Introduction to Data Structures and Algorithms 91
+3.2 Algorithm Design and Discovery 100
+3.3 Formal Properties of Algorithms 107
+3.4 Algorithmic Paradigms 113
+3.5 Sample Algorithms by Problem 119
+3.6 Computer Science Theory 127
+Chapter Review 131
+PART 2 REALIZATIONS OF ALGORITHMS
+Linguistic Realization of Algorithms: Low-Level Programming Languages
+4 145
+Introduction 145
+4.1 Models of Computation 146
+4.2 Building C Programs 158
+4.3 Parallel Programming Models 175
+4.4 Applications of Programming Models 181
+Chapter Review 184
+5 Hardware Realizations of Algorithms: Computer Systems Design 195
+Introduction 195
+5.1 Computer Systems Organization 196
+5.2 Computer Levels of Abstraction 200
+5.3 Machine-Level Information Representation 208
+5.4 Machine-Level Program Representation 214
+5.5 Memory Hierarchy 221
+5.6 Processor Architectures 230
+Chapter Review 234
+6 Infrastructure Abstraction Layer: Operating Systems 243
+Introduction 243
+6.1 What Is an Operating System? 244
+6.2 Fundamental OS Concepts 250
+6.3 Processes and Concurrency 262
+6.4 Memory Management 272
+6.5 File Systems 279
+6.6 Reliability and Security 284
+Chapter Review 290
+PART 3 DESIGNING AND DEVELOPING SOFTWARE SOLUTIONS
+7 High-Level Programming Languages 303
+Introduction 303
+7.1 Programming Language Foundations 304
+7.2 Programming Language Constructs 317
+7.3 Alternative Programming Models 337
+7.4 Programming Language Implementation 346
+Chapter Review 353 
+Data Management 365
+Introduction 365
+8.1 Data Management Focus 366
+8.2 Data Management Systems 372
+8.3 Relational Database Management Systems 378
+8.4 Nonrelational Database Management Systems 396
+8.5 Data Warehousing, Data Lakes, and Business Intelligence 403
+8.6 Data Management for Shallow and Deep Learning Applications 408
+8.7 Informatics and Data Management 418
+Chapter Review 420
+9 Software Engineering 435
+Introduction 435
+9.1 Software Engineering Fundamentals 436
+9.2 Software Engineering Process 446
