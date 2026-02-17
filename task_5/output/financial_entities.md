@@ -1,0 +1,213 @@
+# 🏦 Financial Entity Extraction Report
+**Source:** Automated Analysis
+
+---
+
+### 🏢 Companies & Organizations
+- AI Infrastructure
+- AP
+- Alphabet
+- Alphabet Inc
+- Board of Directors
+- Consolidated Alphabet
+- EC
+- EMEA
+- European Commission
+- GCP
+- Gemini
+- Gemini App
+- Generative AI Solutions
+- Goodwill
+- Google
+- Google Cloud
+- Google Cloud Platform
+- Google Maps
+- Google Network
+- Google Play
+- Google Search
+- Google Search & other
+- Google Services
+- Google Workspace
+- LinkedIn
+- News From Google
+- OI & E
+- SEC
+- Search
+- TTM
+- To
+- X
+- YouTube
+- YouTube Music
+- YouTube TV
+- “ Management
+
+### 👤 Key Executives & People
+- Sundar Pichai
+
+### 🌍 Locations & Regions
+- Calif
+- U. S.
+- United States
+
+### 💰 Financial Figures
+- $ 0 
+- $ 1,076 
+- $ 1,243 
+- $ 10,546 
+- $ 101,214 
+- $ 101,635 
+- $ 102,346 
+- $ 12,759 
+- $ 13,719 
+- $ 14,876 
+- $ 151,424 
+- $ 17 
+- $ 18,953 
+- $ 19,959 
+- $ 2.12 
+- $ 2.14 
+- $ 2.87 
+- $ 2.89 
+- $ 23,090 
+- $ 23,090 M
+- $ 23,466 
+- $ 24,461 
+- $ 24,837 
+- $ 253,549 
+- $ 26,301 
+- $ 27,747 
+- $ 28,521 
+- $ 289,007 
+- $ 3,185 
+- $ 3,594 
+- $ 30,856 
+- $ 31,228 
+- $ 33,527 
+- $ 34,685 
+- $ 34,979 
+- $ 36,150 
+- $ 39,113 
+- $ 43,139 
+- $ 450,256 
+- $ 46,063 
+- $ 48,414 
+- $ 48,758 
+- $ 49,385 
+- $ 5,301 
+- $ 5.90 
+- $ 5.96 
+- $ 536,469 
+- $ 56,567 
+- $ 7,987 
+- $ 7.99 
+- $ 73,552 
+- $ 73,582 
+- $ 76,510 
+- $ 76,693 
+- $ 76,694 
+- $ 8.06 
+- $ 87,052 
+- $ 88,251 
+- $ 88,268 
+- $ 89,268 
+- $ 96,428 
+- $ 97,715 
+- $ 97,715 B
+- $0.001 
+- $0.21 
+- $0.68
+- $10.7 billion
+- $100 billion
+- $101.2 billion
+- $101.6 billion
+- $102.3 billion
+- $12.8 billion
+- $13.0 billion
+- $15.2 billion
+- $155 billion
+- $17 million
+- $174 million
+- $2.2 billion
+- $2.87
+- $3.5 billion
+- $5.1 billion
+- $8.3 billion
+- $87.1 billion
+- $88.3 billion
+- $91 billion
+- $93 billion
+- $96.5 billion
+
+### 📊 Key Metrics Detected
+- Dividend
+- EPS
+- Free Cash Flow
+- Free cash flow
+- Net income
+- Operating Income
+- Operating income
+- dividend
+- earnings per share
+- free cash flow
+- net income
+- operating income
+- revenue
+
+### 📅 Fiscal Periods
+- Q1
+- Q2
+- Q3
+- Q4
+- Third Quarter
+- third quarter
+
+### 📎 Other Details (Percentages)
+- 0 %
+- 1 %
+- 10
+- 12 %
+- 13 %
+- 14%
+- 15 %
+- 15%
+- 16 %
+- 16%
+- 17 %
+- 19 %
+- 2 %
+- 20 %
+- 2024 %
+- 2025 %
+- 22 %
+- 22%
+- 3 %
+- 30.5 %
+- 30.5%
+- 31 %
+- 32 %
+- 32.3 %
+- 33%
+- 33.9 %
+- 33.9%
+- 34%
+- 35%
+- 4 %
+- 5 %
+- 6 %
+- 8 %
+- 9 %
+- 9%
+- AI
+- AI Mode
+- Alphabet
+- European
+- GAA
+- GAAP
+- Google One
+- Google Search
+- Keyword
+- Law
+- Quarter
+- U
+- non
+

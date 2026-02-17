@@ -4,23 +4,23 @@ import sys
 # --- IMPORTS ---
 from converter import DocumentConverter
 from nlp_processor import PurePythonNLP
-from financial_ner import FinancialNER, save_to_markdown  # New Import!
+from financial_ner import FinancialNER, save_to_markdown
+from sentiment_module import FinancialSentiment  # <--- NEW IMPORT
 
 # --- CONFIGURATION ---
-# PASTE YOUR HUGGING FACE TOKEN HERE
+# PASTE YOUR WORKING TOKEN HERE
 HF_TOKEN = "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" 
 
 def main():
     print("==================================================")
     print("      FINANCIAL DOCUMENT PARSER PIPELINE          ")
-    print("      (Conversion -> NLP -> NER Analysis)         ")
+    print("      (Conversion -> NLP -> NER -> Sentiment)     ")
     print("==================================================")
 
     # 1. Setup paths
     pdf_folder = "./data/pdfs"
     output_folder = "./output"
     
-    # Ensure output folder exists
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
@@ -38,73 +38,51 @@ def main():
     # ---------------------------------------------------------
     print(f"\n[Stage 1] Converting PDF to Text...")
     converter = DocumentConverter()
-    
-    # Convert PDF -> TXT
     result_msg = converter.convert(input_path, output_format='txt')
     print(f"   > {result_msg}")
     
-    # Define the text file path
     text_filename = os.path.splitext(filename)[0] + ".txt"
     text_path = os.path.join(output_folder, text_filename)
 
     # ---------------------------------------------------------
     # STAGE 2: NLP PRE-PROCESSING
     # ---------------------------------------------------------
-    print(f"\n[Stage 2] Running NLP Cleaning & Tokenization...")
-    
-    # Read the text file
+    print(f"\n[Stage 2] Running NLP Cleaning...")
     with open(text_path, 'r', encoding='utf-8') as f:
         raw_text = f.read()
 
     nlp = PurePythonNLP()
-    
-    # Clean & Tokenize
     cleaned_text = nlp.clean_text(raw_text)
-    tokens = nlp.tokenize(cleaned_text)
-    filtered = nlp.remove_stopwords(tokens)
     
-    print(f"   > Original size: {len(raw_text)} chars")
-    print(f"   > Cleaned size:  {len(cleaned_text)} chars")
-    print(f"   > Tokens found:  {len(filtered)} (stopwords removed)")
+    print(f"   > Text cleaned successfully ({len(cleaned_text)} chars).")
 
     # ---------------------------------------------------------
-    # STAGE 3: NLP ANALYSIS REPORT
+    # STAGE 3: FINANCIAL ENTITY RECOGNITION (NER)
     # ---------------------------------------------------------
-    print("\n[Stage 3] Generating Linguistic Report...")
-    comparison = nlp.run_comparison(filtered)
-    
-    # Show a snippet (words 20-30)
-    print("-" * 60)
-    print(f"{'ORIGINAL':<15} | {'STEMMED':<15} | {'LEMMATIZED':<15}")
-    print("-" * 60)
-    for orig, stem, lemma in comparison[20:30]:
-        print(f"{orig:<15} | {stem:<15} | {lemma:<15}")
-    print("-" * 60)
-
-    # ---------------------------------------------------------
-    # STAGE 4: FINANCIAL ENTITY RECOGNITION (NER)
-    # ---------------------------------------------------------
-    print("\n[Stage 4] Running Financial NER Analysis...")
+    print("\n[Stage 3] Extracting Financial Entities...")
     
     if not HF_TOKEN or "hf_" not in HF_TOKEN:
-        print("   ❌ Error: Hugging Face Token is missing or invalid.")
-        print("   Please update 'HF_TOKEN' at the top of main.py")
-    else:
-        # Initialize the Financial NER Engine
-        ner_engine = FinancialNER(HF_TOKEN)
-        
-        # Run analysis on the raw (but text-extracted) content
-        # We use raw_text because NER needs context (sentences), not just list of tokens
-        ner_results = ner_engine.analyze(raw_text)
-        
-        # Define report path
-        report_filename = os.path.splitext(filename)[0] + "_financial_report.md"
-        report_path = os.path.join(output_folder, report_filename)
-        
-        # Save to Markdown
-        save_to_markdown(ner_results, report_path)
-        
-        print(f"\n   ✅ FINANCIAL REPORT GENERATED: {report_path}")
+        print("   ❌ Error: Token missing. Please update HF_TOKEN in main.py")
+        return
+
+    ner_engine = FinancialNER(HF_TOKEN)
+    ner_results = ner_engine.analyze(raw_text)
+    
+    ner_report_path = os.path.join(output_folder, os.path.splitext(filename)[0] + "_entities.md")
+    save_to_markdown(ner_results, ner_report_path)
+    print(f"   ✅ Entity Report saved.")
+
+    # ---------------------------------------------------------
+    # STAGE 4: SENTIMENT ANALYSIS (NEW)
+    # ---------------------------------------------------------
+    print("\n[Stage 4] Analyzing Financial Sentiment...")
+    
+    sentiment_engine = FinancialSentiment(HF_TOKEN)
+    sentiment_results = sentiment_engine.analyze(raw_text)
+    
+    sent_report_path = os.path.join(output_folder, os.path.splitext(filename)[0] + "_sentiment.md")
+    sentiment_engine.save_report(sentiment_results, sent_report_path)
+    print(f"   ✅ Sentiment Report saved.")
 
     print("\n==================================================")
     print("           PIPELINE COMPLETE SUCCESS              ")
