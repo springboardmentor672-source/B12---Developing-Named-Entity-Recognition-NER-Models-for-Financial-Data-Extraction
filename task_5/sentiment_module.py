@@ -120,7 +120,7 @@ class FinancialSentiment:
 # --- STANDALONE RUNNER ---
 if __name__ == "__main__":
     # 1. PASTE YOUR TOKEN HERE
-    MY_TOKEN = "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" 
+    MY_TOKEN = "YOUR_TOKEN_HERE" 
     
     # 2. Define File Paths (We look for the .txt file directly)
     # This assumes 'output' folder is in the same directory as this script

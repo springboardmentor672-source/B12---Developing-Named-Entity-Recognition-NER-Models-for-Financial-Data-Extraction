@@ -2,7 +2,7 @@ import requests
 
 # --- PASTE YOUR NEW TOKEN HERE ---
 # Make sure there are no spaces inside the quotes!
-MY_TOKEN = "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" 
+MY_TOKEN = "YOUR_TOKEN_HERE" 
 
 API_URL = "https://router.huggingface.co/hf-inference/models/ProsusAI/finbert"
 headers = {"Authorization": f"Bearer {MY_TOKEN}"}
