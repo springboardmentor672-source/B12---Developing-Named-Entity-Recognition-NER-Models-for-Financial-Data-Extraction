@@ -1,6 +1,9 @@
 # 📈 Financial Sentiment Analysis Report
-**Model:** ProsusAI/finbert
+**Overall Verdict:** 🟢 BULLISH (Optimistic)
 
+*The document contains more positive financial signals than negative ones.*
+
+---
 ### 📊 Executive Summary
 - **Total Sentences:** 59
 - 🟢 **Positive:** 7

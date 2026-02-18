@@ -88,9 +88,30 @@ class FinancialSentiment:
         negative = [r for r in results if r['label'] == 'negative']
         neutral =  [r for r in results if r['label'] == 'neutral']
         
+        # --- CALCULATE OVERALL SENTIMENT ---
+        total = len(results)
+        if total > 0:
+            # We ignore Neutral for the "Sentiment Direction"
+            # If Positives > Negatives -> Bullish
+            if len(positive) > len(negative):
+                verdict = "🟢 BULLISH (Optimistic)"
+                description = "The document contains more positive financial signals than negative ones."
+            elif len(negative) > len(positive):
+                verdict = "🔴 BEARISH (Pessimistic)"
+                description = "Negative risks and concerns outweigh the positive growth indicators."
+            else:
+                verdict = "⚪ NEUTRAL (Balanced)"
+                description = "The positive and negative signals are roughly equal."
+        else:
+            verdict = "⚪ NO DATA"
+            description = "No valid sentences were analyzed."
+
         with open(filename, "w", encoding="utf-8") as f:
             f.write("# 📈 Financial Sentiment Analysis Report\n")
-            f.write("**Model:** ProsusAI/finbert\n\n")
+            f.write(f"**Overall Verdict:** {verdict}\n\n")
+            f.write(f"*{description}*\n\n")
+            f.write("---\n")
+            
             f.write("### 📊 Executive Summary\n")
             f.write(f"- **Total Sentences:** {len(results)}\n")
             f.write(f"- 🟢 **Positive:** {len(positive)}\n")
@@ -111,8 +132,6 @@ class FinancialSentiment:
 
             if positive: write_section("🟢 Positive Highlights", positive)
             if negative: write_section("🔴 Negative Risks", negative)
-            
-            # UPDATED: Now shows scores for Neutral too
             if neutral: write_section("⚪ Neutral Statements", neutral)
 
         print(f"✅ Report saved to: {filename}")
@@ -120,10 +139,9 @@ class FinancialSentiment:
 # --- STANDALONE RUNNER ---
 if __name__ == "__main__":
     # 1. PASTE YOUR TOKEN HERE
-    MY_TOKEN = "YOUR_TOKEN_HERE" 
+    MY_TOKEN = "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" 
     
     # 2. Define File Paths (We look for the .txt file directly)
-    # This assumes 'output' folder is in the same directory as this script
     input_path = os.path.join("output", "earnings.txt")
     output_path = os.path.join("output", "earnings_sentiment.md")
 
