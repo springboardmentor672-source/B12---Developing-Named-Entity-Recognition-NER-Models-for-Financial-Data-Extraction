@@ -60,7 +60,7 @@ class LLMAnalyst:
 # --- STANDALONE RUNNER ---
 if __name__ == "__main__":
     # 1. PASTE YOUR NEW GOOGLE API KEY HERE (Keep the quotes!)
-    GEMINI_KEY = "AIzaSyDW9ttaPXJeTtx5afKiZzhzykV9wCJ3Q_4"
+    GEMINI_KEY = "PASTE YOUR NEW GOOGLE API KEY HERE"
     
     # 2. Define File Paths 
     input_file = os.path.join("output", "earnings.txt")
