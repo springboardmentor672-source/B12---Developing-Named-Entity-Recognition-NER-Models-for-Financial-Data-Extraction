@@ -1,92 +1,142 @@
 import os
+import json
 from google import genai
+from google.genai import types
 
-class LLMAnalyst:
+class ReceiptAnalyzer:
     def __init__(self, api_key):
-        # Initialize the new GenAI client
         self.client = genai.Client(api_key=api_key)
-        # Using the fast Flash model
         self.model_id = 'gemini-2.5-flash'
 
-    def generate_insight(self, text):
-        """Sends text to Gemini and asks for an Investment Memo."""
-        
-        # Gemini can handle A LOT of text, so we can pass up to 30,000 characters safely
-        truncated_text = text[:30000]
+    def process_receipt(self, text):
+        """Extracts structured financial data from raw receipt text."""
+        print("   > 🧾 Processing receipt data...")
 
-        print("   > 🧠 Sending text to Google Gemini...")
-
-        # The Prompt (The instructions for the AI)
         prompt = f"""
-        You are a senior financial analyst. Analyze the provided earnings call transcript.
+        You are the backend extraction engine for a personal financial manager. 
+        Read the following raw text from a receipt and extract the transaction details.
         
-        Format your response exactly like this:
-        
-        ### 🚀 Strategic Initiatives (What are they building?)
-        * [Point 1]
-        * [Point 2]
-        * [Point 3]
-
-        ### ⚠️ Key Risks & Headwinds (What is going wrong?)
-        * [Point 1]
-        * [Point 2]
-        * [Point 3]
-
-        ### ⚖️ Analyst Verdict
-        [One concise sentence conclusion: Bullish, Bearish, or Neutral and why]
-
-        ---
-        TEXT TO ANALYZE:
-        {truncated_text}
+        Analyze this text:
+        {text[:10000]}
         """
 
-        # Call the API using the new SDK syntax
         try:
             response = self.client.models.generate_content(
                 model=self.model_id,
-                contents=prompt
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    response_schema=types.Schema(
+                        type="OBJECT",
+                        properties={
+                            "merchant_name": {"type": "STRING", "description": "Name of the store or service"},
+                            "customer_name": {"type": "STRING", "description": "Name of the customer, if available"},
+                            "transaction_date": {"type": "STRING", "description": "Date in YYYY-MM-DD format if possible"},
+                            "total_amount": {"type": "NUMBER", "description": "The final total charged including taxes"},
+                            "currency": {"type": "STRING", "description": "Currency code like USD, EUR, INR"},
+                            "expense_category": {
+                                "type": "STRING", 
+                                "description": "Categorize strictly as: Groceries, Utilities, Entertainment, Dining, Transport, Education, or Other"
+                            },
+                            "line_items": {
+                                "type": "ARRAY",
+                                "items": {
+                                    "type": "OBJECT",
+                                    "properties": {
+                                        "item_name": {"type": "STRING"},
+                                        "price": {"type": "NUMBER"}
+                                    }
+                                }
+                            }
+                        },
+                        required=["merchant_name", "total_amount", "expense_category", "currency"]
+                    )
+                )
             )
-            return response.text
+            return json.loads(response.text)
+            
         except Exception as e:
-            return f"❌ LLM Error: {str(e)}"
+            return {"error": f"LLM Processing Failed: {str(e)}"}
 
-    def save_report(self, insights, filename):
+    def save_to_markdown(self, data, filename):
+        """Formats the extracted JSON data into a clean Markdown report."""
+        # Ensure the output directory exists
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        
         with open(filename, "w", encoding="utf-8") as f:
-            f.write("# 🧠 AI Investment Memo\n")
-            f.write(f"**Model:** Google Gemini\n\n")
-            f.write(insights)
-        print(f"✅ AI Report saved to: {filename}")
+            f.write(f"# 🧾 Expense Extraction Report\n\n")
+            
+            # Handle potential API errors gracefully
+            if "error" in data:
+                f.write(f"**Status:** ❌ Failed\n\n")
+                f.write(f"**Error Details:** {data['error']}\n")
+                print(f"❌ Error saved to: {filename}")
+                return
+                
+            f.write(f"**Status:** ✅ Success\n\n")
+            
+            # 1. Write the Summary Section
+            f.write(f"## 🏪 Transaction Details\n")
+            f.write(f"* **Merchant:** {data.get('merchant_name', 'N/A')}\n")
+            f.write(f"* **Customer:** {data.get('customer_name', 'N/A')}\n")
+            f.write(f"* **Date:** {data.get('transaction_date', 'N/A')}\n")
+            f.write(f"* **Category:** {data.get('expense_category', 'N/A')}\n")
+            f.write(f"* **Total Amount:** {data.get('currency', '')} {data.get('total_amount', 0.0)}\n\n")
+            
+            # 2. Write the Line Items Table
+            f.write(f"## 🛒 Line Items\n")
+            f.write("| Item Name | Price |\n")
+            f.write("|---|---|\n")
+            for item in data.get('line_items', []):
+                name = item.get('item_name', 'Unknown')
+                price = item.get('price', 0.0)
+                f.write(f"| {name} | {price} |\n")
+            
+            # 3. Append the Raw JSON for debugging/database reference
+            f.write(f"\n## 💻 Raw JSON Output\n")
+            f.write("```json\n")
+            f.write(json.dumps(data, indent=2) + "\n")
+            f.write("```\n")
+            
+        print(f"📄 Markdown report successfully saved to: {filename}")
+
 
 # --- STANDALONE RUNNER ---
 if __name__ == "__main__":
-    # 1. PASTE YOUR NEW GOOGLE API KEY HERE (Keep the quotes!)
-    GEMINI_KEY = "PASTE YOUR NEW GOOGLE API KEY HERE"
+    # 1. Setup API Key and Paths
+    GEMINI_KEY = "AIzaSyAfV3FehDcX92um_HI83oS9OuCLvXpOkpc"
+    output_filepath = os.path.join("output", "receipt_log_001.md")
     
-    # 2. Define File Paths 
-    input_file = os.path.join("output", "earnings.txt")
-    output_file = os.path.join("output", "earnings_memo.md")
+    analyzer = ReceiptAnalyzer(GEMINI_KEY)
+    
+    # 2. Embedded Sample Receipt
+    raw_receipt_text = """
+    ========================================
+             FRESH MART SUPERSTORE
+             Kattakkada, Kerala
+    ========================================
+    Date: 2026-02-24
+    Time: 18:45
+    Customer: Abin J Antony
 
-    # 3. Check and Run
-    if os.path.exists(input_file):
-        print(f"📂 Found data file: {input_file}")
-        
-        # Read the file
-        with open(input_file, "r", encoding="utf-8") as f:
-            text_content = f.read()
-            
-        # Run Analysis
-        analyst = LLMAnalyst(GEMINI_KEY)
-        insight = analyst.generate_insight(text_content)
-        
-        # Save the report
-        analyst.save_report(insight, output_file)
-        
-        # Print it to the console so you can see it immediately
-        print("\n==================================================")
-        print("                GENERATED MEMO                    ")
-        print("==================================================")
-        print(insight)
-        print("==================================================")
-    else:
-        print(f"❌ Error: Could not find '{input_file}'")
-        print("   Make sure you have run the conversion step at least once.")
+    ITEMS:
+    1x Organic Rice (5kg)          INR 350.00
+    2x Toned Milk (1L)             INR 100.00
+    1x Python Crash Course Book    INR 850.00
+    1x Nescafé Classic (100g)      INR 150.00
+
+    ----------------------------------------
+    Subtotal:                     INR 1450.00
+    Tax (GST 5%):                   INR 72.50
+    ----------------------------------------
+    TOTAL:                        INR 1522.50
+    ========================================
+    Paid via UPI
+    Thank you for shopping with us!
+    """
+
+    # 3. Process the text
+    result = analyzer.process_receipt(raw_receipt_text)
+    
+    # 4. Save to Markdown
+    analyzer.save_to_markdown(result, output_filepath)
