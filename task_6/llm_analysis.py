@@ -104,7 +104,7 @@ class ReceiptAnalyzer:
 # --- STANDALONE RUNNER ---
 if __name__ == "__main__":
     # 1. Setup API Key and Paths
-    GEMINI_KEY = "AIzaSyAfV3FehDcX92um_HI83oS9OuCLvXpOkpc"
+    GEMINI_KEY = "API Key"
     output_filepath = os.path.join("output", "receipt_log_001.md")
     
     analyzer = ReceiptAnalyzer(GEMINI_KEY)
