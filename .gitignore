@@ -1,0 +1,6 @@
+venv/
+task_7/venv/
+__pycache__/
+.DS_Store
+.env
+task_7/.env
