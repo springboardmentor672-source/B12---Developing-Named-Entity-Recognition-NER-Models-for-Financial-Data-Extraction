@@ -1,0 +1,200 @@
+[
+  {
+    "class": "company",
+    "text": "Apple Inc.",
+    "start": 440,
+    "end": 450
+  },
+  {
+    "class": "form_type",
+    "text": "FORM 10-K",
+    "start": 80,
+    "end": 89
+  },
+  {
+    "class": "date",
+    "text": "September 28, 2024",
+    "start": 217,
+    "end": 235
+  },
+  {
+    "class": "ticker",
+    "text": "AAPL",
+    "start": 995,
+    "end": 999
+  },
+  {
+    "class": "sec_file_number",
+    "text": "001-36743",
+    "start": 426,
+    "end": 435
+  },
+  {
+    "class": "cik",
+    "text": "94-2404110",
+    "start": 520,
+    "end": 530
+  },
+  {
+    "class": "company",
+    "text": "The Nasdaq Stock Market LLC",
+    "start": 1001,
+    "end": 1028
+  },
+  {
+    "class": "percentage",
+    "text": "0.000%",
+    "start": 1030,
+    "end": 1036
+  },
+  {
+    "class": "percentage",
+    "text": "0.875%",
+    "start": 1085,
+    "end": 1091
+  },
+  {
+    "class": "percentage",
+    "text": "1.625%",
+    "start": 1140,
+    "end": 1146
+  },
+  {
+    "class": "percentage",
+    "text": "2.000%",
+    "start": 1195,
+    "end": 1201
+  },
+  {
+    "class": "percentage",
+    "text": "1.375%",
+    "start": 1250,
+    "end": 1256
+  },
+  {
+    "class": "percentage",
+    "text": "3.050%",
+    "start": 1305,
+    "end": 1311
+  },
+  {
+    "class": "percentage",
+    "text": "0.500%",
+    "start": 1360,
+    "end": 1366
+  },
+  {
+    "class": "percentage",
+    "text": "3.600%",
+    "start": 1415,
+    "end": 1421
+  },
+  {
+    "class": "date",
+    "text": "2025",
+    "start": 1047,
+    "end": 1051
+  },
+  {
+    "class": "date",
+    "text": "2026",
+    "start": 1157,
+    "end": 1161
+  },
+  {
+    "class": "date",
+    "text": "2027",
+    "start": 1212,
+    "end": 1216
+  },
+  {
+    "class": "date",
+    "text": "2029",
+    "start": 1267,
+    "end": 1271
+  },
+  {
+    "class": "date",
+    "text": "2031",
+    "start": 1377,
+    "end": 1381
+  },
+  {
+    "class": "date",
+    "text": "2042",
+    "start": 1432,
+    "end": 1436
+  },
+  {
+    "class": "date",
+    "text": "preceding 12 months",
+    "start": 1999,
+    "end": 2018
+  },
+  {
+    "class": "date",
+    "text": "past 90 days",
+    "start": 2164,
+    "end": 2176
+  },
+  {
+    "class": "form_type",
+    "text": "Rule 12b-2",
+    "start": 2855,
+    "end": 2865
+  },
+  {
+    "class": "form_type",
+    "text": "Section 13(a) of the Exchange Act",
+    "start": 3265,
+    "end": 3298
+  },
+  {
+    "class": "form_type",
+    "text": "Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b))",
+    "start": 3494,
+    "end": 3554
+  },
+  {
+    "class": "money",
+    "text": "$2,628,553,000,000",
+    "start": 4515,
+    "end": 4533
+  },
+  {
+    "class": "date",
+    "text": "March 29, 2024",
+    "start": 4392,
+    "end": 4406
+  },
+  {
+    "class": "date",
+    "text": "October 18, 2024",
+    "start": 4957,
+    "end": 4973
+  },
+  {
+    "class": "money",
+    "text": "",
+    "start": null,
+    "end": null
+  },
+  {
+    "class": "percentage",
+    "text": "",
+    "start": null,
+    "end": null
+  },
+  {
+    "class": "company",
+    "text": "Registrant",
+    "start": 4646,
+    "end": 4656
+  },
+  {
+    "class": "shares",
+    "text": "15,115,823,000",
+    "start": 4885,
+    "end": 4899
+  }
+]

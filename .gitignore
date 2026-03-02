@@ -1,15 +1,11 @@
-# Ignore all virtual environments
+# Ignore virtual environments
 venv/
-*/venv/
+task_8/venv/
 
-# Ignore environment variables
+# Ignore environment files
 .env
-*/.env
+task_8/.env
 
-# Python cache
+# Ignore Python cache
 __pycache__/
-*/__pycache__/
 *.pyc
-
-# Mac files
-.DS_Store

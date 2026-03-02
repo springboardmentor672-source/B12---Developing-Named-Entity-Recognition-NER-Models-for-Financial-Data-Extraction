@@ -1,0 +1,353 @@
+<style>
+.lx-highlight { position: relative; border-radius:3px; padding:1px 2px;}
+.lx-highlight .lx-tooltip {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+  background: #333;
+  color: #fff;
+  text-align: left;
+  border-radius: 4px;
+  padding: 6px 8px;
+  position: absolute;
+  z-index: 1000;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px;
+  max-width: 240px;
+  white-space: normal;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+.lx-highlight:hover .lx-tooltip { visibility: visible; opacity:1; }
+.lx-animated-wrapper { max-width: 100%; font-family: Arial, sans-serif; }
+.lx-controls {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 8px;
+  padding: 12px; margin-bottom: 16px;
+}
+.lx-button-row {
+  display: flex; justify-content: center; gap: 8px; margin-bottom: 12px;
+}
+.lx-control-btn {
+  background: #4285f4; color: white; border: none; border-radius: 4px;
+  padding: 8px 16px; cursor: pointer; font-size: 13px; font-weight: 500;
+  transition: background-color 0.2s;
+}
+.lx-control-btn:hover { background: #3367d6; }
+.lx-progress-container {
+  margin-bottom: 8px;
+}
+.lx-progress-slider {
+  width: 100%; margin: 0; appearance: none; height: 6px;
+  background: #ddd; border-radius: 3px; outline: none;
+}
+.lx-progress-slider::-webkit-slider-thumb {
+  appearance: none; width: 18px; height: 18px; background: #4285f4;
+  border-radius: 50%; cursor: pointer;
+}
+.lx-progress-slider::-moz-range-thumb {
+  width: 18px; height: 18px; background: #4285f4; border-radius: 50%;
+  cursor: pointer; border: none;
+}
+.lx-status-text {
+  text-align: center; font-size: 12px; color: #666; margin-top: 4px;
+}
+.lx-text-window {
+  font-family: monospace; white-space: pre-wrap; border: 1px solid #90caf9;
+  padding: 12px; max-height: 260px; overflow-y: auto; margin-bottom: 12px;
+  line-height: 1.6;
+}
+.lx-attributes-panel {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 6px;
+  padding: 8px 10px; margin-top: 8px; font-size: 13px;
+}
+.lx-current-highlight {
+  border-bottom: 4px solid #ff4444;
+  font-weight: bold;
+  animation: lx-pulse 1s ease-in-out;
+}
+@keyframes lx-pulse {
+  0% { text-decoration-color: #ff4444; }
+  50% { text-decoration-color: #ff0000; }
+  100% { text-decoration-color: #ff4444; }
+}
+.lx-legend {
+  font-size: 12px; margin-bottom: 8px;
+  padding-bottom: 8px; border-bottom: 1px solid #e0e0e0;
+}
+.lx-label {
+  display: inline-block;
+  padding: 2px 4px;
+  border-radius: 3px;
+  margin-right: 4px;
+  color: #000;
+}
+.lx-attr-key {
+  font-weight: 600;
+  color: #1565c0;
+  letter-spacing: 0.3px;
+}
+.lx-attr-value {
+  font-weight: 400;
+  opacity: 0.85;
+  letter-spacing: 0.2px;
+}
+
+/* Add optimizations with larger fonts and better readability for GIFs */
+.lx-gif-optimized .lx-text-window { font-size: 16px; line-height: 1.8; }
+.lx-gif-optimized .lx-attributes-panel { font-size: 15px; }
+.lx-gif-optimized .lx-current-highlight { text-decoration-thickness: 4px; }
+</style>
+    <div class="lx-animated-wrapper lx-gif-optimized">
+      <div class="lx-attributes-panel">
+        <div class="lx-legend">Highlights Legend: <span class="lx-label" style="background-color:#D2E3FC;">cik</span> <span class="lx-label" style="background-color:#C8E6C9;">company</span> <span class="lx-label" style="background-color:#FEF0C3;">date</span> <span class="lx-label" style="background-color:#F9DEDC;">form_type</span> <span class="lx-label" style="background-color:#FFDDBE;">money</span> <span class="lx-label" style="background-color:#EADDFF;">percentage</span> <span class="lx-label" style="background-color:#C4E9E4;">sec_file_number</span> <span class="lx-label" style="background-color:#FCE4EC;">shares</span> <span class="lx-label" style="background-color:#E8EAED;">ticker</span></div>
+        <div id="attributesContainer"></div>
+      </div>
+      <div class="lx-text-window" id="textWindow">
+        ## UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+## <span class="lx-highlight lx-current-highlight" data-idx="0" style="background-color:#F9DEDC;">FORM 10-K</span>
+
+(Mark One)
+
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended <span class="lx-highlight" data-idx="1" style="background-color:#FEF0C3;">September 28, 2024</span>
+
+or
+
+- [ ] ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from              to             .
+
+Commission File Number:
+
+<span class="lx-highlight" data-idx="2" style="background-color:#C4E9E4;">001-36743</span>
+
+## <span class="lx-highlight" data-idx="3" style="background-color:#C8E6C9;">Apple Inc.</span>
+
+(Exact name of Registrant as specified in its charter)
+
+California
+
+<span class="lx-highlight" data-idx="4" style="background-color:#D2E3FC;">94-2404110</span>
+
+(State or other jurisdiction of incorporation or organization)
+
+(I.R.S. Employer Identification No.)
+
+One Apple Park Way Cupertino, California
+
+95014
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408) 996-1010
+
+(Registrant&#x27;s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.00001 par value per share
+
+<span class="lx-highlight" data-idx="5" style="background-color:#E8EAED;">AAPL</span>
+
+<span class="lx-highlight" data-idx="6" style="background-color:#C8E6C9;">The Nasdaq Stock Market LLC</span>
+
+<span class="lx-highlight" data-idx="7" style="background-color:#EADDFF;">0.000%</span> Notes due <span class="lx-highlight" data-idx="8" style="background-color:#FEF0C3;">2025</span>
+
+-
+
+The Nasdaq Stock Market LLC
+
+<span class="lx-highlight" data-idx="9" style="background-color:#EADDFF;">0.875%</span> Notes due 2025
+
+-
+
+The Nasdaq Stock Market LLC
+
+<span class="lx-highlight" data-idx="10" style="background-color:#EADDFF;">1.625%</span> Notes due <span class="lx-highlight" data-idx="11" style="background-color:#FEF0C3;">2026</span>
+
+-
+
+The Nasdaq Stock Market LLC
+
+<span class="lx-highlight" data-idx="12" style="background-color:#EADDFF;">2.000%</span> Notes due <span class="lx-highlight" data-idx="13" style="background-color:#FEF0C3;">2027</span>
+
+-
+
+The Nasdaq Stock Market LLC
+
+<span class="lx-highlight" data-idx="14" style="background-color:#EADDFF;">1.375%</span> Notes due <span class="lx-highlight" data-idx="15" style="background-color:#FEF0C3;">2029</span>
+
+-
+
+The Nasdaq Stock Market LLC
+
+<span class="lx-highlight" data-idx="16" style="background-color:#EADDFF;">3.050%</span> Notes due 2029
+
+-
+
+The Nasdaq Stock Market LLC
+
+<span class="lx-highlight" data-idx="17" style="background-color:#EADDFF;">0.500%</span> Notes due <span class="lx-highlight" data-idx="18" style="background-color:#FEF0C3;">2031</span>
+
+-
+
+The Nasdaq Stock Market LLC
+
+<span class="lx-highlight" data-idx="19" style="background-color:#EADDFF;">3.600%</span> Notes due <span class="lx-highlight" data-idx="20" style="background-color:#FEF0C3;">2042</span>
+
+-
+
+The Nasdaq Stock Market LLC
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+
+- [x] Yes ☒
+
+- [ ] No ☐
+
+Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+
+- [ ] Yes ☐
+
+- [x] No ☒
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the <span class="lx-highlight" data-idx="21" style="background-color:#FEF0C3;">preceding 12 months</span> (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the <span class="lx-highlight" data-idx="22" style="background-color:#FEF0C3;">past 90 days</span>.
+
+- [x] Yes ☒
+
+- [ ] No ☐
+
+Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files).
+
+- [x] Yes ☒
+
+- [ ] No ☐
+
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of &#x27;large accelerated filer,&#x27; &#x27;accelerated filer,&#x27; &#x27;smaller reporting company,&#x27; and &#x27;emerging growth company&#x27; in <span class="lx-highlight" data-idx="23" style="background-color:#F9DEDC;">Rule 12b-2</span> of the Exchange Act.
+
+- [x] Large accelerated filer ☒
+
+- [ ] Accelerated filer ☐
+
+- [ ] Non-accelerated filer ☐
+
+- [ ] Smaller reporting company ☐
+
+- [ ] Emerging growth company ☐
+
+If  an  emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to <span class="lx-highlight" data-idx="24" style="background-color:#F9DEDC;">Section 13(a) of the Exchange Act</span>. ☐
+
+Indicate by check mark whether the Registrant has filed a report on and attestation to its management&#x27;s assessment of the effectiveness of its internal control over financial reporting under <span class="lx-highlight" data-idx="25" style="background-color:#F9DEDC;">Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b))</span> by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant&#x27;s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Act).
+
+- [ ] Yes ☐
+
+- [x] No ☒
+
+The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of <span class="lx-highlight" data-idx="26" style="background-color:#FEF0C3;">March 29, 2024</span>, the last business day of the Registrant&#x27;s most recently completed second fiscal quarter, was approximately <span class="lx-highlight" data-idx="27" style="background-color:#FFDDBE;">$2,628,553,000,000</span>. Solely for purposes of this disclosure, shares of common stock held by executive officers and directors of the <span class="lx-highlight" data-idx="28" style="background-color:#C8E6C9;">Registrant</span> as of such date have been excluded because such persons may be deemed to be affiliates. This determination of executive officers and directors as affiliates is not necessarily a conclusive determination for any other purposes.
+
+<span class="lx-highlight" data-idx="29" style="background-color:#FCE4EC;">15,115,823,000</span> shares of common stock were issued and outstanding as of <span class="lx-highlight" data-idx="30" style="background-color:#FEF0C3;">October 18, 2024</span>.
+
+## DOCUMENTS INCORPORATE
+      </div>
+      <div class="lx-controls">
+        <div class="lx-button-row">
+          <button class="lx-control-btn" onclick="playPause()">▶️ Play</button>
+          <button class="lx-control-btn" onclick="prevExtraction()">⏮ Previous</button>
+          <button class="lx-control-btn" onclick="nextExtraction()">⏭ Next</button>
+        </div>
+        <div class="lx-progress-container">
+          <input type="range" id="progressSlider" class="lx-progress-slider"
+                 min="0" max="30" value="0"
+                 onchange="jumpToExtraction(this.value)">
+        </div>
+        <div class="lx-status-text">
+          Entity <span id="entityInfo">1/31</span> |
+          Pos <span id="posInfo">[440-450]</span>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function() {
+        const extractions = [{"index": 0, "class": "form_type", "text": "FORM 10-K", "color": "#F9DEDC", "startPos": 80, "endPos": 89, "beforeText": "## UNITED STATES SECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\n## ", "extractionText": "FORM 10-K", "afterText": "\n\n(Mark One)\n\n\u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the fiscal year ended September 28, 2024\n\nor", "attributesHtml": "<div><strong>class:</strong> form_type</div><div><strong>attributes:</strong> {}</div>"}, {"index": 1, "class": "date", "text": "September 28, 2024", "color": "#FEF0C3", "startPos": 217, "endPos": 235, "beforeText": "C. 20549\n\n## FORM 10-K\n\n(Mark One)\n\n\u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the fiscal year ended ", "extractionText": "September 28, 2024", "afterText": "\n\nor\n\n- [ ] \u2610 TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the transition period from              to", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {}</div>"}, {"index": 2, "class": "sec_file_number", "text": "001-36743", "color": "#C4E9E4", "startPos": 426, "endPos": 435, "beforeText": "TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the transition period from              to             .\n\nCommission File Number:\n\n", "extractionText": "001-36743", "afterText": "\n\n## Apple Inc.\n\n(Exact name of Registrant as specified in its charter)\n\nCalifornia\n\n94-2404110\n\n(State or other jurisdiction of incorporation or orga", "attributesHtml": "<div><strong>class:</strong> sec_file_number</div><div><strong>attributes:</strong> {}</div>"}, {"index": 3, "class": "company", "text": "Apple Inc.", "color": "#C8E6C9", "startPos": 440, "endPos": 450, "beforeText": "OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the transition period from              to             .\n\nCommission File Number:\n\n001-36743\n\n## ", "extractionText": "Apple Inc.", "afterText": "\n\n(Exact name of Registrant as specified in its charter)\n\nCalifornia\n\n94-2404110\n\n(State or other jurisdiction of incorporation or organization)\n\n(I.R", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {}</div>"}, {"index": 4, "class": "cik", "text": "94-2404110", "color": "#D2E3FC", "startPos": 520, "endPos": 530, "beforeText": "             to             .\n\nCommission File Number:\n\n001-36743\n\n## Apple Inc.\n\n(Exact name of Registrant as specified in its charter)\n\nCalifornia\n\n", "extractionText": "94-2404110", "afterText": "\n\n(State or other jurisdiction of incorporation or organization)\n\n(I.R.S. Employer Identification No.)\n\nOne Apple Park Way Cupertino, California\n\n9501", "attributesHtml": "<div><strong>class:</strong> cik</div><div><strong>attributes:</strong> {}</div>"}, {"index": 5, "class": "ticker", "text": "AAPL", "color": "#E8EAED", "startPos": 995, "endPos": 999, "beforeText": "ion 12(b) of the Act:\n\nTitle of each class\n\nTrading symbol(s)\n\nName of each exchange on which registered\n\nCommon Stock, $0.00001 par value per share\n\n", "extractionText": "AAPL", "afterText": "\n\nThe Nasdaq Stock Market LLC\n\n0.000% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.875% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.625% No", "attributesHtml": "<div><strong>class:</strong> ticker</div><div><strong>attributes:</strong> {}</div>"}, {"index": 6, "class": "company", "text": "The Nasdaq Stock Market LLC", "color": "#C8E6C9", "startPos": 1001, "endPos": 1028, "beforeText": "(b) of the Act:\n\nTitle of each class\n\nTrading symbol(s)\n\nName of each exchange on which registered\n\nCommon Stock, $0.00001 par value per share\n\nAAPL\n\n", "extractionText": "The Nasdaq Stock Market LLC", "afterText": "\n\n0.000% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.875% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.625% Notes due 2026\n\n-\n\nThe Nasdaq S", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {}</div>"}, {"index": 7, "class": "percentage", "text": "0.000%", "color": "#EADDFF", "startPos": 1030, "endPos": 1036, "beforeText": "h class\n\nTrading symbol(s)\n\nName of each exchange on which registered\n\nCommon Stock, $0.00001 par value per share\n\nAAPL\n\nThe Nasdaq Stock Market LLC\n\n", "extractionText": "0.000%", "afterText": " Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.875% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.625% Notes due 2026\n\n-\n\nThe Nasdaq Stock Mar", "attributesHtml": "<div><strong>class:</strong> percentage</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due 2025</span>}</div>"}, {"index": 8, "class": "date", "text": "2025", "color": "#FEF0C3", "startPos": 1047, "endPos": 1051, "beforeText": "symbol(s)\n\nName of each exchange on which registered\n\nCommon Stock, $0.00001 par value per share\n\nAAPL\n\nThe Nasdaq Stock Market LLC\n\n0.000% Notes due ", "extractionText": "2025", "afterText": "\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.875% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.625% Notes due 2026\n\n-\n\nThe Nasdaq Stock Market LLC\n\n2.000%", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due</span>}</div>"}, {"index": 9, "class": "percentage", "text": "0.875%", "color": "#EADDFF", "startPos": 1085, "endPos": 1091, "beforeText": "ich registered\n\nCommon Stock, $0.00001 par value per share\n\nAAPL\n\nThe Nasdaq Stock Market LLC\n\n0.000% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n", "extractionText": "0.875%", "afterText": " Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.625% Notes due 2026\n\n-\n\nThe Nasdaq Stock Market LLC\n\n2.000% Notes due 2027\n\n-\n\nThe Nasdaq Stock Mar", "attributesHtml": "<div><strong>class:</strong> percentage</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due 2025</span>}</div>"}, {"index": 10, "class": "percentage", "text": "1.625%", "color": "#EADDFF", "startPos": 1140, "endPos": 1146, "beforeText": "are\n\nAAPL\n\nThe Nasdaq Stock Market LLC\n\n0.000% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.875% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n", "extractionText": "1.625%", "afterText": " Notes due 2026\n\n-\n\nThe Nasdaq Stock Market LLC\n\n2.000% Notes due 2027\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.375% Notes due 2029\n\n-\n\nThe Nasdaq Stock Mar", "attributesHtml": "<div><strong>class:</strong> percentage</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due 2026</span>}</div>"}, {"index": 11, "class": "date", "text": "2026", "color": "#FEF0C3", "startPos": 1157, "endPos": 1161, "beforeText": "sdaq Stock Market LLC\n\n0.000% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.875% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.625% Notes due ", "extractionText": "2026", "afterText": "\n\n-\n\nThe Nasdaq Stock Market LLC\n\n2.000% Notes due 2027\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.375% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.050%", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due</span>}</div>"}, {"index": 12, "class": "percentage", "text": "2.000%", "color": "#EADDFF", "startPos": 1195, "endPos": 1201, "beforeText": "e 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.875% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.625% Notes due 2026\n\n-\n\nThe Nasdaq Stock Market LLC\n\n", "extractionText": "2.000%", "afterText": " Notes due 2027\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.375% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.050% Notes due 2029\n\n-\n\nThe Nasdaq Stock Mar", "attributesHtml": "<div><strong>class:</strong> percentage</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due 2027</span>}</div>"}, {"index": 13, "class": "date", "text": "2027", "color": "#FEF0C3", "startPos": 1212, "endPos": 1216, "beforeText": "sdaq Stock Market LLC\n\n0.875% Notes due 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.625% Notes due 2026\n\n-\n\nThe Nasdaq Stock Market LLC\n\n2.000% Notes due ", "extractionText": "2027", "afterText": "\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.375% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.050% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.500%", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due</span>}</div>"}, {"index": 14, "class": "percentage", "text": "1.375%", "color": "#EADDFF", "startPos": 1250, "endPos": 1256, "beforeText": "e 2025\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.625% Notes due 2026\n\n-\n\nThe Nasdaq Stock Market LLC\n\n2.000% Notes due 2027\n\n-\n\nThe Nasdaq Stock Market LLC\n\n", "extractionText": "1.375%", "afterText": " Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.050% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.500% Notes due 2031\n\n-\n\nThe Nasdaq Stock Mar", "attributesHtml": "<div><strong>class:</strong> percentage</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due 2029</span>}</div>"}, {"index": 15, "class": "date", "text": "2029", "color": "#FEF0C3", "startPos": 1267, "endPos": 1271, "beforeText": "sdaq Stock Market LLC\n\n1.625% Notes due 2026\n\n-\n\nThe Nasdaq Stock Market LLC\n\n2.000% Notes due 2027\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.375% Notes due ", "extractionText": "2029", "afterText": "\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.050% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.500% Notes due 2031\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.600%", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due</span>}</div>"}, {"index": 16, "class": "percentage", "text": "3.050%", "color": "#EADDFF", "startPos": 1305, "endPos": 1311, "beforeText": "e 2026\n\n-\n\nThe Nasdaq Stock Market LLC\n\n2.000% Notes due 2027\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.375% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n", "extractionText": "3.050%", "afterText": " Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.500% Notes due 2031\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.600% Notes due 2042\n\n-\n\nThe Nasdaq Stock Mar", "attributesHtml": "<div><strong>class:</strong> percentage</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due 2029</span>}</div>"}, {"index": 17, "class": "percentage", "text": "0.500%", "color": "#EADDFF", "startPos": 1360, "endPos": 1366, "beforeText": "e 2027\n\n-\n\nThe Nasdaq Stock Market LLC\n\n1.375% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.050% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n", "extractionText": "0.500%", "afterText": " Notes due 2031\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.600% Notes due 2042\n\n-\n\nThe Nasdaq Stock Market LLC\n\nSecurities registered pursuant to Section 12(g", "attributesHtml": "<div><strong>class:</strong> percentage</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due 2031</span>}</div>"}, {"index": 18, "class": "date", "text": "2031", "color": "#FEF0C3", "startPos": 1377, "endPos": 1381, "beforeText": "sdaq Stock Market LLC\n\n1.375% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.050% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.500% Notes due ", "extractionText": "2031", "afterText": "\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.600% Notes due 2042\n\n-\n\nThe Nasdaq Stock Market LLC\n\nSecurities registered pursuant to Section 12(g) of the Act: N", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due</span>}</div>"}, {"index": 19, "class": "percentage", "text": "3.600%", "color": "#EADDFF", "startPos": 1415, "endPos": 1421, "beforeText": "e 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.050% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.500% Notes due 2031\n\n-\n\nThe Nasdaq Stock Market LLC\n\n", "extractionText": "3.600%", "afterText": " Notes due 2042\n\n-\n\nThe Nasdaq Stock Market LLC\n\nSecurities registered pursuant to Section 12(g) of the Act: None\n\nIndicate by check mark if the Regis", "attributesHtml": "<div><strong>class:</strong> percentage</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due 2042</span>}</div>"}, {"index": 20, "class": "date", "text": "2042", "color": "#FEF0C3", "startPos": 1432, "endPos": 1436, "beforeText": "sdaq Stock Market LLC\n\n3.050% Notes due 2029\n\n-\n\nThe Nasdaq Stock Market LLC\n\n0.500% Notes due 2031\n\n-\n\nThe Nasdaq Stock Market LLC\n\n3.600% Notes due ", "extractionText": "2042", "afterText": "\n\n-\n\nThe Nasdaq Stock Market LLC\n\nSecurities registered pursuant to Section 12(g) of the Act: None\n\nIndicate by check mark if the Registrant is a well", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">note_type</span>: <span class=\"lx-attr-value\">Notes due</span>}</div>"}, {"index": 21, "class": "date", "text": "preceding 12 months", "color": "#FEF0C3", "startPos": 1999, "endPos": 2018, "beforeText": "k mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the ", "extractionText": "preceding 12 months", "afterText": " (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {}</div>"}, {"index": 22, "class": "date", "text": "past 90 days", "color": "#FEF0C3", "startPos": 2164, "endPos": 2176, "beforeText": "nths (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the ", "extractionText": "past 90 days", "afterText": ".\n\n- [x] Yes \u2612\n\n- [ ] No \u2610\n\nIndicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be subm", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {}</div>"}, {"index": 23, "class": "form_type", "text": "Rule 12b-2", "color": "#F9DEDC", "startPos": 2855, "endPos": 2865, "beforeText": " growth company. See the definitions of &#x27;large accelerated filer,&#x27; &#x27;accelerated filer,&#x27; &#x27;smaller reporting company,&#x27; and &#x27;emerging growth company&#x27; in ", "extractionText": "Rule 12b-2", "afterText": " of the Exchange Act.\n\n- [x] Large accelerated filer \u2612\n\n- [ ] Accelerated filer \u2610\n\n- [ ] Non-accelerated filer \u2610\n\n- [ ] Smaller reporting company \u2610\n\n-", "attributesHtml": "<div><strong>class:</strong> form_type</div><div><strong>attributes:</strong> {}</div>"}, {"index": 24, "class": "form_type", "text": "Section 13(a) of the Exchange Act", "color": "#F9DEDC", "startPos": 3265, "endPos": 3298, "beforeText": "trant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to ", "extractionText": "Section 13(a) of the Exchange Act", "afterText": ". \u2610\n\nIndicate by check mark whether the Registrant has filed a report on and attestation to its management&#x27;s assessment of the effectiveness of its in", "attributesHtml": "<div><strong>class:</strong> form_type</div><div><strong>attributes:</strong> {}</div>"}, {"index": 25, "class": "form_type", "text": "Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b))", "color": "#F9DEDC", "startPos": 3494, "endPos": 3554, "beforeText": "rant has filed a report on and attestation to its management&#x27;s assessment of the effectiveness of its internal control over financial reporting under ", "extractionText": "Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b))", "afterText": " by the registered public accounting firm that prepared or issued its audit report. \u2612\n\nIf securities are registered pursuant to Section 12(b) of the A", "attributesHtml": "<div><strong>class:</strong> form_type</div><div><strong>attributes:</strong> {}</div>"}, {"index": 26, "class": "date", "text": "March 29, 2024", "color": "#FEF0C3", "startPos": 4392, "endPos": 4406, "beforeText": " of the Act).\n\n- [ ] Yes \u2610\n\n- [x] No \u2612\n\nThe aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of ", "extractionText": "March 29, 2024", "afterText": ", the last business day of the Registrant&#x27;s most recently completed second fiscal quarter, was approximately $2,628,553,000,000. Solely for purposes o", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {}</div>"}, {"index": 27, "class": "money", "text": "$2,628,553,000,000", "color": "#FFDDBE", "startPos": 4515, "endPos": 4533, "beforeText": "s of the Registrant, as of March 29, 2024, the last business day of the Registrant&#x27;s most recently completed second fiscal quarter, was approximately ", "extractionText": "$2,628,553,000,000", "afterText": ". Solely for purposes of this disclosure, shares of common stock held by executive officers and directors of the Registrant as of such date have been ", "attributesHtml": "<div><strong>class:</strong> money</div><div><strong>attributes:</strong> {}</div>"}, {"index": 28, "class": "company", "text": "Registrant", "color": "#C8E6C9", "startPos": 4646, "endPos": 4656, "beforeText": " was approximately $2,628,553,000,000. Solely for purposes of this disclosure, shares of common stock held by executive officers and directors of the ", "extractionText": "Registrant", "afterText": " as of such date have been excluded because such persons may be deemed to be affiliates. This determination of executive officers and directors as aff", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {}</div>"}, {"index": 29, "class": "shares", "text": "15,115,823,000", "color": "#FCE4EC", "startPos": 4885, "endPos": 4899, "beforeText": "filiates. This determination of executive officers and directors as affiliates is not necessarily a conclusive determination for any other purposes.\n\n", "extractionText": "15,115,823,000", "afterText": " shares of common stock were issued and outstanding as of October 18, 2024.\n\n## DOCUMENTS INCORPORATE", "attributesHtml": "<div><strong>class:</strong> shares</div><div><strong>attributes:</strong> {}</div>"}, {"index": 30, "class": "date", "text": "October 18, 2024", "color": "#FEF0C3", "startPos": 4957, "endPos": 4973, "beforeText": "liates is not necessarily a conclusive determination for any other purposes.\n\n15,115,823,000 shares of common stock were issued and outstanding as of ", "extractionText": "October 18, 2024", "afterText": ".\n\n## DOCUMENTS INCORPORATE", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {}</div>"}];
+        let currentIndex = 0;
+        let isPlaying = false;
+        let animationInterval = null;
+        let animationSpeed = 1.0;
+
+        function updateDisplay() {
+          const extraction = extractions[currentIndex];
+          if (!extraction) return;
+
+          document.getElementById('attributesContainer').innerHTML = extraction.attributesHtml;
+          document.getElementById('entityInfo').textContent = (currentIndex + 1) + '/' + extractions.length;
+          document.getElementById('posInfo').textContent = '[' + extraction.startPos + '-' + extraction.endPos + ']';
+          document.getElementById('progressSlider').value = currentIndex;
+
+          const playBtn = document.querySelector('.lx-control-btn');
+          if (playBtn) playBtn.textContent = isPlaying ? '⏸ Pause' : '▶️ Play';
+
+          const prevHighlight = document.querySelector('.lx-text-window .lx-current-highlight');
+          if (prevHighlight) prevHighlight.classList.remove('lx-current-highlight');
+          const currentSpan = document.querySelector('.lx-text-window span[data-idx="' + currentIndex + '"]');
+          if (currentSpan) {
+            currentSpan.classList.add('lx-current-highlight');
+            currentSpan.scrollIntoView({block: 'center', behavior: 'smooth'});
+          }
+        }
+
+        function nextExtraction() {
+          currentIndex = (currentIndex + 1) % extractions.length;
+          updateDisplay();
+        }
+
+        function prevExtraction() {
+          currentIndex = (currentIndex - 1 + extractions.length) % extractions.length;
+          updateDisplay();
+        }
+
+        function jumpToExtraction(index) {
+          currentIndex = parseInt(index);
+          updateDisplay();
+        }
+
+        function playPause() {
+          if (isPlaying) {
+            clearInterval(animationInterval);
+            isPlaying = false;
+          } else {
+            animationInterval = setInterval(nextExtraction, animationSpeed * 1000);
+            isPlaying = true;
+          }
+          updateDisplay();
+        }
+
+        window.playPause = playPause;
+        window.nextExtraction = nextExtraction;
+        window.prevExtraction = prevExtraction;
+        window.jumpToExtraction = jumpToExtraction;
+
+        updateDisplay();
+      })();
+    </script>
