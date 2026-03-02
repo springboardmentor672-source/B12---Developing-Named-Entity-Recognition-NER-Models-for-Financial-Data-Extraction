@@ -1,0 +1,92 @@
+[
+  {
+    "class": "company",
+    "text": "Apple",
+    "start": 503,
+    "end": 508
+  },
+  {
+    "class": "money",
+    "text": "$0",
+    "start": 960,
+    "end": 962
+  },
+  {
+    "class": "location",
+    "text": "California",
+    "start": 423,
+    "end": 433
+  },
+  {
+    "class": "location",
+    "text": "Cupertino, California",
+    "start": 518,
+    "end": 539
+  },
+  {
+    "class": "phone_number",
+    "text": "(408) 996-1010",
+    "start": 583,
+    "end": 597
+  },
+  {
+    "class": "date",
+    "text": "June 28, 2025",
+    "start": 136,
+    "end": 149
+  },
+  {
+    "class": "company",
+    "text": "AAPL",
+    "start": 991,
+    "end": 995
+  },
+  {
+    "class": "exchange",
+    "text": "The Nasdaq Stock Market LLC",
+    "start": 1013,
+    "end": 1040
+  },
+  {
+    "class": "percentage",
+    "text": "0.000%",
+    "start": 1061,
+    "end": 1067
+  },
+  {
+    "class": "percentage",
+    "text": "1.625%",
+    "start": 1176,
+    "end": 1182
+  },
+  {
+    "class": "percentage",
+    "text": "2.000%",
+    "start": 1291,
+    "end": 1297
+  },
+  {
+    "class": "percentage",
+    "text": "1.375%",
+    "start": 1406,
+    "end": 1412
+  },
+  {
+    "class": "percentage",
+    "text": "3.050%",
+    "start": 1521,
+    "end": 1527
+  },
+  {
+    "class": "percentage",
+    "text": "0.500%",
+    "start": 1636,
+    "end": 1642
+  },
+  {
+    "class": "percentage",
+    "text": "3.600%",
+    "start": 1751,
+    "end": 1757
+  }
+]
