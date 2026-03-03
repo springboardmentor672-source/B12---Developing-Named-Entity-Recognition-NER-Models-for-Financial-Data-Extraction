@@ -1,0 +1,223 @@
+<style>
+.lx-highlight { position: relative; border-radius:3px; padding:1px 2px;}
+.lx-highlight .lx-tooltip {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+  background: #333;
+  color: #fff;
+  text-align: left;
+  border-radius: 4px;
+  padding: 6px 8px;
+  position: absolute;
+  z-index: 1000;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px;
+  max-width: 240px;
+  white-space: normal;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+.lx-highlight:hover .lx-tooltip { visibility: visible; opacity:1; }
+.lx-animated-wrapper { max-width: 100%; font-family: Arial, sans-serif; }
+.lx-controls {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 8px;
+  padding: 12px; margin-bottom: 16px;
+}
+.lx-button-row {
+  display: flex; justify-content: center; gap: 8px; margin-bottom: 12px;
+}
+.lx-control-btn {
+  background: #4285f4; color: white; border: none; border-radius: 4px;
+  padding: 8px 16px; cursor: pointer; font-size: 13px; font-weight: 500;
+  transition: background-color 0.2s;
+}
+.lx-control-btn:hover { background: #3367d6; }
+.lx-progress-container {
+  margin-bottom: 8px;
+}
+.lx-progress-slider {
+  width: 100%; margin: 0; appearance: none; height: 6px;
+  background: #ddd; border-radius: 3px; outline: none;
+}
+.lx-progress-slider::-webkit-slider-thumb {
+  appearance: none; width: 18px; height: 18px; background: #4285f4;
+  border-radius: 50%; cursor: pointer;
+}
+.lx-progress-slider::-moz-range-thumb {
+  width: 18px; height: 18px; background: #4285f4; border-radius: 50%;
+  cursor: pointer; border: none;
+}
+.lx-status-text {
+  text-align: center; font-size: 12px; color: #666; margin-top: 4px;
+}
+.lx-text-window {
+  font-family: monospace; white-space: pre-wrap; border: 1px solid #90caf9;
+  padding: 12px; max-height: 260px; overflow-y: auto; margin-bottom: 12px;
+  line-height: 1.6;
+}
+.lx-attributes-panel {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 6px;
+  padding: 8px 10px; margin-top: 8px; font-size: 13px;
+}
+.lx-current-highlight {
+  border-bottom: 4px solid #ff4444;
+  font-weight: bold;
+  animation: lx-pulse 1s ease-in-out;
+}
+@keyframes lx-pulse {
+  0% { text-decoration-color: #ff4444; }
+  50% { text-decoration-color: #ff0000; }
+  100% { text-decoration-color: #ff4444; }
+}
+.lx-legend {
+  font-size: 12px; margin-bottom: 8px;
+  padding-bottom: 8px; border-bottom: 1px solid #e0e0e0;
+}
+.lx-label {
+  display: inline-block;
+  padding: 2px 4px;
+  border-radius: 3px;
+  margin-right: 4px;
+  color: #000;
+}
+.lx-attr-key {
+  font-weight: 600;
+  color: #1565c0;
+  letter-spacing: 0.3px;
+}
+.lx-attr-value {
+  font-weight: 400;
+  opacity: 0.85;
+  letter-spacing: 0.2px;
+}
+
+/* Add optimizations with larger fonts and better readability for GIFs */
+.lx-gif-optimized .lx-text-window { font-size: 16px; line-height: 1.8; }
+.lx-gif-optimized .lx-attributes-panel { font-size: 15px; }
+.lx-gif-optimized .lx-current-highlight { text-decoration-thickness: 4px; }
+</style>
+    <div class="lx-animated-wrapper lx-gif-optimized">
+      <div class="lx-attributes-panel">
+        <div class="lx-legend">Highlights Legend: <span class="lx-label" style="background-color:#D2E3FC;">account_number</span> <span class="lx-label" style="background-color:#C8E6C9;">amount</span> <span class="lx-label" style="background-color:#FEF0C3;">company</span> <span class="lx-label" style="background-color:#F9DEDC;">contact_department</span> <span class="lx-label" style="background-color:#FFDDBE;">date</span> <span class="lx-label" style="background-color:#EADDFF;">declaration</span> <span class="lx-label" style="background-color:#C4E9E4;">ifsc_code</span> <span class="lx-label" style="background-color:#FCE4EC;">invoice_number</span> <span class="lx-label" style="background-color:#E8EAED;">payment_terms</span> <span class="lx-label" style="background-color:#DDE8E8;">tax_amount</span> <span class="lx-label" style="background-color:#D2E3FC;">tax_percentage</span> <span class="lx-label" style="background-color:#C8E6C9;">total_payable</span></div>
+        <div id="attributesContainer"></div>
+      </div>
+      <div class="lx-text-window" id="textWindow">
+        <span class="lx-highlight lx-current-highlight" data-idx="0" style="background-color:#FEF0C3;">Tata Consultancy Services Limited</span> (TCS) is a global leader in information technology services, consulting, and business solutions. Established as part of the Tata Group, 
+TCS has built a strong reputation for delivering innovative digital transformation strategies, enterprise solutions, and cutting‑edge technologies such as cloud computing, 
+artificial intelligence, and cybersecurity.
+Headquartered in Mumbai, India, TCS operates across multiple continents with delivery centers and offices worldwide. The company is recognized for its commitment to excellence, 
+customer satisfaction, and sustainable business practices. It consistently ranks among the most trusted IT service providers and is known for nurturing long‑term partnerships with leading organizations across industries.
+TCS embodies the values of the Tata Group — integrity, innovation, and responsibility — and continues to play a pivotal role in shaping the future of technology and business. 
+Its workforce is celebrated for diversity, expertise, and dedication to creating solutions that empower clients and communities alike.
+
+Notes
+- <span class="lx-highlight" data-idx="1" style="background-color:#E8EAED;">Payment is due within 15 days of the invoice date</span>.
+- Kindly reference the Invoice Number when making the transfer for accurate reconciliation.
+- Funds should be remitted to the account listed above using the provided IFSC Code.
+Invoice Number: <span class="lx-highlight" data-idx="2" style="background-color:#FCE4EC;">TATA-INV-2026-001</span>
+Date: <span class="lx-highlight" data-idx="3" style="background-color:#FFDDBE;">02 March 2026</span>
+Company: <span class="lx-highlight" data-idx="4" style="background-color:#FEF0C3;">Tata Consultancy Services Limited</span>
+Account Number: <span class="lx-highlight" data-idx="5" style="background-color:#D2E3FC;">9876543210</span>
+IFSC Code: <span class="lx-highlight" data-idx="6" style="background-color:#C4E9E4;">TATA0001234</span>
+Billing Details
+Amount: <span class="lx-highlight" data-idx="7" style="background-color:#C8E6C9;">₹1,20,000</span>
+Tax (<span class="lx-highlight" data-idx="8" style="background-color:#D2E3FC;">18%</span> GST): <span class="lx-highlight" data-idx="9" style="background-color:#DDE8E8;">₹21,600</span>
+Total Payable: <span class="lx-highlight" data-idx="10" style="background-color:#C8E6C9;">₹1,41,600</span>
+Terms &amp; Conditions
+This invoice is governed by the applicable Goods and Services Tax Act and related financial regulations. The tax amount has been calculated at the prevailing rate of 18%. Tata Consultancy Services Limited reserves the right to amend clerical errors or miscalculations if identified. Late payments beyond the due date may incur interest charges as per company policy.
+
+Additional Notes
+- <span class="lx-highlight" data-idx="11" style="background-color:#E8EAED;">Payment is due within 15 days of the invoice date</span>.
+- Any disputes regarding this invoice must be raised in writing within 7 days of receipt.
+- For queries, please contact the <span class="lx-highlight" data-idx="12" style="background-color:#F9DEDC;">Finance Department</span> at <span class="lx-highlight" data-idx="13" style="background-color:#FEF0C3;">Tata Consultancy Services Limited</span>.
+- This invoice serves as an official financial record and should be retained for auditing and compliance purposes.
+Declaration
+<span class="lx-highlight" data-idx="14" style="background-color:#EADDFF;">We hereby certify that the particulars stated above are true and correct to the best of our knowledge. This invoice has been generated in accordance with statutory requirements and reflects the agreed‑upon terms of service between Tata Consultancy Services Limited and the client.</span>
+
+This version now includes Payment Instructions, Terms &amp; Conditions, Additional Notes, and a Declaration, making it a complete, professional one‑page financial text.
+Would you like me to format this into a formal letterhead style (with Tata’s logo, address, and signature section), so it looks ready for official submission
+
+      </div>
+      <div class="lx-controls">
+        <div class="lx-button-row">
+          <button class="lx-control-btn" onclick="playPause()">▶️ Play</button>
+          <button class="lx-control-btn" onclick="prevExtraction()">⏮ Previous</button>
+          <button class="lx-control-btn" onclick="nextExtraction()">⏭ Next</button>
+        </div>
+        <div class="lx-progress-container">
+          <input type="range" id="progressSlider" class="lx-progress-slider"
+                 min="0" max="14" value="0"
+                 onchange="jumpToExtraction(this.value)">
+        </div>
+        <div class="lx-status-text">
+          Entity <span id="entityInfo">1/15</span> |
+          Pos <span id="posInfo">[0-33]</span>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function() {
+        const extractions = [{"index": 0, "class": "company", "text": "Tata Consultancy Services Limited", "color": "#FEF0C3", "startPos": 0, "endPos": 33, "beforeText": "", "extractionText": "Tata Consultancy Services Limited", "afterText": " (TCS) is a global leader in information technology services, consulting, and business solutions. Established as part of the Tata Group, \nTCS has buil", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {}</div>"}, {"index": 1, "class": "payment_terms", "text": "Payment is due within 15 days of the invoice date", "color": "#E8EAED", "startPos": 1107, "endPos": 1156, "beforeText": "ess. \nIts workforce is celebrated for diversity, expertise, and dedication to creating solutions that empower clients and communities alike.\n\nNotes\n- ", "extractionText": "Payment is due within 15 days of the invoice date", "afterText": ".\n- Kindly reference the Invoice Number when making the transfer for accurate reconciliation.\n- Funds should be remitted to the account listed above u", "attributesHtml": "<div><strong>class:</strong> payment_terms</div><div><strong>attributes:</strong> {}</div>"}, {"index": 2, "class": "invoice_number", "text": "TATA-INV-2026-001", "color": "#FCE4EC", "startPos": 1351, "endPos": 1368, "beforeText": "making the transfer for accurate reconciliation.\n- Funds should be remitted to the account listed above using the provided IFSC Code.\nInvoice Number: ", "extractionText": "TATA-INV-2026-001", "afterText": "\nDate: 02 March 2026\nCompany: Tata Consultancy Services Limited\nAccount Number: 9876543210\nIFSC Code: TATA0001234\nBilling Details\nAmount: \u20b91,20,000\nTa", "attributesHtml": "<div><strong>class:</strong> invoice_number</div><div><strong>attributes:</strong> {}</div>"}, {"index": 3, "class": "date", "text": "02 March 2026", "color": "#FFDDBE", "startPos": 1375, "endPos": 1388, "beforeText": "accurate reconciliation.\n- Funds should be remitted to the account listed above using the provided IFSC Code.\nInvoice Number: TATA-INV-2026-001\nDate: ", "extractionText": "02 March 2026", "afterText": "\nCompany: Tata Consultancy Services Limited\nAccount Number: 9876543210\nIFSC Code: TATA0001234\nBilling Details\nAmount: \u20b91,20,000\nTax (18% GST): \u20b921,600", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {}</div>"}, {"index": 4, "class": "company", "text": "Tata Consultancy Services Limited", "color": "#FEF0C3", "startPos": 1398, "endPos": 1431, "beforeText": ".\n- Funds should be remitted to the account listed above using the provided IFSC Code.\nInvoice Number: TATA-INV-2026-001\nDate: 02 March 2026\nCompany: ", "extractionText": "Tata Consultancy Services Limited", "afterText": "\nAccount Number: 9876543210\nIFSC Code: TATA0001234\nBilling Details\nAmount: \u20b91,20,000\nTax (18% GST): \u20b921,600\nTotal Payable: \u20b91,41,600\nTerms &amp; Condition", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {}</div>"}, {"index": 5, "class": "account_number", "text": "9876543210", "color": "#D2E3FC", "startPos": 1448, "endPos": 1458, "beforeText": " above using the provided IFSC Code.\nInvoice Number: TATA-INV-2026-001\nDate: 02 March 2026\nCompany: Tata Consultancy Services Limited\nAccount Number: ", "extractionText": "9876543210", "afterText": "\nIFSC Code: TATA0001234\nBilling Details\nAmount: \u20b91,20,000\nTax (18% GST): \u20b921,600\nTotal Payable: \u20b91,41,600\nTerms &amp; Conditions\nThis invoice is governed ", "attributesHtml": "<div><strong>class:</strong> account_number</div><div><strong>attributes:</strong> {}</div>"}, {"index": 6, "class": "ifsc_code", "text": "TATA0001234", "color": "#C4E9E4", "startPos": 1470, "endPos": 1481, "beforeText": "ded IFSC Code.\nInvoice Number: TATA-INV-2026-001\nDate: 02 March 2026\nCompany: Tata Consultancy Services Limited\nAccount Number: 9876543210\nIFSC Code: ", "extractionText": "TATA0001234", "afterText": "\nBilling Details\nAmount: \u20b91,20,000\nTax (18% GST): \u20b921,600\nTotal Payable: \u20b91,41,600\nTerms &amp; Conditions\nThis invoice is governed by the applicable Goods", "attributesHtml": "<div><strong>class:</strong> ifsc_code</div><div><strong>attributes:</strong> {}</div>"}, {"index": 7, "class": "amount", "text": "\u20b91,20,000", "color": "#C8E6C9", "startPos": 1506, "endPos": 1515, "beforeText": "INV-2026-001\nDate: 02 March 2026\nCompany: Tata Consultancy Services Limited\nAccount Number: 9876543210\nIFSC Code: TATA0001234\nBilling Details\nAmount: ", "extractionText": "\u20b91,20,000", "afterText": "\nTax (18% GST): \u20b921,600\nTotal Payable: \u20b91,41,600\nTerms &amp; Conditions\nThis invoice is governed by the applicable Goods and Services Tax Act and related ", "attributesHtml": "<div><strong>class:</strong> amount</div><div><strong>attributes:</strong> {}</div>"}, {"index": 8, "class": "tax_percentage", "text": "18%", "color": "#D2E3FC", "startPos": 1521, "endPos": 1524, "beforeText": "te: 02 March 2026\nCompany: Tata Consultancy Services Limited\nAccount Number: 9876543210\nIFSC Code: TATA0001234\nBilling Details\nAmount: \u20b91,20,000\nTax (", "extractionText": "18%", "afterText": " GST): \u20b921,600\nTotal Payable: \u20b91,41,600\nTerms &amp; Conditions\nThis invoice is governed by the applicable Goods and Services Tax Act and related financial", "attributesHtml": "<div><strong>class:</strong> tax_percentage</div><div><strong>attributes:</strong> {}</div>"}, {"index": 9, "class": "tax_amount", "text": "\u20b921,600", "color": "#DDE8E8", "startPos": 1531, "endPos": 1538, "beforeText": "ch 2026\nCompany: Tata Consultancy Services Limited\nAccount Number: 9876543210\nIFSC Code: TATA0001234\nBilling Details\nAmount: \u20b91,20,000\nTax (18% GST): ", "extractionText": "\u20b921,600", "afterText": "\nTotal Payable: \u20b91,41,600\nTerms &amp; Conditions\nThis invoice is governed by the applicable Goods and Services Tax Act and related financial regulations. ", "attributesHtml": "<div><strong>class:</strong> tax_amount</div><div><strong>attributes:</strong> {}</div>"}, {"index": 10, "class": "total_payable", "text": "\u20b91,41,600", "color": "#C8E6C9", "startPos": 1554, "endPos": 1563, "beforeText": "onsultancy Services Limited\nAccount Number: 9876543210\nIFSC Code: TATA0001234\nBilling Details\nAmount: \u20b91,20,000\nTax (18% GST): \u20b921,600\nTotal Payable: ", "extractionText": "\u20b91,41,600", "afterText": "\nTerms &amp; Conditions\nThis invoice is governed by the applicable Goods and Services Tax Act and related financial regulations. The tax amount has been c", "attributesHtml": "<div><strong>class:</strong> total_payable</div><div><strong>attributes:</strong> {}</div>"}, {"index": 11, "class": "payment_terms", "text": "Payment is due within 15 days of the invoice date", "color": "#E8EAED", "startPos": 1970, "endPos": 2019, "beforeText": "ical errors or miscalculations if identified. Late payments beyond the due date may incur interest charges as per company policy.\n\nAdditional Notes\n- ", "extractionText": "Payment is due within 15 days of the invoice date", "afterText": ".\n- Any disputes regarding this invoice must be raised in writing within 7 days of receipt.\n- For queries, please contact the Finance Department at Ta", "attributesHtml": "<div><strong>class:</strong> payment_terms</div><div><strong>attributes:</strong> {}</div>"}, {"index": 12, "class": "contact_department", "text": "Finance Department", "color": "#F9DEDC", "startPos": 2145, "endPos": 2163, "beforeText": "days of the invoice date.\n- Any disputes regarding this invoice must be raised in writing within 7 days of receipt.\n- For queries, please contact the ", "extractionText": "Finance Department", "afterText": " at Tata Consultancy Services Limited.\n- This invoice serves as an official financial record and should be retained for auditing and compliance purpos", "attributesHtml": "<div><strong>class:</strong> contact_department</div><div><strong>attributes:</strong> {}</div>"}, {"index": 13, "class": "company", "text": "Tata Consultancy Services Limited", "color": "#FEF0C3", "startPos": 2167, "endPos": 2200, "beforeText": "te.\n- Any disputes regarding this invoice must be raised in writing within 7 days of receipt.\n- For queries, please contact the Finance Department at ", "extractionText": "Tata Consultancy Services Limited", "afterText": ".\n- This invoice serves as an official financial record and should be retained for auditing and compliance purposes.\nDeclaration\nWe hereby certify tha", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {}</div>"}, {"index": 14, "class": "declaration", "text": "We hereby certify that the particulars stated above are true and correct to the best of our knowledge. This invoice has been generated in accordance with statutory requirements and reflects the agreed\u2011upon terms of service between Tata Consultancy Services Limited and the client.", "color": "#EADDFF", "startPos": 2329, "endPos": 2609, "beforeText": "ancy Services Limited.\n- This invoice serves as an official financial record and should be retained for auditing and compliance purposes.\nDeclaration\n", "extractionText": "We hereby certify that the particulars stated above are true and correct to the best of our knowledge. This invoice has been generated in accordance with statutory requirements and reflects the agreed\u2011upon terms of service between Tata Consultancy Services Limited and the client.", "afterText": "\n\nThis version now includes Payment Instructions, Terms &amp; Conditions, Additional Notes, and a Declaration, making it a complete, professional one\u2011page", "attributesHtml": "<div><strong>class:</strong> declaration</div><div><strong>attributes:</strong> {}</div>"}];
+        let currentIndex = 0;
+        let isPlaying = false;
+        let animationInterval = null;
+        let animationSpeed = 1.0;
+
+        function updateDisplay() {
+          const extraction = extractions[currentIndex];
+          if (!extraction) return;
+
+          document.getElementById('attributesContainer').innerHTML = extraction.attributesHtml;
+          document.getElementById('entityInfo').textContent = (currentIndex + 1) + '/' + extractions.length;
+          document.getElementById('posInfo').textContent = '[' + extraction.startPos + '-' + extraction.endPos + ']';
+          document.getElementById('progressSlider').value = currentIndex;
+
+          const playBtn = document.querySelector('.lx-control-btn');
+          if (playBtn) playBtn.textContent = isPlaying ? '⏸ Pause' : '▶️ Play';
+
+          const prevHighlight = document.querySelector('.lx-text-window .lx-current-highlight');
+          if (prevHighlight) prevHighlight.classList.remove('lx-current-highlight');
+          const currentSpan = document.querySelector('.lx-text-window span[data-idx="' + currentIndex + '"]');
+          if (currentSpan) {
+            currentSpan.classList.add('lx-current-highlight');
+            currentSpan.scrollIntoView({block: 'center', behavior: 'smooth'});
+          }
+        }
+
+        function nextExtraction() {
+          currentIndex = (currentIndex + 1) % extractions.length;
+          updateDisplay();
+        }
+
+        function prevExtraction() {
+          currentIndex = (currentIndex - 1 + extractions.length) % extractions.length;
+          updateDisplay();
+        }
+
+        function jumpToExtraction(index) {
+          currentIndex = parseInt(index);
+          updateDisplay();
+        }
+
+        function playPause() {
+          if (isPlaying) {
+            clearInterval(animationInterval);
+            isPlaying = false;
+          } else {
+            animationInterval = setInterval(nextExtraction, animationSpeed * 1000);
+            isPlaying = true;
+          }
+          updateDisplay();
+        }
+
+        window.playPause = playPause;
+        window.nextExtraction = nextExtraction;
+        window.prevExtraction = prevExtraction;
+        window.jumpToExtraction = jumpToExtraction;
+
+        updateDisplay();
+      })();
+    </script>
