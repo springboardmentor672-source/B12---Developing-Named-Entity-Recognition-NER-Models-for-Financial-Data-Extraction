@@ -1,0 +1,429 @@
+<style>
+.lx-highlight { position: relative; border-radius:3px; padding:1px 2px;}
+.lx-highlight .lx-tooltip {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+  background: #333;
+  color: #fff;
+  text-align: left;
+  border-radius: 4px;
+  padding: 6px 8px;
+  position: absolute;
+  z-index: 1000;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px;
+  max-width: 240px;
+  white-space: normal;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+.lx-highlight:hover .lx-tooltip { visibility: visible; opacity:1; }
+.lx-animated-wrapper { max-width: 100%; font-family: Arial, sans-serif; }
+.lx-controls {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 8px;
+  padding: 12px; margin-bottom: 16px;
+}
+.lx-button-row {
+  display: flex; justify-content: center; gap: 8px; margin-bottom: 12px;
+}
+.lx-control-btn {
+  background: #4285f4; color: white; border: none; border-radius: 4px;
+  padding: 8px 16px; cursor: pointer; font-size: 13px; font-weight: 500;
+  transition: background-color 0.2s;
+}
+.lx-control-btn:hover { background: #3367d6; }
+.lx-progress-container {
+  margin-bottom: 8px;
+}
+.lx-progress-slider {
+  width: 100%; margin: 0; appearance: none; height: 6px;
+  background: #ddd; border-radius: 3px; outline: none;
+}
+.lx-progress-slider::-webkit-slider-thumb {
+  appearance: none; width: 18px; height: 18px; background: #4285f4;
+  border-radius: 50%; cursor: pointer;
+}
+.lx-progress-slider::-moz-range-thumb {
+  width: 18px; height: 18px; background: #4285f4; border-radius: 50%;
+  cursor: pointer; border: none;
+}
+.lx-status-text {
+  text-align: center; font-size: 12px; color: #666; margin-top: 4px;
+}
+.lx-text-window {
+  font-family: monospace; white-space: pre-wrap; border: 1px solid #90caf9;
+  padding: 12px; max-height: 260px; overflow-y: auto; margin-bottom: 12px;
+  line-height: 1.6;
+}
+.lx-attributes-panel {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 6px;
+  padding: 8px 10px; margin-top: 8px; font-size: 13px;
+}
+.lx-current-highlight {
+  border-bottom: 4px solid #ff4444;
+  font-weight: bold;
+  animation: lx-pulse 1s ease-in-out;
+}
+@keyframes lx-pulse {
+  0% { text-decoration-color: #ff4444; }
+  50% { text-decoration-color: #ff0000; }
+  100% { text-decoration-color: #ff4444; }
+}
+.lx-legend {
+  font-size: 12px; margin-bottom: 8px;
+  padding-bottom: 8px; border-bottom: 1px solid #e0e0e0;
+}
+.lx-label {
+  display: inline-block;
+  padding: 2px 4px;
+  border-radius: 3px;
+  margin-right: 4px;
+  color: #000;
+}
+.lx-attr-key {
+  font-weight: 600;
+  color: #1565c0;
+  letter-spacing: 0.3px;
+}
+.lx-attr-value {
+  font-weight: 400;
+  opacity: 0.85;
+  letter-spacing: 0.2px;
+}
+
+/* Add optimizations with larger fonts and better readability for GIFs */
+.lx-gif-optimized .lx-text-window { font-size: 16px; line-height: 1.8; }
+.lx-gif-optimized .lx-attributes-panel { font-size: 15px; }
+.lx-gif-optimized .lx-current-highlight { text-decoration-thickness: 4px; }
+</style>
+    <div class="lx-animated-wrapper lx-gif-optimized">
+      <div class="lx-attributes-panel">
+        <div class="lx-legend">Highlights Legend: <span class="lx-label" style="background-color:#D2E3FC;">financial_metric</span> <span class="lx-label" style="background-color:#C8E6C9;">organization</span></div>
+        <div id="attributesContainer"></div>
+      </div>
+      <div class="lx-text-window" id="textWindow">
+
+
+# Page 1
+
+80th Annual Report
+2023-2024
+<span class="lx-highlight lx-current-highlight" data-idx="0" style="background-color:#C8E6C9;">INDUSTRIES LIMITED</span>
+
+
+# Page 2
+
+CONTENTS
+DIRECTORS
+3
+BOARD’S REPORT
+4
+ANNEXURES TO BOARD’S REPORT
+14
+STANDALONE FINANCIAL STATEMENTS
+INDEPENDENT AUDITOR’S REPORT
+35
+ANNEXURE TO INDEPENDENT AUDITOR’S REPORT
+41
+BALANCE SHEET
+50
+STATEMENT OF PROFIT &amp; LOSS
+51
+CASH FLOW STATEMENT
+52
+STATEMENT OF CHANGES IN EQUITY
+54
+NOTES FORMING PART OF THE FINANCIAL STATEMENTS
+56
+CONSOLIDATED FINANCIAL STATEMENTS
+INDEPENDENT AUDITOR’S REPORT
+163
+ANNEXURE TO INDEPENDENT AUDITOR’S REPORT
+171
+BALANCE SHEET
+174
+STATEMENT OF PROFIT &amp; LOSS
+175
+CASH FLOW STATEMENT
+176
+STATEMENT OF CHANGES IN EQUITY
+178
+NOTES FORMING PART OF THE FINANCIAL STATEMENTS
+181
+INDUSTRIES
+Eightieth Annual Report
+<span class="lx-highlight" data-idx="1" style="background-color:#C8E6C9;">Tata Industries Limited</span>
+
+
+# Page 3
+
+THIS PAGE IS LEFT INTENTIONALLY BLANK
+
+
+# Page 4
+
+CORPORATE INFORMATION
+R. N. Tata
+Chairman Emeritus
+DIRECTORS
+F. N. Subedar
+(DIN - 00028428)
+Eruch Kapadia
+(DIN - 02230412)
+Aarthi Subramanian
+(DIN - 07121802)
+K. R. S. Jamwal
+(DIN - 03129908)
+Executive Director
+CHIEF FINANCIAL OFFICER
+&amp; COMPANY SECRETARY
+S. Sriram
+STATUTORY AUDITORS
+<span class="lx-highlight" data-idx="2" style="background-color:#C8E6C9;">Messrs Singhi &amp; Co.</span>
+Chartered Accountants
+REGISTERED OFFICE
+Bombay House
+24 Homi Mody Street
+Mumbai 400 001
+Tel : 022-6665 7652
+Fax : 022-6665 7974
+Email : tataind@tata.com
+Website : www.tataindustries.com
+CIN : U44003MH1945PLC004403
+3
+
+
+# Page 5
+
+INDUSTRIES
+Eightieth Annual Report
+<span class="lx-highlight" data-idx="3" style="background-color:#C8E6C9;">Tata Industries Limited</span>
+4
+TO THE SHAREHOLDERS
+The Directors of Tata Industries Limited (“Company”) hereby present their Eightieth
+Annual Report together with the audited financial statements for the financial year ended on
+March 31, 2024. The consolidated performance of the Company and its subsidiaries has been
+referred to wherever required.
+1.
+FINANCIAL RESULTS
+The Standalone and Consolidated financial results for the year ended March 31, 2024
+are given below:
+BOARD’S REPORT
+<span class="lx-highlight" data-idx="4" style="background-color:#D2E3FC;">Total Income</span>
+247.97
+257.92
+318.13
+337.72
+<span class="lx-highlight" data-idx="5" style="background-color:#D2E3FC;">Total Expenditure</span>
+264.21
+221.21
+504.43
+376.54
+<span class="lx-highlight" data-idx="6" style="background-color:#D2E3FC;">Profit / (Loss) before Tax</span> from
+(16.24)
+36.70
+(186.30)
+(38.82)
+Continuing Operations, exceptional
+items and share of <span class="lx-highlight" data-idx="7" style="background-color:#D2E3FC;">profit</span> of equity
+accounted investees and income <span class="lx-highlight" data-idx="8" style="background-color:#D2E3FC;">tax</span>
+Exceptional Items
+-
+-
+(252.93)
+-
+<span class="lx-highlight" data-idx="9" style="background-color:#D2E3FC;">Profit</span> / (<span class="lx-highlight" data-idx="10" style="background-color:#D2E3FC;"><span class="lx-highlight" data-idx="11" style="background-color:#D2E3FC;">Loss</span></span>) from Continuing
+(16.24)
+36.70
+(439.24)
+(38.82)
+Operations, before share of <span class="lx-highlight" data-idx="12" style="background-color:#D2E3FC;">profit</span>
+of equity accounted investees
+and income tax
+Share of (Loss) of equity accounted
+-
+-
+440.38
+(634.32)
+investees (net of income tax)
+Profit / (<span class="lx-highlight" data-idx="13" style="background-color:#D2E3FC;">Loss) before Tax</span>
+(16.24)
+36.70
+1.15
+(673.15)
+from Continuing Operations
+<span class="lx-highlight" data-idx="14" style="background-color:#D2E3FC;">Tax Expense / (credit</span>)
+-
+-
+(2.76)
+(1.88)
+Profit / (Loss) after Tax
+(16.24)
+36.70
+3.90
+(671.26)
+Profit / (Loss) for the year from
+-
+(64.86)
+(181.75)
+(192.20)
+discontinuing operations / disposal
+of <span class="lx-highlight" data-idx="15" style="background-color:#D2E3FC;">asset</span> held for sale after tax
+Loss on sale of Long term investments
+-
+(2,043.23)
+-
+-
+Profit / (Loss) for the year
+(16.24)
+(2,071.39)
+(177.85)
+(863.46)
+<span class="lx-highlight" data-idx="16" style="background-color:#D2E3FC;">Other Comprehensive Income</span>
+4,307.95
+(136.98)
+4,649.76
+(1.98)
+for the year
+<span class="lx-highlight" data-idx="17" style="background-color:#D2E3FC;">Total Comprehensive Income</span>
+4,291.71
+(2,208.36)
+4,471.91
+(865.44)
+for the year
+Total Comprehensive Income
+4,291.71
+(2,208.36)
+4,487.94
+(840.22)
+attributable to Owners of the
+Parent Company
+Continuing Operations
+(1.50)
+(185.87)
+0.36
+(62.18)
+Earnings
+Discontinuing
+Per Share
+Operations / disposal of
+(Rs.)
+asset held for sale
+-
+(6.01)
+(15.35)
+(15.47)
+Total Operations
+(1.50)
+(191.88)
+(14.99)
+(77.65)
+Pa r t i c u l a r s
+STANDALONE
+CONSOLIDATED
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+In view of the loss for the year, the Board did not recommend a dividend.
+(Rs. in Crore)
+
+
+# Page 6
+
+5
+BOARD’S REPORT (Continued)
+2.
+OPERATIONS OF THE COMPANY
+(a)
+The Company’s valued investments are in the divisions, subsidiaries, associates
+and joint ventures of the Company that house new and high technology businesses,
+as well as in other <span class="lx-highlight" data-idx="18" style="background-color:#C8E6C9;">Tata</span> companies.
+The fair value of the gross Investments of the Company as at March 31, 2024
+stood at Rs. 9,995.04 crore, cost price Rs. 3,596.81 crore (Previous Year : Rs.
+5,680.69 crore, cost price Rs. 3,596.81 crore). <span class="lx-highlight" data-idx="19" style="background-color:#C8E6C9;">The Company</span> holds significant
+investments in <span class="lx-highlight" data-idx="20" style="background-color:#C8E6C9;">Tata Motors Limited</span>, <span class="lx-highlight" data-idx="21" style="background-color:#C8E6C9;">Tata AutoComp System</span>
+      </div>
+      <div class="lx-controls">
+        <div class="lx-button-row">
+          <button class="lx-control-btn" onclick="playPause()">▶️ Play</button>
+          <button class="lx-control-btn" onclick="prevExtraction()">⏮ Previous</button>
+          <button class="lx-control-btn" onclick="nextExtraction()">⏭ Next</button>
+        </div>
+        <div class="lx-progress-container">
+          <input type="range" id="progressSlider" class="lx-progress-slider"
+                 min="0" max="21" value="0"
+                 onchange="jumpToExtraction(this.value)">
+        </div>
+        <div class="lx-status-text">
+          Entity <span id="entityInfo">1/22</span> |
+          Pos <span id="posInfo">[709-732]</span>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function() {
+        const extractions = [{"index": 0, "class": "organization", "text": "INDUSTRIES LIMITED", "color": "#C8E6C9", "startPos": 41, "endPos": 59, "beforeText": "\n\n# Page 1\n\n80th Annual Report\n2023-2024\n", "extractionText": "INDUSTRIES LIMITED", "afterText": "\n\n\n# Page 2\n\nCONTENTS\nDIRECTORS\n3\nBOARD\u2019S REPORT\n4\nANNEXURES TO BOARD\u2019S REPORT\n14\nSTANDALONE FINANCIAL STATEMENTS\nINDEPENDENT AUDITOR\u2019S REPORT\n35\nANNE", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {}</div>"}, {"index": 1, "class": "organization", "text": "Tata Industries Limited", "color": "#C8E6C9", "startPos": 709, "endPos": 732, "beforeText": "\n175\nCASH FLOW STATEMENT\n176\nSTATEMENT OF CHANGES IN EQUITY\n178\nNOTES FORMING PART OF THE FINANCIAL STATEMENTS\n181\nINDUSTRIES\nEightieth Annual Report\n", "extractionText": "Tata Industries Limited", "afterText": "\n\n\n# Page 3\n\nTHIS PAGE IS LEFT INTENTIONALLY BLANK\n\n\n# Page 4\n\nCORPORATE INFORMATION\nR. N. Tata\nChairman Emeritus\nDIRECTORS\nF. N. Subedar\n(DIN - 00028", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {}</div>"}, {"index": 2, "class": "organization", "text": "Messrs Singhi & Co.", "color": "#C8E6C9", "startPos": 1079, "endPos": 1098, "beforeText": "amanian\n(DIN - 07121802)\nK. R. S. Jamwal\n(DIN - 03129908)\nExecutive Director\nCHIEF FINANCIAL OFFICER\n&amp; COMPANY SECRETARY\nS. Sriram\nSTATUTORY AUDITORS\n", "extractionText": "Messrs Singhi &amp; Co.", "afterText": "\nChartered Accountants\nREGISTERED OFFICE\nBombay House\n24 Homi Mody Street\nMumbai 400 001\nTel : 022-6665 7652\nFax : 022-6665 7974\nEmail : tataind@tata.", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {}</div>"}, {"index": 3, "class": "organization", "text": "Tata Industries Limited", "color": "#C8E6C9", "startPos": 1362, "endPos": 1385, "beforeText": " 022-6665 7974\nEmail : tataind@tata.com\nWebsite : www.tataindustries.com\nCIN : U44003MH1945PLC004403\n3\n\n\n# Page 5\n\nINDUSTRIES\nEightieth Annual Report\n", "extractionText": "Tata Industries Limited", "afterText": "\n4\nTO THE SHAREHOLDERS\nThe Directors of Tata Industries Limited (\u201cCompany\u201d) hereby present their Eightieth\nAnnual Report together with the audited fin", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {}</div>"}, {"index": 4, "class": "financial_metric", "text": "Total Income", "color": "#D2E3FC", "startPos": 1843, "endPos": 1855, "beforeText": "er required.\n1.\nFINANCIAL RESULTS\nThe Standalone and Consolidated financial results for the year ended March 31, 2024\nare given below:\nBOARD\u2019S REPORT\n", "extractionText": "Total Income", "afterText": "\n247.97\n257.92\n318.13\n337.72\nTotal Expenditure\n264.21\n221.21\n504.43\n376.54\nProfit / (Loss) before Tax from\n(16.24)\n36.70\n(186.30)\n(38.82)\nContinuing O", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 5, "class": "financial_metric", "text": "Total Expenditure", "color": "#D2E3FC", "startPos": 1884, "endPos": 1901, "beforeText": "ndalone and Consolidated financial results for the year ended March 31, 2024\nare given below:\nBOARD\u2019S REPORT\nTotal Income\n247.97\n257.92\n318.13\n337.72\n", "extractionText": "Total Expenditure", "afterText": "\n264.21\n221.21\n504.43\n376.54\nProfit / (Loss) before Tax from\n(16.24)\n36.70\n(186.30)\n(38.82)\nContinuing Operations, exceptional\nitems and share of prof", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 6, "class": "financial_metric", "text": "Profit / (Loss) before Tax", "color": "#D2E3FC", "startPos": 1930, "endPos": 1956, "beforeText": " the year ended March 31, 2024\nare given below:\nBOARD\u2019S REPORT\nTotal Income\n247.97\n257.92\n318.13\n337.72\nTotal Expenditure\n264.21\n221.21\n504.43\n376.54\n", "extractionText": "Profit / (Loss) before Tax", "afterText": " from\n(16.24)\n36.70\n(186.30)\n(38.82)\nContinuing Operations, exceptional\nitems and share of profit of equity\naccounted investees and income tax\nExcepti", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 7, "class": "financial_metric", "text": "Profit", "color": "#D2E3FC", "startPos": 2047, "endPos": 2053, "beforeText": "ture\n264.21\n221.21\n504.43\n376.54\nProfit / (Loss) before Tax from\n(16.24)\n36.70\n(186.30)\n(38.82)\nContinuing Operations, exceptional\nitems and share of ", "extractionText": "profit", "afterText": " of equity\naccounted investees and income tax\nExceptional Items\n-\n-\n(252.93)\n-\nProfit / (Loss) from Continuing\n(16.24)\n36.70\n(439.24)\n(38.82)\nOperatio", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 8, "class": "financial_metric", "text": "Tax Expense", "color": "#D2E3FC", "startPos": 2095, "endPos": 2098, "beforeText": " before Tax from\n(16.24)\n36.70\n(186.30)\n(38.82)\nContinuing Operations, exceptional\nitems and share of profit of equity\naccounted investees and income ", "extractionText": "tax", "afterText": "\nExceptional Items\n-\n-\n(252.93)\n-\nProfit / (Loss) from Continuing\n(16.24)\n36.70\n(439.24)\n(38.82)\nOperations, before share of profit\nof equity accounte", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 9, "class": "financial_metric", "text": "Profit after Tax", "color": "#D2E3FC", "startPos": 2132, "endPos": 2138, "beforeText": "0)\n(38.82)\nContinuing Operations, exceptional\nitems and share of profit of equity\naccounted investees and income tax\nExceptional Items\n-\n-\n(252.93)\n-\n", "extractionText": "Profit", "afterText": " / (Loss) from Continuing\n(16.24)\n36.70\n(439.24)\n(38.82)\nOperations, before share of profit\nof equity accounted investees\nand income tax\nShare of (Los", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 10, "class": "financial_metric", "text": "Loss", "color": "#D2E3FC", "startPos": 2142, "endPos": 2146, "beforeText": "\nContinuing Operations, exceptional\nitems and share of profit of equity\naccounted investees and income tax\nExceptional Items\n-\n-\n(252.93)\n-\nProfit / (", "extractionText": "Loss", "afterText": ") from Continuing\n(16.24)\n36.70\n(439.24)\n(38.82)\nOperations, before share of profit\nof equity accounted investees\nand income tax\nShare of (Loss) of eq", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 11, "class": "financial_metric", "text": "Loss after Tax", "color": "#D2E3FC", "startPos": 2142, "endPos": 2146, "beforeText": "\nContinuing Operations, exceptional\nitems and share of profit of equity\naccounted investees and income tax\nExceptional Items\n-\n-\n(252.93)\n-\nProfit / (", "extractionText": "Loss", "afterText": ") from Continuing\n(16.24)\n36.70\n(439.24)\n(38.82)\nOperations, before share of profit\nof equity accounted investees\nand income tax\nShare of (Loss) of eq", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 12, "class": "financial_metric", "text": "Profit before Tax", "color": "#D2E3FC", "startPos": 2223, "endPos": 2229, "beforeText": " investees and income tax\nExceptional Items\n-\n-\n(252.93)\n-\nProfit / (Loss) from Continuing\n(16.24)\n36.70\n(439.24)\n(38.82)\nOperations, before share of ", "extractionText": "profit", "afterText": "\nof equity accounted investees\nand income tax\nShare of (Loss) of equity accounted\n-\n-\n440.38\n(634.32)\ninvestees (net of income tax)\nProfit / (Loss) be", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 13, "class": "financial_metric", "text": "Loss before Tax", "color": "#D2E3FC", "startPos": 2371, "endPos": 2387, "beforeText": "f profit\nof equity accounted investees\nand income tax\nShare of (Loss) of equity accounted\n-\n-\n440.38\n(634.32)\ninvestees (net of income tax)\nProfit / (", "extractionText": "Loss) before Tax", "afterText": "\n(16.24)\n36.70\n1.15\n(673.15)\nfrom Continuing Operations\nTax Expense / (credit)\n-\n-\n(2.76)\n(1.88)\nProfit / (Loss) after Tax\n(16.24)\n36.70\n3.90\n(671.26)", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 14, "class": "financial_metric", "text": "Tax credit", "color": "#D2E3FC", "startPos": 2443, "endPos": 2464, "beforeText": " equity accounted\n-\n-\n440.38\n(634.32)\ninvestees (net of income tax)\nProfit / (Loss) before Tax\n(16.24)\n36.70\n1.15\n(673.15)\nfrom Continuing Operations\n", "extractionText": "Tax Expense / (credit", "afterText": ")\n-\n-\n(2.76)\n(1.88)\nProfit / (Loss) after Tax\n(16.24)\n36.70\n3.90\n(671.26)\nProfit / (Loss) for the year from\n-\n(64.86)\n(181.75)\n(192.20)\ndiscontinuing ", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 15, "class": "financial_metric", "text": "Assets", "color": "#D2E3FC", "startPos": 2639, "endPos": 2644, "beforeText": "t / (Loss) after Tax\n(16.24)\n36.70\n3.90\n(671.26)\nProfit / (Loss) for the year from\n-\n(64.86)\n(181.75)\n(192.20)\ndiscontinuing operations / disposal\nof ", "extractionText": "asset", "afterText": " held for sale after tax\nLoss on sale of Long term investments\n-\n(2,043.23)\n-\n-\nProfit / (Loss) for the year\n(16.24)\n(2,071.39)\n(177.85)\n(863.46)\nOthe", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 16, "class": "financial_metric", "text": "Other Comprehensive Income", "color": "#D2E3FC", "startPos": 2790, "endPos": 2816, "beforeText": "sset held for sale after tax\nLoss on sale of Long term investments\n-\n(2,043.23)\n-\n-\nProfit / (Loss) for the year\n(16.24)\n(2,071.39)\n(177.85)\n(863.46)\n", "extractionText": "Other Comprehensive Income", "afterText": "\n4,307.95\n(136.98)\n4,649.76\n(1.98)\nfor the year\nTotal Comprehensive Income\n4,291.71\n(2,208.36)\n4,471.91\n(865.44)\nfor the year\nTotal Comprehensive Inco", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 17, "class": "financial_metric", "text": "Total Comprehensive Income", "color": "#D2E3FC", "startPos": 2864, "endPos": 2890, "beforeText": "3.23)\n-\n-\nProfit / (Loss) for the year\n(16.24)\n(2,071.39)\n(177.85)\n(863.46)\nOther Comprehensive Income\n4,307.95\n(136.98)\n4,649.76\n(1.98)\nfor the year\n", "extractionText": "Total Comprehensive Income", "afterText": "\n4,291.71\n(2,208.36)\n4,471.91\n(865.44)\nfor the year\nTotal Comprehensive Income\n4,291.71\n(2,208.36)\n4,487.94\n(840.22)\nattributable to Owners of the\nPar", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {}</div>"}, {"index": 18, "class": "organization", "text": "Tata", "color": "#C8E6C9", "startPos": 3694, "endPos": 3698, "beforeText": "s are in the divisions, subsidiaries, associates\nand joint ventures of the Company that house new and high technology businesses,\nas well as in other ", "extractionText": "Tata", "afterText": " companies.\nThe fair value of the gross Investments of the Company as at March 31, 2024\nstood at Rs. 9,995.04 crore, cost price Rs. 3,596.81 crore (Pr", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {}</div>"}, {"index": 19, "class": "organization", "text": "The Company", "color": "#C8E6C9", "startPos": 3914, "endPos": 3925, "beforeText": " as at March 31, 2024\nstood at Rs. 9,995.04 crore, cost price Rs. 3,596.81 crore (Previous Year : Rs.\n5,680.69 crore, cost price Rs. 3,596.81 crore). ", "extractionText": "The Company", "afterText": " holds significant\ninvestments in Tata Motors Limited, Tata AutoComp System", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {}</div>"}, {"index": 20, "class": "organization", "text": "Tata Motors Limited", "color": "#C8E6C9", "startPos": 3959, "endPos": 3978, "beforeText": "rore, cost price Rs. 3,596.81 crore (Previous Year : Rs.\n5,680.69 crore, cost price Rs. 3,596.81 crore). The Company holds significant\ninvestments in ", "extractionText": "Tata Motors Limited", "afterText": ", Tata AutoComp System", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {}</div>"}, {"index": 21, "class": "organization", "text": "Tata AutoComp System", "color": "#C8E6C9", "startPos": 3980, "endPos": 4000, "beforeText": "3,596.81 crore (Previous Year : Rs.\n5,680.69 crore, cost price Rs. 3,596.81 crore). The Company holds significant\ninvestments in Tata Motors Limited, ", "extractionText": "Tata AutoComp System", "afterText": "", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {}</div>"}];
+        let currentIndex = 0;
+        let isPlaying = false;
+        let animationInterval = null;
+        let animationSpeed = 1.0;
+
+        function updateDisplay() {
+          const extraction = extractions[currentIndex];
+          if (!extraction) return;
+
+          document.getElementById('attributesContainer').innerHTML = extraction.attributesHtml;
+          document.getElementById('entityInfo').textContent = (currentIndex + 1) + '/' + extractions.length;
+          document.getElementById('posInfo').textContent = '[' + extraction.startPos + '-' + extraction.endPos + ']';
+          document.getElementById('progressSlider').value = currentIndex;
+
+          const playBtn = document.querySelector('.lx-control-btn');
+          if (playBtn) playBtn.textContent = isPlaying ? '⏸ Pause' : '▶️ Play';
+
+          const prevHighlight = document.querySelector('.lx-text-window .lx-current-highlight');
+          if (prevHighlight) prevHighlight.classList.remove('lx-current-highlight');
+          const currentSpan = document.querySelector('.lx-text-window span[data-idx="' + currentIndex + '"]');
+          if (currentSpan) {
+            currentSpan.classList.add('lx-current-highlight');
+            currentSpan.scrollIntoView({block: 'center', behavior: 'smooth'});
+          }
+        }
+
+        function nextExtraction() {
+          currentIndex = (currentIndex + 1) % extractions.length;
+          updateDisplay();
+        }
+
+        function prevExtraction() {
+          currentIndex = (currentIndex - 1 + extractions.length) % extractions.length;
+          updateDisplay();
+        }
+
+        function jumpToExtraction(index) {
+          currentIndex = parseInt(index);
+          updateDisplay();
+        }
+
+        function playPause() {
+          if (isPlaying) {
+            clearInterval(animationInterval);
+            isPlaying = false;
+          } else {
+            animationInterval = setInterval(nextExtraction, animationSpeed * 1000);
+            isPlaying = true;
+          }
+          updateDisplay();
+        }
+
+        window.playPause = playPause;
+        window.nextExtraction = nextExtraction;
+        window.prevExtraction = prevExtraction;
+        window.jumpToExtraction = jumpToExtraction;
+
+        updateDisplay();
+      })();
+    </script>

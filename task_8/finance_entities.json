@@ -1,0 +1,102 @@
+[
+    {
+        "entity_name": "organization",
+        "value": "Tata Industries Limited"
+    },
+    {
+        "entity_name": "organization",
+        "value": "INDUSTRIES LIMITED"
+    },
+    {
+        "entity_name": "organization",
+        "value": "Tata Industries Limited"
+    },
+    {
+        "entity_name": "organization",
+        "value": "Messrs Singhi & Co."
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Total Income"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Total Expenditure"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Profit / (Loss) before Tax"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Profit"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Loss"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "EBITDA"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Tax Expense"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Tax credit"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Profit after Tax"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Loss after Tax"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Profit before Tax"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Loss before Tax"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Operating Income"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Total Comprehensive Income"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Other Comprehensive Income"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Assets"
+    },
+    {
+        "entity_name": "financial_metric",
+        "value": "Liabilities"
+    },
+    {
+        "entity_name": "organization",
+        "value": "Tata"
+    },
+    {
+        "entity_name": "organization",
+        "value": "Tata Motors Limited"
+    },
+    {
+        "entity_name": "organization",
+        "value": "Tata AutoComp System"
+    },
+    {
+        "entity_name": "organization",
+        "value": "The Company"
+    }
+]
