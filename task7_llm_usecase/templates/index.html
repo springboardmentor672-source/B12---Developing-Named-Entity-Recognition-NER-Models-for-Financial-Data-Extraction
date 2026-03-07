@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Email Tone Transformer</title>
+</head>
+<body>
+    <h2>LLM Email Tone Transformer</h2>
+
+    <form method="POST">
+        <textarea name="email" rows="10" cols="80" placeholder="Enter your email text here"></textarea>
+        <br><br>
+
+        <label>Select Tone:</label>
+        <select name="tone">
+            <option value="Professional">Professional</option>
+            <option value="Polite">Polite</option>
+            <option value="Assertive">Assertive</option>
+            <option value="Apology">Apology</option>
+            <option value="Follow-up Reminder">Follow-up Reminder</option>
+        </select>
+
+        <br><br>
+        <button type="submit">Transform</button>
+    </form>
+
+    {% if result %}
+        <h3>Transformed Email:</h3>
+        <pre>{{ result }}</pre>
+    {% endif %}
+</body>
+</html>
