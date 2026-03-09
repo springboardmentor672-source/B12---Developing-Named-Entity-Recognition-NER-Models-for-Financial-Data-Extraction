@@ -1,0 +1,248 @@
+<style>
+.lx-highlight { position: relative; border-radius:3px; padding:1px 2px;}
+.lx-highlight .lx-tooltip {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+  background: #333;
+  color: #fff;
+  text-align: left;
+  border-radius: 4px;
+  padding: 6px 8px;
+  position: absolute;
+  z-index: 1000;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px;
+  max-width: 240px;
+  white-space: normal;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+.lx-highlight:hover .lx-tooltip { visibility: visible; opacity:1; }
+.lx-animated-wrapper { max-width: 100%; font-family: Arial, sans-serif; }
+.lx-controls {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 8px;
+  padding: 12px; margin-bottom: 16px;
+}
+.lx-button-row {
+  display: flex; justify-content: center; gap: 8px; margin-bottom: 12px;
+}
+.lx-control-btn {
+  background: #4285f4; color: white; border: none; border-radius: 4px;
+  padding: 8px 16px; cursor: pointer; font-size: 13px; font-weight: 500;
+  transition: background-color 0.2s;
+}
+.lx-control-btn:hover { background: #3367d6; }
+.lx-progress-container {
+  margin-bottom: 8px;
+}
+.lx-progress-slider {
+  width: 100%; margin: 0; appearance: none; height: 6px;
+  background: #ddd; border-radius: 3px; outline: none;
+}
+.lx-progress-slider::-webkit-slider-thumb {
+  appearance: none; width: 18px; height: 18px; background: #4285f4;
+  border-radius: 50%; cursor: pointer;
+}
+.lx-progress-slider::-moz-range-thumb {
+  width: 18px; height: 18px; background: #4285f4; border-radius: 50%;
+  cursor: pointer; border: none;
+}
+.lx-status-text {
+  text-align: center; font-size: 12px; color: #666; margin-top: 4px;
+}
+.lx-text-window {
+  font-family: monospace; white-space: pre-wrap; border: 1px solid #90caf9;
+  padding: 12px; max-height: 260px; overflow-y: auto; margin-bottom: 12px;
+  line-height: 1.6;
+}
+.lx-attributes-panel {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 6px;
+  padding: 8px 10px; margin-top: 8px; font-size: 13px;
+}
+.lx-current-highlight {
+  border-bottom: 4px solid #ff4444;
+  font-weight: bold;
+  animation: lx-pulse 1s ease-in-out;
+}
+@keyframes lx-pulse {
+  0% { text-decoration-color: #ff4444; }
+  50% { text-decoration-color: #ff0000; }
+  100% { text-decoration-color: #ff4444; }
+}
+.lx-legend {
+  font-size: 12px; margin-bottom: 8px;
+  padding-bottom: 8px; border-bottom: 1px solid #e0e0e0;
+}
+.lx-label {
+  display: inline-block;
+  padding: 2px 4px;
+  border-radius: 3px;
+  margin-right: 4px;
+  color: #000;
+}
+.lx-attr-key {
+  font-weight: 600;
+  color: #1565c0;
+  letter-spacing: 0.3px;
+}
+.lx-attr-value {
+  font-weight: 400;
+  opacity: 0.85;
+  letter-spacing: 0.2px;
+}
+
+/* Add optimizations with larger fonts and better readability for GIFs */
+.lx-gif-optimized .lx-text-window { font-size: 16px; line-height: 1.8; }
+.lx-gif-optimized .lx-attributes-panel { font-size: 15px; }
+.lx-gif-optimized .lx-current-highlight { text-decoration-thickness: 4px; }
+</style>
+    <div class="lx-animated-wrapper lx-gif-optimized">
+      <div class="lx-attributes-panel">
+        <div class="lx-legend">Highlights Legend: <span class="lx-label" style="background-color:#D2E3FC;">company</span> <span class="lx-label" style="background-color:#C8E6C9;">date</span> <span class="lx-label" style="background-color:#FEF0C3;">market</span> <span class="lx-label" style="background-color:#F9DEDC;">money</span> <span class="lx-label" style="background-color:#FFDDBE;">person</span> <span class="lx-label" style="background-color:#EADDFF;">stock_symbol</span></div>
+        <div id="attributesContainer"></div>
+      </div>
+      <div class="lx-text-window" id="textWindow">
+        ## <span class="lx-highlight lx-current-highlight" data-idx="0" style="background-color:#D2E3FC;"><span class="lx-highlight" data-idx="1" style="background-color:#EADDFF;">TCS</span></span>/BM/4/SE/2025-26
+
+<span class="lx-highlight" data-idx="2" style="background-color:#C8E6C9;">April 10, 2025</span>
+
+<span class="lx-highlight" data-idx="3" style="background-color:#FEF0C3;">National Stock Exchange of India Limited</span> <span class="lx-highlight" data-idx="4" style="background-color:#FEF0C3;">BSE Limited</span> Exchange Plaza, C-1, Block G, Bandra Kurla P. J. Towers, Complex, Bandra (East) Dalal Street, Mumbai - 400051 Mumbai - 400001 Symbol - TCS Scrip Code No. 532540
+
+Dear Sirs,
+
+## Sub:  Financial  Results  for  the  year  ended  <span class="lx-highlight" data-idx="5" style="background-color:#C8E6C9;">March  31,  2025</span>  and  Recommendation  of  a Final Dividend
+
+We  enclose  the  audited  standalone  financial  results  of  the  Company  and  audited  consolidated financial  results  of  the  Company  and  its  subsidiaries  for  the  year  ended  March  31,  <span class="lx-highlight" data-idx="6" style="background-color:#C8E6C9;">2025</span>,  under Ind AS (&quot;the Statement&quot;), which have been approved and taken on record at a meeting of the Board of Directors of the Company held today.
+
+We would like to state that B S R &amp;amp; Co. LLP, statutory auditors of the Company, have issued audit reports with unmodified opinion on the Statement.
+
+Further,  we  would  like  to  inform  you  that  at  the  Board  Meeting  held  today,  the  Directors  have recommended a Final Dividend of <span class="lx-highlight" data-idx="7" style="background-color:#F9DEDC;">INR 30</span> per Equity Share of <span class="lx-highlight" data-idx="8" style="background-color:#F9DEDC;">INR 1</span> each of the Company which shall be paid/dispatched on the fifth day from the conclusion of the 30th Annual General Meeting, subject to approval of the shareholders of the Company.
+
+The above information is also available on the website of the Company: www.tcs.com
+
+Thanking you,
+
+Yours faithfully,
+
+For <span class="lx-highlight" data-idx="9" style="background-color:#D2E3FC;">Tata Consultancy Services Limited</span>
+
+&amp;lt;unknown&amp;gt;
+
+## <span class="lx-highlight" data-idx="10" style="background-color:#FFDDBE;">Yashaswin Sheth</span> Company Secretary
+
+Encl: As above
+
+## cc:
+
+1. <span class="lx-highlight" data-idx="11" style="background-color:#D2E3FC;">National Securities Depository Limited</span>
+2. <span class="lx-highlight" data-idx="12" style="background-color:#D2E3FC;">Central Depository Services (India) Limited</span>
+3. <span class="lx-highlight" data-idx="13" style="background-color:#D2E3FC;">MUFG Intime India Private Limited</span> (Formerly known as Link Intime India Private Limited)
+
+&lt;!-- image --&gt;
+
+## <span class="lx-highlight" data-idx="14" style="background-color:#D2E3FC;">B S R &amp;</span>amp; Co. LLP
+
+Chartered Accountants
+
+14th Floor, Central B Wing and North C Wing Nesco IT Park 4, Nesco Center Western Express Highway Goregaon (East), Mumbai - 400 063, India Telephone: +91 (22) 6257 1000
+
+Fax: +91 (22) 6257 1010
+
+## Independent Auditor&#x27;s Report
+
+## To the Board of Directors of <span class="lx-highlight" data-idx="15" style="background-color:#D2E3FC;">Tata Consultancy Services Limited</span>
+
+## Report on the audit of the Consolidated Annual Financial Results
+
+## Opinion
+
+We have audited the accompanying consolidated annual financial results of Tata Consultancy Services Limited (hereinafter referred to as the &#x27;Holding Company&#x27;) and its subsidiaries (Holding Company and its subsidiaries together referred to as &#x27;the Group&#x27;) for the year ended <span class="lx-highlight" data-idx="16" style="background-color:#C8E6C9;">31 March 2025</span>, attached herewith, being submitted by the Holding Company pursuant to the requirement of Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (&quot;Listing Regulations&quot;).
+
+In  our  opinion  and  to  the  best  of  our  information  and  according  to  the  explanations  given  to  us,  the aforesaid consolidated annual financial results:
+
+- a. include the annual financial results of the entities mentioned in Annexure I;
+- b. are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this 
+      </div>
+      <div class="lx-controls">
+        <div class="lx-button-row">
+          <button class="lx-control-btn" onclick="playPause()">▶️ Play</button>
+          <button class="lx-control-btn" onclick="prevExtraction()">⏮ Previous</button>
+          <button class="lx-control-btn" onclick="nextExtraction()">⏭ Next</button>
+        </div>
+        <div class="lx-progress-container">
+          <input type="range" id="progressSlider" class="lx-progress-slider"
+                 min="0" max="16" value="0"
+                 onchange="jumpToExtraction(this.value)">
+        </div>
+        <div class="lx-status-text">
+          Entity <span id="entityInfo">1/17</span> |
+          Pos <span id="posInfo">[3-6]</span>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function() {
+        const extractions = [{"index": 0, "class": "company", "text": "TCS", "color": "#D2E3FC", "startPos": 3, "endPos": 6, "beforeText": "## ", "extractionText": "TCS", "afterText": "/BM/4/SE/2025-26\n\nApril 10, 2025\n\nNational Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, Bandra Kurla P. J. Towers, Comple", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {}</div>"}, {"index": 1, "class": "stock_symbol", "text": "TCS", "color": "#EADDFF", "startPos": 3, "endPos": 6, "beforeText": "## ", "extractionText": "TCS", "afterText": "/BM/4/SE/2025-26\n\nApril 10, 2025\n\nNational Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, Bandra Kurla P. J. Towers, Comple", "attributesHtml": "<div><strong>class:</strong> stock_symbol</div><div><strong>attributes:</strong> {}</div>"}, {"index": 2, "class": "date", "text": "April 10, 2025", "color": "#C8E6C9", "startPos": 24, "endPos": 38, "beforeText": "## TCS/BM/4/SE/2025-26\n\n", "extractionText": "April 10, 2025", "afterText": "\n\nNational Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, Bandra Kurla P. J. Towers, Complex, Bandra (East) Dalal Street, M", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {}</div>"}, {"index": 3, "class": "market", "text": "National Stock Exchange of India Limited", "color": "#FEF0C3", "startPos": 40, "endPos": 80, "beforeText": "## TCS/BM/4/SE/2025-26\n\nApril 10, 2025\n\n", "extractionText": "National Stock Exchange of India Limited", "afterText": " BSE Limited Exchange Plaza, C-1, Block G, Bandra Kurla P. J. Towers, Complex, Bandra (East) Dalal Street, Mumbai - 400051 Mumbai - 400001 Symbol - TC", "attributesHtml": "<div><strong>class:</strong> market</div><div><strong>attributes:</strong> {}</div>"}, {"index": 4, "class": "market", "text": "BSE Limited", "color": "#FEF0C3", "startPos": 81, "endPos": 92, "beforeText": "## TCS/BM/4/SE/2025-26\n\nApril 10, 2025\n\nNational Stock Exchange of India Limited ", "extractionText": "BSE Limited", "afterText": " Exchange Plaza, C-1, Block G, Bandra Kurla P. J. Towers, Complex, Bandra (East) Dalal Street, Mumbai - 400051 Mumbai - 400001 Symbol - TCS Scrip Code", "attributesHtml": "<div><strong>class:</strong> market</div><div><strong>attributes:</strong> {}</div>"}, {"index": 5, "class": "date", "text": "March 31, 2025", "color": "#C8E6C9", "startPos": 319, "endPos": 335, "beforeText": "st) Dalal Street, Mumbai - 400051 Mumbai - 400001 Symbol - TCS Scrip Code No. 532540\n\nDear Sirs,\n\n## Sub:  Financial  Results  for  the  year  ended  ", "extractionText": "March  31,  2025", "afterText": "  and  Recommendation  of  a Final Dividend\n\nWe  enclose  the  audited  standalone  financial  results  of  the  Company  and  audited  consolidated f", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {}</div>"}, {"index": 6, "class": "date", "text": "2025-26", "color": "#C8E6C9", "startPos": 581, "endPos": 585, "beforeText": "esults  of  the  Company  and  audited  consolidated financial  results  of  the  Company  and  its  subsidiaries  for  the  year  ended  March  31,  ", "extractionText": "2025", "afterText": ",  under Ind AS (&quot;the Statement&quot;), which have been approved and taken on record at a meeting of the Board of Directors of the Company held today.\n\nWe ", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {}</div>"}, {"index": 7, "class": "money", "text": "INR 30", "color": "#F9DEDC", "startPos": 1027, "endPos": 1033, "beforeText": "ement.\n\nFurther,  we  would  like  to  inform  you  that  at  the  Board  Meeting  held  today,  the  Directors  have recommended a Final Dividend of ", "extractionText": "INR 30", "afterText": " per Equity Share of INR 1 each of the Company which shall be paid/dispatched on the fifth day from the conclusion of the 30th Annual General Meeting,", "attributesHtml": "<div><strong>class:</strong> money</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">currency</span>: <span class=\"lx-attr-value\">INR</span>}</div>"}, {"index": 8, "class": "money", "text": "INR 1", "color": "#F9DEDC", "startPos": 1054, "endPos": 1059, "beforeText": "  like  to  inform  you  that  at  the  Board  Meeting  held  today,  the  Directors  have recommended a Final Dividend of INR 30 per Equity Share of ", "extractionText": "INR 1", "afterText": " each of the Company which shall be paid/dispatched on the fifth day from the conclusion of the 30th Annual General Meeting, subject to approval of th", "attributesHtml": "<div><strong>class:</strong> money</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">currency</span>: <span class=\"lx-attr-value\">INR</span>}</div>"}, {"index": 9, "class": "company", "text": "Tata Consultancy Services Limited", "color": "#D2E3FC", "startPos": 1363, "endPos": 1396, "beforeText": "areholders of the Company.\n\nThe above information is also available on the website of the Company: www.tcs.com\n\nThanking you,\n\nYours faithfully,\n\nFor ", "extractionText": "Tata Consultancy Services Limited", "afterText": "\n\n&amp;lt;unknown&amp;gt;\n\n## Yashaswin Sheth Company Secretary\n\nEncl: As above\n\n## cc:\n\n1. National Securities Depository Limited\n2. Central Depository Servi", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {}</div>"}, {"index": 10, "class": "person", "text": "Yashaswin Sheth", "color": "#FFDDBE", "startPos": 1418, "endPos": 1433, "beforeText": "so available on the website of the Company: www.tcs.com\n\nThanking you,\n\nYours faithfully,\n\nFor Tata Consultancy Services Limited\n\n&amp;lt;unknown&amp;gt;\n\n## ", "extractionText": "Yashaswin Sheth", "afterText": " Company Secretary\n\nEncl: As above\n\n## cc:\n\n1. National Securities Depository Limited\n2. Central Depository Services (India) Limited\n3. MUFG Intime In", "attributesHtml": "<div><strong>class:</strong> person</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">title</span>: <span class=\"lx-attr-value\">Company Secretary</span>}</div>"}, {"index": 11, "class": "company", "text": "National Securities Depository Limited", "color": "#D2E3FC", "startPos": 1480, "endPos": 1518, "beforeText": "ing you,\n\nYours faithfully,\n\nFor Tata Consultancy Services Limited\n\n&amp;lt;unknown&amp;gt;\n\n## Yashaswin Sheth Company Secretary\n\nEncl: As above\n\n## cc:\n\n1. ", "extractionText": "National Securities Depository Limited", "afterText": "\n2. Central Depository Services (India) Limited\n3. MUFG Intime India Private Limited (Formerly known as Link Intime India Private Limited)\n\n&lt;!-- image", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {}</div>"}, {"index": 12, "class": "company", "text": "Central Depository Services (India) Limited", "color": "#D2E3FC", "startPos": 1522, "endPos": 1565, "beforeText": "ultancy Services Limited\n\n&amp;lt;unknown&amp;gt;\n\n## Yashaswin Sheth Company Secretary\n\nEncl: As above\n\n## cc:\n\n1. National Securities Depository Limited\n2. ", "extractionText": "Central Depository Services (India) Limited", "afterText": "\n3. MUFG Intime India Private Limited (Formerly known as Link Intime India Private Limited)\n\n&lt;!-- image --&gt;\n\n## B S R &amp;amp; Co. LLP\n\nChartered Account", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {}</div>"}, {"index": 13, "class": "company", "text": "MUFG Intime India Private Limited", "color": "#D2E3FC", "startPos": 1569, "endPos": 1602, "beforeText": "ashaswin Sheth Company Secretary\n\nEncl: As above\n\n## cc:\n\n1. National Securities Depository Limited\n2. Central Depository Services (India) Limited\n3. ", "extractionText": "MUFG Intime India Private Limited", "afterText": " (Formerly known as Link Intime India Private Limited)\n\n&lt;!-- image --&gt;\n\n## B S R &amp;amp; Co. LLP\n\nChartered Accountants\n\n14th Floor, Central B Wing and ", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">former_name</span>: <span class=\"lx-attr-value\">Link Intime India Private Limited</span>}</div>"}, {"index": 14, "class": "company", "text": "B S R & Co. LLP", "color": "#D2E3FC", "startPos": 1677, "endPos": 1684, "beforeText": "al Depository Services (India) Limited\n3. MUFG Intime India Private Limited (Formerly known as Link Intime India Private Limited)\n\n&lt;!-- image --&gt;\n\n## ", "extractionText": "B S R &amp;", "afterText": "amp; Co. LLP\n\nChartered Accountants\n\n14th Floor, Central B Wing and North C Wing Nesco IT Park 4, Nesco Center Western Express Highway Goregaon (East)", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">title</span>: <span class=\"lx-attr-value\">Chartered Accountants</span>}</div>"}, {"index": 15, "class": "company", "text": "Tata Consultancy Services Limited", "color": "#D2E3FC", "startPos": 1981, "endPos": 2014, "beforeText": "st), Mumbai - 400 063, India Telephone: +91 (22) 6257 1000\n\nFax: +91 (22) 6257 1010\n\n## Independent Auditor&#x27;s Report\n\n## To the Board of Directors of ", "extractionText": "Tata Consultancy Services Limited", "afterText": "\n\n## Report on the audit of the Consolidated Annual Financial Results\n\n## Opinion\n\nWe have audited the accompanying consolidated annual financial resu", "attributesHtml": "<div><strong>class:</strong> company</div><div><strong>attributes:</strong> {}</div>"}, {"index": 16, "class": "date", "text": "31 March 2025", "color": "#C8E6C9", "startPos": 2371, "endPos": 2384, "beforeText": "erred to as the &#x27;Holding Company&#x27;) and its subsidiaries (Holding Company and its subsidiaries together referred to as &#x27;the Group&#x27;) for the year ended ", "extractionText": "31 March 2025", "afterText": ", attached herewith, being submitted by the Holding Company pursuant to the requirement of Regulation 33 of the Securities and Exchange Board of India", "attributesHtml": "<div><strong>class:</strong> date</div><div><strong>attributes:</strong> {}</div>"}];
+        let currentIndex = 0;
+        let isPlaying = false;
+        let animationInterval = null;
+        let animationSpeed = 1.0;
+
+        function updateDisplay() {
+          const extraction = extractions[currentIndex];
+          if (!extraction) return;
+
+          document.getElementById('attributesContainer').innerHTML = extraction.attributesHtml;
+          document.getElementById('entityInfo').textContent = (currentIndex + 1) + '/' + extractions.length;
+          document.getElementById('posInfo').textContent = '[' + extraction.startPos + '-' + extraction.endPos + ']';
+          document.getElementById('progressSlider').value = currentIndex;
+
+          const playBtn = document.querySelector('.lx-control-btn');
+          if (playBtn) playBtn.textContent = isPlaying ? '⏸ Pause' : '▶️ Play';
+
+          const prevHighlight = document.querySelector('.lx-text-window .lx-current-highlight');
+          if (prevHighlight) prevHighlight.classList.remove('lx-current-highlight');
+          const currentSpan = document.querySelector('.lx-text-window span[data-idx="' + currentIndex + '"]');
+          if (currentSpan) {
+            currentSpan.classList.add('lx-current-highlight');
+            currentSpan.scrollIntoView({block: 'center', behavior: 'smooth'});
+          }
+        }
+
+        function nextExtraction() {
+          currentIndex = (currentIndex + 1) % extractions.length;
+          updateDisplay();
+        }
+
+        function prevExtraction() {
+          currentIndex = (currentIndex - 1 + extractions.length) % extractions.length;
+          updateDisplay();
+        }
+
+        function jumpToExtraction(index) {
+          currentIndex = parseInt(index);
+          updateDisplay();
+        }
+
+        function playPause() {
+          if (isPlaying) {
+            clearInterval(animationInterval);
+            isPlaying = false;
+          } else {
+            animationInterval = setInterval(nextExtraction, animationSpeed * 1000);
+            isPlaying = true;
+          }
+          updateDisplay();
+        }
+
+        window.playPause = playPause;
+        window.nextExtraction = nextExtraction;
+        window.prevExtraction = prevExtraction;
+        window.jumpToExtraction = jumpToExtraction;
+
+        updateDisplay();
+      })();
+    </script>

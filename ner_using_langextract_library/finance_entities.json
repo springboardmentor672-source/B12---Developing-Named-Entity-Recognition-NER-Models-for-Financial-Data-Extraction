@@ -1,0 +1,70 @@
+[
+    {
+        "entity": "TCS",
+        "type": "company"
+    },
+    {
+        "entity": "National Stock Exchange of India Limited",
+        "type": "market"
+    },
+    {
+        "entity": "BSE Limited",
+        "type": "market"
+    },
+    {
+        "entity": "TCS",
+        "type": "stock_symbol"
+    },
+    {
+        "entity": "April 10, 2025",
+        "type": "date"
+    },
+    {
+        "entity": "March 31, 2025",
+        "type": "date"
+    },
+    {
+        "entity": "2025-26",
+        "type": "date"
+    },
+    {
+        "entity": "Tata Consultancy Services Limited",
+        "type": "company"
+    },
+    {
+        "entity": "Yashaswin Sheth",
+        "type": "person"
+    },
+    {
+        "entity": "INR 30",
+        "type": "money"
+    },
+    {
+        "entity": "INR 1",
+        "type": "money"
+    },
+    {
+        "entity": "National Securities Depository Limited",
+        "type": "company"
+    },
+    {
+        "entity": "Central Depository Services (India) Limited",
+        "type": "company"
+    },
+    {
+        "entity": "MUFG Intime India Private Limited",
+        "type": "company"
+    },
+    {
+        "entity": "B S R & Co. LLP",
+        "type": "company"
+    },
+    {
+        "entity": "Tata Consultancy Services Limited",
+        "type": "company"
+    },
+    {
+        "entity": "31 March 2025",
+        "type": "date"
+    }
+]
