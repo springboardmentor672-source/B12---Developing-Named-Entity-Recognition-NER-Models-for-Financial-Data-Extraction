@@ -1,0 +1,4 @@
+{
+  "text": "Tesla's Q3 revenue exceeded expectations at $25 billion, but supply chain bottlenecks create massive headwinds for Q4.",
+  "filename": "tesla_q3_earnings"
+}
