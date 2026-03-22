@@ -1,11 +1,4 @@
-# Ignore virtual environments
-venv/
-task_8/venv/
-
-# Ignore environment files
-.env
-task_8/.env
-
-# Ignore Python cache
+.venv/
 __pycache__/
-*.pyc
+*.pdf
+.DS_Store
