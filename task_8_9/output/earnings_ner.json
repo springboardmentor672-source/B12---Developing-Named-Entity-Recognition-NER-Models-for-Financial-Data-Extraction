@@ -1,0 +1,567 @@
+[
+    {
+        "class": "company",
+        "text": "Alphabet Inc.",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "Third Quarter 2025 Results",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "financial results for the quarter ended September 30, 2025",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Alphabet",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "Consolidated Alphabet revenues in Q3 2025 increased 16%",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Alphabet",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "15% in constant currency",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Alphabet",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "revenues ... to $102.3 billion",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Google Search & other",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "double-digit growth in Q3",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "YouTube ads",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "double-digit growth in Q3",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Google subscriptions, platforms, and devices",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "double-digit growth in Q3",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Google Cloud",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "double-digit growth in Q3",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Google Services",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "Google Services revenues increased 14%",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Google Services",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "revenues ... to $87.1 billion",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "robust performance",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Google Cloud",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "Google Cloud revenues increased 34%",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Google Cloud",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "revenues ... to $15.2 billion",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Google Cloud Platform (GCP)",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "led by growth",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "Total operating income increased 9%",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "operating margin was 30.5%",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "5 billion charge",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "European Commission (EC)",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "operating income increased 22%",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "operating margin was 33.9%",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "benefitting from strong revenue growth",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "continued efficiencies",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "net gain of $12.8 billion",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "net unrealized gains on our nonmarketable equity securities",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "Net income increased 33%",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "EPS increased 35% to $2.87",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "2025 capital expenditures to be in a range of $91 billion to $93 billion",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Alphabet",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "terrific quarter",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "double-digit growth across every major part of our business",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "first-ever $100 billion quarter",
+        "attributes": {}
+    },
+    {
+        "class": "executive",
+        "text": "Sundar Pichai",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Google",
+        "attributes": {}
+    },
+    {
+        "class": "sentiment",
+        "text": "strong momentum",
+        "attributes": {}
+    },
+    {
+        "class": "company",
+        "text": "Google",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "7 billion tokens per minute",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "650 million monthly active users",
+        "attributes": null
+    },
+    {
+        "class": "sentiment",
+        "text": "strong growth",
+        "attributes": null
+    },
+    {
+        "class": "company",
+        "text": "Google Cloud",
+        "attributes": null
+    },
+    {
+        "class": "sentiment",
+        "text": "accelerated",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "$155 billion in backlog",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "over 300 million paid subscriptions",
+        "attributes": null
+    },
+    {
+        "class": "company",
+        "text": "Google One",
+        "attributes": null
+    },
+    {
+        "class": "company",
+        "text": "YouTube Premium",
+        "attributes": null
+    },
+    {
+        "class": "sentiment",
+        "text": "investing to meet customer demand and capitalize on the growing opportunities",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "Revenues $ 88,268",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "Revenues $ 102,346",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "Change in revenues year over year 15 %",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "Change in revenues year over year 16 %",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "Change in constant currency revenues year over year(1) 16 %",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "Change in constant currency revenues year over year(1) 15 %",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "Operating income $ 28,521",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "Operating income $ 31,228",
+        "attributes": null
+    },
+    {
+        "class": "metric",
+        "text": "Operating margin 32 % 31 %",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "Other income (expense), net $ 3,185 $ 12,759",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "Net income $ 26,301 $ 34,979",
+        "attributes": {}
+    },
+    {
+        "class": "metric",
+        "text": "Diluted EPS $ 2.12 $ 2.87",
+        "attributes": {}
+    }
+]
