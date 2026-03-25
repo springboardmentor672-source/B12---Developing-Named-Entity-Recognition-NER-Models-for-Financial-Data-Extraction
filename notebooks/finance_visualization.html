@@ -1,0 +1,197 @@
+<style>
+.lx-highlight { position: relative; border-radius:3px; padding:1px 2px;}
+.lx-highlight .lx-tooltip {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+  background: #333;
+  color: #fff;
+  text-align: left;
+  border-radius: 4px;
+  padding: 6px 8px;
+  position: absolute;
+  z-index: 1000;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px;
+  max-width: 240px;
+  white-space: normal;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+.lx-highlight:hover .lx-tooltip { visibility: visible; opacity:1; }
+.lx-animated-wrapper { max-width: 100%; font-family: Arial, sans-serif; }
+.lx-controls {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 8px;
+  padding: 12px; margin-bottom: 16px;
+}
+.lx-button-row {
+  display: flex; justify-content: center; gap: 8px; margin-bottom: 12px;
+}
+.lx-control-btn {
+  background: #4285f4; color: white; border: none; border-radius: 4px;
+  padding: 8px 16px; cursor: pointer; font-size: 13px; font-weight: 500;
+  transition: background-color 0.2s;
+}
+.lx-control-btn:hover { background: #3367d6; }
+.lx-progress-container {
+  margin-bottom: 8px;
+}
+.lx-progress-slider {
+  width: 100%; margin: 0; appearance: none; height: 6px;
+  background: #ddd; border-radius: 3px; outline: none;
+}
+.lx-progress-slider::-webkit-slider-thumb {
+  appearance: none; width: 18px; height: 18px; background: #4285f4;
+  border-radius: 50%; cursor: pointer;
+}
+.lx-progress-slider::-moz-range-thumb {
+  width: 18px; height: 18px; background: #4285f4; border-radius: 50%;
+  cursor: pointer; border: none;
+}
+.lx-status-text {
+  text-align: center; font-size: 12px; color: #666; margin-top: 4px;
+}
+.lx-text-window {
+  font-family: monospace; white-space: pre-wrap; border: 1px solid #90caf9;
+  padding: 12px; max-height: 260px; overflow-y: auto; margin-bottom: 12px;
+  line-height: 1.6;
+}
+.lx-attributes-panel {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 6px;
+  padding: 8px 10px; margin-top: 8px; font-size: 13px;
+}
+.lx-current-highlight {
+  border-bottom: 4px solid #ff4444;
+  font-weight: bold;
+  animation: lx-pulse 1s ease-in-out;
+}
+@keyframes lx-pulse {
+  0% { text-decoration-color: #ff4444; }
+  50% { text-decoration-color: #ff0000; }
+  100% { text-decoration-color: #ff4444; }
+}
+.lx-legend {
+  font-size: 12px; margin-bottom: 8px;
+  padding-bottom: 8px; border-bottom: 1px solid #e0e0e0;
+}
+.lx-label {
+  display: inline-block;
+  padding: 2px 4px;
+  border-radius: 3px;
+  margin-right: 4px;
+  color: #000;
+}
+.lx-attr-key {
+  font-weight: 600;
+  color: #1565c0;
+  letter-spacing: 0.3px;
+}
+.lx-attr-value {
+  font-weight: 400;
+  opacity: 0.85;
+  letter-spacing: 0.2px;
+}
+
+/* Add optimizations with larger fonts and better readability for GIFs */
+.lx-gif-optimized .lx-text-window { font-size: 16px; line-height: 1.8; }
+.lx-gif-optimized .lx-attributes-panel { font-size: 15px; }
+.lx-gif-optimized .lx-current-highlight { text-decoration-thickness: 4px; }
+</style>
+<div class="lx-animated-wrapper lx-gif-optimized">
+  <div class="lx-attributes-panel">
+    <div class="lx-legend">Highlights Legend: <span class="lx-label" style="background-color:#D2E3FC;">financial_metric</span> <span class="lx-label" style="background-color:#C8E6C9;">growth_rate</span> <span class="lx-label" style="background-color:#FEF0C3;">organization</span></div>
+    <div id="attributesContainer"></div>
+  </div>
+  <div class="lx-text-window" id="textWindow">
+
+<span class="lx-highlight lx-current-highlight" data-idx="0" style="background-color:#FEF0C3;">Apple Inc.</span> reported a quarterly revenue of <span class="lx-highlight" data-idx="1" style="background-color:#D2E3FC;">$117.9 billion</span>, <span class="lx-highlight" data-idx="2" style="background-color:#C8E6C9;">up 11%</span> from the previous year.
+The company&#x27;s stock price surged to <span class="lx-highlight" data-idx="3" style="background-color:#D2E3FC;">$150 per share</span> following the announcement.
+Meanwhile, <span class="lx-highlight" data-idx="4" style="background-color:#FEF0C3;">Tesla</span>&#x27;s market capitalization reached <span class="lx-highlight" data-idx="5" style="background-color:#D2E3FC;">$600 billion</span> after unveiling its new electric vehicle model.
+Investors are closely watching the <span class="lx-highlight" data-idx="6" style="background-color:#FEF0C3;">Federal Reserve</span>&#x27;s interest rate decisions,
+which could impact bond yields and inflation rates.
+In other news, <span class="lx-highlight" data-idx="7" style="background-color:#FEF0C3;">JPMorgan Chase &amp; Co.</span> acquired a fintech startup for <span class="lx-highlight" data-idx="8" style="background-color:#D2E3FC;">$1.2 billion</span>
+to enhance its digital banking services.
+
+  </div>
+  <div class="lx-controls">
+    <div class="lx-button-row">
+      <button class="lx-control-btn" onclick="playPause()">▶️ Play</button>
+      <button class="lx-control-btn" onclick="prevExtraction()">⏮ Previous</button>
+      <button class="lx-control-btn" onclick="nextExtraction()">⏭ Next</button>
+    </div>
+    <div class="lx-progress-container">
+      <input type="range" id="progressSlider" class="lx-progress-slider"
+             min="0" max="8" value="0"
+             onchange="jumpToExtraction(this.value)">
+    </div>
+    <div class="lx-status-text">
+      Entity <span id="entityInfo">1/9</span> |
+      Pos <span id="posInfo">[5-15]</span>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function() {
+    const extractions = [{"index": 0, "class": "organization", "text": "Apple Inc.", "color": "#FEF0C3", "startPos": 5, "endPos": 15, "beforeText": "\n    ", "extractionText": "Apple Inc.", "afterText": " reported a quarterly revenue of $117.9 billion, up 11% from the previous year.\n    The company&#x27;s stock price surged to $150 per share following the a", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">type</span>: <span class=\"lx-attr-value\">technology company</span>}</div>"}, {"index": 1, "class": "financial_metric", "text": "$117.9 billion", "color": "#D2E3FC", "startPos": 48, "endPos": 62, "beforeText": "\n    Apple Inc. reported a quarterly revenue of ", "extractionText": "$117.9 billion", "afterText": ", up 11% from the previous year.\n    The company&#x27;s stock price surged to $150 per share following the announcement.\n    Meanwhile, Tesla&#x27;s market capi", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">metric_type</span>: <span class=\"lx-attr-value\">quarterly revenue</span>, <span class=\"lx-attr-key\">trend</span>: <span class=\"lx-attr-value\">positive</span>}</div>"}, {"index": 2, "class": "growth_rate", "text": "up 11%", "color": "#C8E6C9", "startPos": 64, "endPos": 70, "beforeText": "\n    Apple Inc. reported a quarterly revenue of $117.9 billion, ", "extractionText": "up 11%", "afterText": " from the previous year.\n    The company&#x27;s stock price surged to $150 per share following the announcement.\n    Meanwhile, Tesla&#x27;s market capitalizati", "attributesHtml": "<div><strong>class:</strong> growth_rate</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">period</span>: <span class=\"lx-attr-value\">year-over-year</span>, <span class=\"lx-attr-key\">direction</span>: <span class=\"lx-attr-value\">increase</span>}</div>"}, {"index": 3, "class": "financial_metric", "text": "$150 per share", "color": "#D2E3FC", "startPos": 135, "endPos": 149, "beforeText": "\n    Apple Inc. reported a quarterly revenue of $117.9 billion, up 11% from the previous year.\n    The company&#x27;s stock price surged to ", "extractionText": "$150 per share", "afterText": " following the announcement.\n    Meanwhile, Tesla&#x27;s market capitalization reached $600 billion after unveiling its new electric vehicle model.\n    Inv", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">metric_type</span>: <span class=\"lx-attr-value\">stock price</span>, <span class=\"lx-attr-key\">trend</span>: <span class=\"lx-attr-value\">positive</span>}</div>"}, {"index": 4, "class": "organization", "text": "Tesla", "color": "#FEF0C3", "startPos": 193, "endPos": 198, "beforeText": "e of $117.9 billion, up 11% from the previous year.\n    The company&#x27;s stock price surged to $150 per share following the announcement.\n    Meanwhile, ", "extractionText": "Tesla", "afterText": "&#x27;s market capitalization reached $600 billion after unveiling its new electric vehicle model.\n    Investors are closely watching the Federal Reserve&#x27;s", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">type</span>: <span class=\"lx-attr-value\">automotive company</span>}</div>"}, {"index": 5, "class": "financial_metric", "text": "$600 billion", "color": "#D2E3FC", "startPos": 231, "endPos": 243, "beforeText": "revious year.\n    The company&#x27;s stock price surged to $150 per share following the announcement.\n    Meanwhile, Tesla&#x27;s market capitalization reached ", "extractionText": "$600 billion", "afterText": " after unveiling its new electric vehicle model.\n    Investors are closely watching the Federal Reserve&#x27;s interest rate decisions,\n    which could imp", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">metric_type</span>: <span class=\"lx-attr-value\">market capitalization</span>, <span class=\"lx-attr-key\">trend</span>: <span class=\"lx-attr-value\">positive</span>}</div>"}, {"index": 6, "class": "organization", "text": "Federal Reserve", "color": "#FEF0C3", "startPos": 331, "endPos": 346, "beforeText": " Meanwhile, Tesla&#x27;s market capitalization reached $600 billion after unveiling its new electric vehicle model.\n    Investors are closely watching the ", "extractionText": "Federal Reserve", "afterText": "&#x27;s interest rate decisions,\n    which could impact bond yields and inflation rates.\n    In other news, JPMorgan Chase &amp; Co. acquired a fintech startup", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">type</span>: <span class=\"lx-attr-value\">central bank</span>}</div>"}, {"index": 7, "class": "organization", "text": "JPMorgan Chase & Co.", "color": "#FEF0C3", "startPos": 449, "endPos": 469, "beforeText": "estors are closely watching the Federal Reserve&#x27;s interest rate decisions,\n    which could impact bond yields and inflation rates.\n    In other news, ", "extractionText": "JPMorgan Chase &amp; Co.", "afterText": " acquired a fintech startup for $1.2 billion\n    to enhance its digital banking services.\n    ", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">type</span>: <span class=\"lx-attr-value\">financial institution</span>}</div>"}, {"index": 8, "class": "financial_metric", "text": "$1.2 billion", "color": "#D2E3FC", "startPos": 501, "endPos": 513, "beforeText": "terest rate decisions,\n    which could impact bond yields and inflation rates.\n    In other news, JPMorgan Chase &amp; Co. acquired a fintech startup for ", "extractionText": "$1.2 billion", "afterText": "\n    to enhance its digital banking services.\n    ", "attributesHtml": "<div><strong>class:</strong> financial_metric</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">metric_type</span>: <span class=\"lx-attr-value\">acquisition cost</span>}</div>"}];
+    let currentIndex = 0;
+    let isPlaying = false;
+    let animationInterval = null;
+    let animationSpeed = 1.0;
+
+    function updateDisplay() {
+      const extraction = extractions[currentIndex];
+      if (!extraction) return;
+
+      document.getElementById('attributesContainer').innerHTML = extraction.attributesHtml;
+      document.getElementById('entityInfo').textContent = (currentIndex + 1) + '/' + extractions.length;
+      document.getElementById('posInfo').textContent = '[' + extraction.startPos + '-' + extraction.endPos + ']';
+      document.getElementById('progressSlider').value = currentIndex;
+
+      const playBtn = document.querySelector('.lx-control-btn');
+      if (playBtn) playBtn.textContent = isPlaying ? '⏸ Pause' : '▶️ Play';
+
+      const prevHighlight = document.querySelector('.lx-text-window .lx-current-highlight');
+      if (prevHighlight) prevHighlight.classList.remove('lx-current-highlight');
+      const currentSpan = document.querySelector('.lx-text-window span[data-idx="' + currentIndex + '"]');
+      if (currentSpan) {
+        currentSpan.classList.add('lx-current-highlight');
+        currentSpan.scrollIntoView({block: 'center', behavior: 'smooth'});
+      }
+    }
+
+    function nextExtraction() {
+      currentIndex = (currentIndex + 1) % extractions.length;
+      updateDisplay();
+    }
+
+    function prevExtraction() {
+      currentIndex = (currentIndex - 1 + extractions.length) % extractions.length;
+      updateDisplay();
+    }
+
+    function jumpToExtraction(index) {
+      currentIndex = parseInt(index);
+      updateDisplay();
+    }
+
+    function playPause() {
+      if (isPlaying) {
+        clearInterval(animationInterval);
+        isPlaying = false;
+      } else {
+        animationInterval = setInterval(nextExtraction, animationSpeed * 1000);
+        isPlaying = true;
+      }
+      updateDisplay();
+    }
+
+    window.playPause = playPause;
+    window.nextExtraction = nextExtraction;
+    window.prevExtraction = prevExtraction;
+    window.jumpToExtraction = jumpToExtraction;
+
+    updateDisplay();
+  })();
+</script>

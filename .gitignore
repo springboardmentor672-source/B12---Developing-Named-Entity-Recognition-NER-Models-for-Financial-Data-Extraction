@@ -1,0 +1,5 @@
+.claude
+.github
+.venv
+.env
+data/converted_docs
