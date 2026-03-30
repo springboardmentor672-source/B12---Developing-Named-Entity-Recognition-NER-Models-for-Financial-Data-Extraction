@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Document Intelligence</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+    <h1>📄 Document <span>Intelligence</span></h1>
+    <p class="subtitle">Extract insights from your documents</p>
+
+    <!-- Drag & Drop -->
+    <div class="upload-box" id="dropArea">
+        <p>📁 Drag & Drop your file here</p>
+        <p>or</p>
+        <input type="file" id="fileInput" hidden>
+        <button onclick="document.getElementById('fileInput').click()">Browse File</button>
+        <p id="fileName"></p>
+    </div>
+
+    <button class="analyze-btn" onclick="uploadFile()">Analyze Document</button>
+
+    <!-- Loader -->
+    <div id="loader" class="loader hidden"></div>
+
+    <!-- Results -->
+    <div id="result" class="result"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

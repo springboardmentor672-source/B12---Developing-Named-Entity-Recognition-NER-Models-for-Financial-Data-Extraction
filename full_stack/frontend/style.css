@@ -1,0 +1,88 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(to right, #667eea, #764ba2);
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+h1 span {
+    color: #ffd369;
+}
+
+.subtitle {
+    margin-bottom: 20px;
+}
+
+/* Upload Box */
+.upload-box {
+    border: 2px dashed white;
+    padding: 40px;
+    width: 350px;
+    margin: auto;
+    border-radius: 15px;
+    background: rgba(255,255,255,0.1);
+    cursor: pointer;
+}
+
+.upload-box:hover {
+    background: rgba(255,255,255,0.2);
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 8px;
+    background: #ffd369;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.analyze-btn {
+    margin-top: 20px;
+}
+
+/* Loader */
+.loader {
+    margin: 20px auto;
+    border: 6px solid #f3f3f3;
+    border-top: 6px solid #ffd369;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+}
+
+.hidden {
+    display: none;
+}
+
+@keyframes spin {
+    100% { transform: rotate(360deg); }
+}
+
+/* Result Cards */
+.result {
+    margin-top: 30px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    background: white;
+    color: black;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+/* Sentiment colors */
+.positive { border-left: 6px solid green; }
+.negative { border-left: 6px solid red; }
+.neutral { border-left: 6px solid gray; }
