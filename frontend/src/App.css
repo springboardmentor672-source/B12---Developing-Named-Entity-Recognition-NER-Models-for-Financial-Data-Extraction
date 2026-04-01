@@ -14,7 +14,6 @@ body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   margin: 0;
   padding: 0;
-  /* Subtle glowing orbs in the background */
   background-image:
     radial-gradient(circle at 15% 50%, rgba(46, 160, 67, 0.08), transparent 25%),
     radial-gradient(circle at 85% 30%, rgba(56, 139, 253, 0.08), transparent 25%);
@@ -31,20 +30,15 @@ header {
   margin-bottom: 50px;
 }
 
-/* --- UPDATED TITLE STYLES --- */
 header h1 {
   font-size: 3.2rem; 
   font-weight: 800;  
   background: -webkit-linear-gradient(45deg, #4ade80, #60a5fa); 
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  
-  /* --- THE FIX IS HERE --- */
-  line-height: 1.2;       /* Forces the line to be tall enough for the font */
-  padding-bottom: 15px;   /* Prevents the gradient from getting cut off */
-  margin-bottom: 5px;     /* Keeps the spacing balanced with the subtitle */
-  /* ----------------------- */
-  
+  line-height: 1.2;       
+  padding-bottom: 15px;   
+  margin-bottom: 5px;     
   filter: drop-shadow(0px 4px 15px rgba(96, 165, 250, 0.3));
 }
 
@@ -54,7 +48,6 @@ header p {
   font-weight: 500;
   letter-spacing: 0.5px;
 }
-/* ---------------------------- */
 
 /* Glassmorphism Upload Panel */
 .upload-section {
@@ -222,3 +215,42 @@ input[type="file"] {
 ::-webkit-scrollbar-track { background: var(--bg-dark); }
 ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
 ::-webkit-scrollbar-thumb:hover { background: #484f58; }
+
+/* --- SENTIMENT ANALYSIS STYLES --- */
+.sentiment-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: 5px;
+}
+
+.sentiment-item {
+  background: rgba(0, 0, 0, 0.3);
+  border-left: 4px solid var(--glass-border);
+  padding: 15px;
+  border-radius: 4px 8px 8px 4px;
+  font-size: 0.95rem;
+  color: #c9d1d9;
+  line-height: 1.5;
+}
+
+.sentiment-item.positive { border-left-color: #3fb950; }
+.sentiment-item.negative { border-left-color: #f85149; }
+.sentiment-item.neutral { border-left-color: #8b949e; }
+
+.sentiment-label {
+  font-size: 0.75rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+  display: inline-block;
+  letter-spacing: 0.5px;
+}
+
+.sentiment-label.positive { background: rgba(63, 185, 80, 0.15); color: #3fb950; }
+.sentiment-label.negative { background: rgba(248, 81, 73, 0.15); color: #f85149; }
+.sentiment-label.neutral { background: rgba(139, 148, 158, 0.15); color: #8b949e; }

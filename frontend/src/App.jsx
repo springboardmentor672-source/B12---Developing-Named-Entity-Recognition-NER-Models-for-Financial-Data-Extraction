@@ -7,11 +7,12 @@ function App() {
   const [file, setFile] = useState(null)
   const [loading, setLoading] = useState(false)
   const [status, setStatus] = useState('')
-  const [statusType, setStatusType] = useState('') // 'processing', 'success', 'error'
+  const [statusType, setStatusType] = useState('') 
   
   const [markdown, setMarkdown] = useState('')
   const [memo, setMemo] = useState('')
   const [entities, setEntities] = useState([])
+  const [sentiment, setSentiment] = useState([]) // <-- NEW: Sentiment State
 
   const API_BASE_URL = "http://127.0.0.1:8000"
 
@@ -30,6 +31,7 @@ function App() {
     setMarkdown('')
     setMemo('')
     setEntities([])
+    setSentiment([]) // <-- NEW: Reset Sentiment
 
     try {
       setStatus('Converting PDF to text...')
@@ -53,6 +55,12 @@ function App() {
       const nerRes = await axios.post(`${API_BASE_URL}/analyze/ner/`, textPayload)
       setEntities(nerRes.data.entities)
 
+      // --- NEW: Sentiment API Call ---
+      setStatus('Analyzing Market Sentiment...')
+      const sentimentRes = await axios.post(`${API_BASE_URL}/analyze/sentiment/`, textPayload)
+      setSentiment(sentimentRes.data.results)
+      // -------------------------------
+
       setStatus('Analysis Complete! ✅')
       setStatusType('success')
 
@@ -72,7 +80,6 @@ function App() {
         <p>Enterprise-Grade Document Intelligence</p>
       </header>
 
-      {/* Upload Section */}
       <div className="upload-section">
         <input type="file" accept=".pdf" onChange={handleFileChange} />
         <br />
@@ -84,10 +91,9 @@ function App() {
         )}
       </div>
 
-      {/* Results Section */}
       <div className="results-grid">
         
-        {/* Left Column: Memo & NER */}
+        {/* Left Column: Memo, Sentiment & NER */}
         <div className="main-content">
           {memo && (
             <div className="card">
@@ -97,6 +103,24 @@ function App() {
               </div>
             </div>
           )}
+
+          {/* --- NEW: Sentiment Analysis Card --- */}
+          {sentiment.length > 0 && (
+            <div className="card">
+              <h2>⚖️ Market Sentiment</h2>
+              <div className="sentiment-list">
+                {sentiment.map((item, idx) => (
+                  <div key={idx} className={`sentiment-item ${item.label.toLowerCase()}`}>
+                    <span className={`sentiment-label ${item.label.toLowerCase()}`}>
+                      {item.label} ({(item.score * 100).toFixed(1)}%)
+                    </span>
+                    <div>{item.sentence}</div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+          {/* ------------------------------------ */}
 
           {entities.length > 0 && (
             <div className="card">

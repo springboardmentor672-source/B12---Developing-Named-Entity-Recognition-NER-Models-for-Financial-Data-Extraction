@@ -1,0 +1,17 @@
+[
+    {
+        "sentence": "Alphabet Announces Third Quarter 2025 Results MOUNTAIN VIEW, Calif. \u2013 October 29, 2025 \u2013 Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial results for the quarter ended September 30, 2025. - Consolidated Alphabet revenues in Q3 2025 increased 16%, or 15% in constant currency, year over year to $102.3 billion.",
+        "label": "positive",
+        "score": 0.9524997472763062
+    },
+    {
+        "sentence": "Google Search & other, YouTube ads, Google subscriptions, platforms, and devices, and Google Cloud each delivered double-digit growth in Q3. - Google Services revenues increased 14% to $87.1 billion, reflecting robust performance across Google Search & other, Google subscriptions, platforms, and devices, and YouTube ads. - Google Cloud revenues increased 34% to $15.2 billion, led by growth in Google Cloud Platform (GCP) across core products, AI Infrastructure and Generative AI Solutions. - Total operating income increased 9% and operating margin was 30.5%.",
+        "label": "positive",
+        "score": 0.9612014889717102
+    },
+    {
+        "sentence": "Excluding the $3.5 billion charge related to the European Commission (EC) fine, operating income increased 22% and operating margin was 33.9%, benefitting from strong revenue growth and continued efficiencies in the expense base. - Other income reflected a net gain of $12.8 billion, primarily the result of net unrealized gains on our nonmarketable equity securities. - Net income increased 33% and EPS increased 35% to $2.87. - With the growth across our business and demand from Cloud customers, we now expect 2025 capital expenditures to be in a range of $91 billion to $93 billion. \u201cAlphabet had a terr",
+        "label": "positive",
+        "score": 0.9475828409194946
+    }
+]
