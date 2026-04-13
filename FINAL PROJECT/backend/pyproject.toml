@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ner-project"
+version = "0.1.0"
+description = "NER and document processing for financial texts"
+requires-python = ">=3.11"
+dependencies = [
+    "transformers>=4.21.0",
+    "torch>=1.12.0",
+    "docling",
+    "spacy>=3.7.0",
+    "en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl",
+    "pypdfium2>=4.0.0",
+    "nltk>=3.9.2",
+    "langextract",
+    "python-dotenv",
+    "fastapi",
+    "uvicorn",
+    "python-multipart"
+]
+
+[tool.setuptools]
+packages = []
+py-modules = ["ner_extractor"]  # List your modules here, e.g., if you add document_converter.py later
+
+[tool.setuptools.package-data]
+"*" = ["*.txt", "*.md"]
