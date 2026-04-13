@@ -1,0 +1,104 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: 
+        linear-gradient(rgba(248, 250, 252, 0.95), rgba(248, 250, 252, 0.95)),
+        url("https://www.transparenttextures.com/patterns/cubes.png");
+    text-align: center;
+    color: #1e293b;
+    margin: 0;
+}
+
+.container {
+    margin-top: 60px;
+}
+
+/* Title */
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #1e3a8a;
+}
+
+.subtitle {
+    color: #64748b;
+    margin-bottom: 30px;
+}
+
+/* Upload Box */
+.upload-box {
+    display: inline-block;
+    padding: 12px 25px;
+    background: #e2e8f0;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 500;
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+
+.upload-box:hover {
+    background: #cbd5f5;
+}
+
+/* Button */
+button {
+    display: block;
+    margin: 15px auto;
+    padding: 12px 25px;
+    background: #1e3a8a;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #1d4ed8;
+}
+
+/* Loader */
+#loading {
+    margin-top: 15px;
+    color: #475569;
+}
+
+/* Animated dots */
+.dots::after {
+    content: "";
+    animation: dots 1.5s infinite;
+}
+
+@keyframes dots {
+    0% { content: ""; }
+    33% { content: "."; }
+    66% { content: ".."; }
+    100% { content: "..."; }
+}
+
+/* Success Message */
+.success {
+    color: green;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+/* Cards */
+.card {
+    background: white;
+    margin: 25px auto;
+    padding: 20px;
+    width: 75%;
+    border-radius: 12px;
+    text-align: left;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.card h2 {
+    color: #1e3a8a;
+}
+
+.hidden {
+    display: none;
+}
