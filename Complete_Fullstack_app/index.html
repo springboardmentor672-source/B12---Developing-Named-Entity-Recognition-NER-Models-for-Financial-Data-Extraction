@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>NLP Full Analysis</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+    <h1>🧠 NLP Full Analyzer</h1>
+    <p>PDF → Markdown + NER + Sentiment + Entity Extraction</p>
+
+    <input type="file" id="fileInput" accept=".pdf">
+    <br><br>
+
+    <button onclick="upload()">Analyze PDF</button>
+
+    <p id="loading" class="hidden">⏳ Processing...</p>
+
+    <div id="result"></div>
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
