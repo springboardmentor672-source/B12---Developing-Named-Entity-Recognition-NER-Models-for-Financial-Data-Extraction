@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: ner-project
+Version: 0.1.0
+Summary: NER and document processing for financial texts
+Requires-Python: >=3.11
+Requires-Dist: transformers>=4.21.0
+Requires-Dist: torch>=1.12.0
+Requires-Dist: docling
+Requires-Dist: spacy>=3.7.0
+Requires-Dist: en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl
+Requires-Dist: pypdfium2>=4.0.0
+Requires-Dist: nltk>=3.9.2
+Requires-Dist: langextract
+Requires-Dist: python-dotenv
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-multipart
